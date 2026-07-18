@@ -1,0 +1,21 @@
+﻿StageTitle,Giới thiệu trò chơi
+Story Background/Content/Story,"Bạn là một sinh viên.
+Học kỳ này, có một lớp yêu cầu sinh viên chuẩn bị thuyết trình vào tuần giữa kỳ.
+Bạn mất nhiều thời gian để chuẩn bị các slide liên quan đến khóa học.
+Tuy nhiên, sinh viên cần kiểm soát thời gian trong quá trình thuyết trình.
+Vì vậy bạn phải đơn giản hóa nội dung báo cáo của mình.
+Trong khi thực hiện các thay đổi đối với báo cáo, bạn muốn đảm bảo rằng nội dung đã xóa có thể được khôi phục.
+Vì vậy, bạn quyết định quản lý bản trình bày bằng 'backing up files'.
+Hãy cố gắng hoàn thành báo cáo giữa kỳ bằng phương pháp này."
+Stage Quest/1,Mở cửa sổ 'File Manager'.
+Stage Quest/2,Sao lưu tệp 'MidtermReport_v1.ppt'.
+Stage Quest/3,Đổi tên tập tin sau khi sao lưu.
+Stage Quest/4,Đơn giản hóa nội dung của tệp phiên bản mới nhất.
+Stage Quest/5,Sao lưu tệp 'MidtermReport_v2.ppt'.
+Stage Quest/6,Đổi tên tập tin sau khi sao lưu.
+Stage Quest/7,Sửa đổi nội dung của tập tin phiên bản mới nhất.
+DefaultData/File data/ListContent/1,Report Title: Project Management Methods\nIntroduction to Backup Files\nHow to Manage Projects through Backup Files <color=#CF001C>(to be deleted)</color>\nIntroduction to Git\nComparison of two methods <color=#CF001C>(to be modified)</color>\mComparison of two methods using Tables and Examples (modified)
+DefaultData/File data/ListFileName/1,MidtermReport_v1.ppt
+DefaultData/File data/ListLocation/1,MidtermReport_v1.ppt
+Quest Filter/Valider/Target File Name/v2,MidtermReport_v2.ppt
+Quest Filter/Valider/Target File Name/v3,MidtermReport_v3.ppt

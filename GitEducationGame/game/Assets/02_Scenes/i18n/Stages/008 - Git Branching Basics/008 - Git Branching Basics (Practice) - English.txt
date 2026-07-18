@@ -1,0 +1,73 @@
+﻿StageTitle,Hướng dẫn cơ bản về phân nhánh Git
+Story Background/Content/Story,"Bạn là thành viên mới gia nhập nhóm phát triển trò chơi.
+Nhóm hiện đang phát triển một trò chơi giải đố có nhiều cấp độ.
+
+Nhiệm vụ đầu tiên của bạn là thiết kế nội dung mới dựa trên mẫu cấp độ.
+Điều này sẽ giúp bạn hiểu cách các thành viên trong nhóm thiết kế trò chơi.
+Thực hiện đúng nguyên tắc phát triển,
+các nhà phát triển nên triển khai các tính năng trên các nhánh của riêng họ.
+
+Hãy thử tạo một nhánh mới và bắt đầu thiết kế một cấp độ mới!"
+Stage Quest/1,Mở cửa sổ 'Commit History'
+Stage Quest/2,Tạo một nhánh trên commit mới nhất
+Stage Quest/3,Xác minh trạng thái của cửa sổ 'Commit History'
+Stage Quest/4,Xem tất cả các nhánh trong kho lưu trữ cục bộ
+Stage Quest/5,"Chuyển sang nhánh mới tạo
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/6,Thiết kế cấp độ thử nghiệm trên nhánh mới
+Stage Quest/7,"Tạo một commit mới
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/8,"Chuyển sang nhánh 'master'
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/9,"Xóa nhánh vừa tạo
+và cập nhật cửa sổ 'Commit History'"
+CommitHistoryData/File data/ListFileName/0,Game_Project
+CommitHistoryData/File data/ListLocation/0,Game_Project
+CommitHistoryData/File data/ListContent/1,Game Title\nLevel Selection\nLoad Level\nGame Controls
+CommitHistoryData/File data/ListLocation/1,Game_Project\Main_Game.c
+CommitHistoryData/File data/ListFileName/1,Main_Game.c
+CommitHistoryData/File data/ListFileName/2,Game_Scenes
+CommitHistoryData/File data/ListContent/2,Game_Project\Game_Scenes
+CommitHistoryData/File data/ListLocation/2,Game_Project\Game_Scenes
+CommitHistoryData/File data/ListContent/3,Level Name: Tutorial\nLevel Objective\nLevel Design
+CommitHistoryData/File data/ListFileName/3,Level_1-1.scene
+CommitHistoryData/File data/ListLocation/3,Game_Project\Game_Scenes\Level_1-1.scene
+CommitHistoryData/File data/ListContent/4,Level Name: New Challenge\nLevel Objective\nLevel Design
+CommitHistoryData/File data/ListFileName/4,Level_1-2.scene
+CommitHistoryData/File data/ListLocation/4,Game_Project\Game_Scenes\Level_1-2.scene
+CommitHistoryData/File data/ListContent/5,Level Name: Teammate Joins\nLevel Objective\nLevel Design
+CommitHistoryData/File data/ListFileName/5,Level_1-3.scene
+CommitHistoryData/File data/ListLocation/5,Game_Project\Game_Scenes\Level_1-3.scene
+CommitHistoryData/File data/ListContent/6,Level Name\nLevel Objective\aYour Level Design
+CommitHistoryData/File data/ListFileName/6,Test_Level.scene
+CommitHistoryData/File data/ListLocation/6,Game_Project\Game_Scenes\Test_Level.scene
+CommitHistoryData/File data/ListLocation/7,Game_Project\.git
+CommitHistoryData/CommitMessage/1,Initialize puzzle game project
+CommitHistoryData/CommitMessage/2,Level 1-1 design completed
+CommitHistoryData/CommitMessage/3,Level 1-2 design completed
+CommitHistoryData/CommitMessage/4,Level 1-3 design completed
+Quest Tracker/StagingStatusData/ListLocation/0,Course_Folder\Git_Learning_Diary.txt
+Quest Filter/Valider/Target File Name/0,Test_Level.scene
+Quest Filter/Valider/Target File Name/0,Test_Level.scene
+DefaultData/Commit data/commitMessageList/0,New game scene - test level
+DefaultData/Commit data/commitMessageList/1,create a new commit
+DefaultData/Commit data/commitMessageList/2,Add game content
+DefaultData/Commit data/commitMessageReasonList/0,"Commit Message Analysis:
+Clearly specifies that this commit created a new game scene."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit Message Analysis:
+The commit message is too simple."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit Message Analysis:
+Fails to provide details regarding the added content."
+DefaultData/BranchName data/branchNameList/0,new-test-level
+DefaultData/BranchName data/branchNameList/1,level
+DefaultData/BranchName data/branchNameList/2,NewLevel
+DefaultData/BranchName data/branchNameReasonList/0,"Branch Naming Analysis:
+Appropriate: Uses lowercase letters and differentiates words using the '-' symbol."
+DefaultData/BranchName data/branchNameReasonList/1,"Branch Naming Analysis:
+Appropriate: Uses lowercase letters.
+Inappropriate: Too generic; might cause confusion for other developers."
+DefaultData/BranchName data/branchNameReasonList/2,"Branch Naming Analysis:
+Inappropriate: Uses uppercase letters in some parts."
+NPCCommitData/NPC1,Colleague A
+NPCCommitData/NPC2,Colleague B
+NPCCommitData/NPC3,Colleague C

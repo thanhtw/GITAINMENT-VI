@@ -1,0 +1,50 @@
+﻿Quest Filter/Valider/Modify File/Modify Keyword,(to be modified)
+Quest Filter/Valider/Delete File/Delete Keyword,(to be deleted)
+FileContentWindow/AddButtonSelection/Wrong Quest,"Nếu mục tiêu hiện tại không phải là 'add content',
+nên tránh thêm nội dung."
+FileContentWindow/AddButtonSelection/Wrong FileName,"Nếu tệp không phải là mục tiêu hiện tại,
+nên tránh thêm nội dung vào tập tin này."
+FileContentWindow/AddButtonSelection/Wrong Branch,Đã thêm nội dung vào sai nhánh!
+FileContentWindow/AddButtonSelection/Detached HEAD,Không thêm nội dung khi ở trạng thái HEAD tách rời!
+FileContentWindow/RenameButtonSelection/Wrong Quest,"Nếu mục tiêu hiện tại không phải là 'rename file',
+nên tránh đổi tên tập tin."
+FileContentWindow/RenameButtonSelection/Wrong FileName,"Nếu tệp không phải là mục tiêu hiện tại,
+nên tránh đổi tên tập tin này."
+File/FileFunctionSelection/Wrong Quest,"Nếu mục tiêu hiện tại không phải là 'copy file',
+nên tránh sao chép tập tin."
+File/FileFunctionSelection/Wrong FileName,"Nếu tệp không phải là mục tiêu hiện tại,
+nên tránh sao chép vào tập tin này."
+FileContentWindow/ModifyButtonSelection/Wrong Quest,"Nếu mục tiêu hiện tại không phải là 'modify file',
+nên tránh sửa đổi tập tin."
+FileContentWindow/ModifyButtonSelection/Wrong FileName,"Nếu tệp không phải là mục tiêu hiện tại,
+nên tránh sửa đổi tập tin này."
+FileContentWindow/ModifyButtonSelection/Wrong Content,Vui lòng sửa đổi dòng được chỉ định trong mục tiêu hiện tại.
+FileContentWindow/ModifyButtonSelection/Wrong Branch,在錯誤的分支位置上修改內容!(ENG)
+FileContentWindow/ModifyButtonSelection/Detached HEAD,請勿在分離 HEAD 的情況下修改檔案內容!(ENG)
+FileContentWindow/DeleteButtonSelection/Wrong Quest,"Nếu mục tiêu hiện tại không phải là 'delete file',
+nên tránh xóa tập tin."
+FileContentWindow/DeleteButtonSelection/Wrong FileName,"Nếu tệp không phải là mục tiêu hiện tại,
+nên tránh xóa tập tin này."
+FileContentWindow/DeleteButtonSelection/Wrong Content,Vui lòng xóa dòng được chỉ định trong mục tiêu hiện tại.
+Git Commands/git branch/DoNotDeleteBranch,Không xóa chi nhánh '{token1}'
+Git Commands/git branch/WrongLocation(Create),"Tạo chi nhánh ở sai vị trí '{token1}'. 
+Vui lòng di chuyển đến đúng nhánh theo mục tiêu hiện tại."
+Git Commands/git checkout/afterCreateCommit,Vui lòng cập nhật cửa sổ 'Commit History' trước!
+Git Commands/git checkout/afterChangeFiles,Vui lòng commit nội dung đã sửa đổi vào kho lưu trữ trước!
+Git Commands/git merge/HEADMerge,"Không nên sử dụng lệnh 'git merge HEAD'.
+Vui lòng sử dụng 'git merge branch_name' thay thế."
+Git Commands/git merge/HEADIsCurrentBranch,Không hợp nhất các nhánh khi ở trạng thái HEAD tách rời!
+Git Commands/git merge/MergeError,"Hợp nhất chi nhánh không thành công! 
+Hãy đảm bảo rằng nhánh hiện tại và nhánh hợp nhất mục tiêu là chính xác."
+Git Commands/git merge/CheckFirst,Vui lòng cập nhật cửa sổ 'Commit History' trước.
+Git Commands/git merge/MergeConflict(During),Vui lòng giải quyết xung đột hợp nhất trước tiên.
+Git Commands/git merge/MergeConflict(AddReset),Vui lòng giải quyết tất cả các tệp xung đột trước tiên.
+Git Commands/git merge/MergeConflict(JustFixed),Vui lòng cập nhật cửa sổ 'Commit History' trước.
+Git Commands/git merge/MergeConflict(CommitFinalCheck),Vui lòng di chuyển tất cả các tệp xung đột đã được giải quyết đến Staging Area trước khi commit.
+Git Commands/git clone/Wrong Location,Nhân bản kho lưu trữ ở sai vị trí.
+Git Commands/git clone/Wrong Quest,"Nếu mục tiêu hiện tại không phải là 'Clone Remote Repository',
+không nên sao chép kho lưu trữ."
+Git Commands/git clone/Success,Nhân bản kho lưu trữ từ xa thành công!
+Git Commands/git pull/WrongTargetBranch,Vui lòng đồng bộ hóa nhánh mục tiêu theo mục tiêu hiện tại.
+Git Commands/git push/WrongTargetBranch(Delete),Hãy làm theo mục tiêu hiện tại để xóa chi nhánh từ xa được nhắm mục tiêu.
+Git Commands/git push/WrongTargetBranch(Add),Vui lòng thực hiện theo mục tiêu hiện tại để tạo/cập nhật nhánh từ xa được nhắm mục tiêu.

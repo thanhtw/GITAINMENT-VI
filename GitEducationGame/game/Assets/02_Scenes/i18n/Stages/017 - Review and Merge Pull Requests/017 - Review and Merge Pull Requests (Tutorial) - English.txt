@@ -1,0 +1,57 @@
+﻿StageTitle,Xem xét và hợp nhất các Pull Request
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management',
+giáo viên yêu cầu học sinh hợp tác và cùng nhau phát triển một trang web.
+
+Bạn và các thành viên trong nhóm của bạn đang quản lý dự án với Git.
+Mỗi thành viên phát triển các tính năng trên nhánh của họ.
+
+Thành viên nhóm A đã thêm nội dung vào tệp 'README.md' trên nhánh 'member-branch' của anh ấy.
+
+Anh ấy đã hoàn thành quá trình phát triển và tạo Pull Request để hợp nhất,
+và bạn sẽ là người đánh giá để kiểm tra nội dung đã thay đổi của anh ấy.
+
+Bây giờ, vui lòng xem lại yêu cầu hợp nhất này.
+Sau đó hợp nhất Pull Request vào nhánh 'master'."
+Stage Quest/1,Mở cửa sổ 'Web Browser'.
+Stage Quest/2,Thêm đề xuất sửa đổi trên Pull Request.
+Stage Quest/3,Phê duyệt Pull Request.
+Stage Quest/4,Hợp nhất Pull Request.
+NPCCommitData/NPC1,Team Member A
+CommitHistoryData/File data/ListContent/1/v1,# Shopping Website Project
+CommitHistoryData/File data/ListContent/1/v2,# Shopping Website Project\nShopping website introduction
+CommitHistoryData/File data/ListContent/1/v3,# Happy Shopping Store - Shopping Website Project\nShopping website introduction
+CommitHistoryData/File data/ListContent/1/v4,# Happy Shopping Store - Shopping Website Project\nShopping website introduction\nReason for creating the website:\nThis website was created in the 'Programming' course.\nWe used Git to manage the project. \nWe want to improve our proranning skills by creating this website together.
+CommitHistoryData/File data/ListContent/1/v5,# Happy Shopping Store - Shopping Website Project\nShopping website introduction\nReason for creating the website:\nThis website was created in the 'Programming' course.\nWe used Git to manage the project. \nWe want to improve our programming skills by creating this website together.
+CommitHistoryData/File data/ListLocation/0,shopping-website
+CommitHistoryData/File data/ListLocation/1,shopping-website\README.md
+CommitHistoryData/File data/ListLocation/2,shopping-website\.git
+CommitHistoryData/CommitMessage/1,Added README file.
+CommitHistoryData/CommitMessage/2,Added README content: Introduction to the shopping website.
+CommitHistoryData/CommitMessage/3,Changed README title: Added shopping website project name.
+CommitHistoryData/CommitMessage/4,Added README content: Reason for creating the website.
+CommitHistoryData/CommitMessage/5,Corrected README content: Typo in the reason for creating the website.
+CommitHistoryData/File data/ListFileName/0,shopping-website
+CommitHistoryData/File data/ListFileName/1,README.md
+RepoQuestData/Repo Quest/PRTitle,Added README content: Website name and reason for creation.
+RepoQuestData/Repo Quest/PRDes,"In this Pull Request, I made changes to the 'member-branch' branch.
+I've added the website name 'Happy Shopping Store'.
+Then I add the reason for creating this website."
+BrowserWindow/PRDetailed/FileContent1,# Happy Shopping Store - Shopping Website Project
+BrowserWindow/PRDetailed/FileContent2,Shopping website introduction
+BrowserWindow/PRDetailed/FileContent3,Reason for creating the website:
+BrowserWindow/PRDetailed/FileContent4,This website was created in the 'Programming' course.
+BrowserWindow/PRDetailed/FileContent5,We used Git to manage the project. 
+BrowserWindow/PRDetailed/FileContent6,We want to improve our proranning skills by creating this website together.
+BrowserWindow/PRDetailed/FileContent6(fixed),We want to improve our programming skills by creating this website together.
+BrowserWindow/PRDetailed/Msg_2_ReviewChange(FileChange)/MainContent,"Xin chào, tôi nhận thấy có lỗi đánh máy trong phần 'Reason for creating the website'.
+Xin vui lòng thực hiện sửa chữa. 
+Cảm ơn."
+BrowserWindow/PRDetailed/Msg_2_ReviewChange(FileChange)/ReplyMessage1,Vui lòng đổi 'proranning' thành 'programming'.
+BrowserWindow/PRDetailed/Msg_2_ReviewChange(FileChange)/ReplyMessage2,"Cảm ơn lời đề nghị của bạn,
+Tôi sẽ kiểm tra và thực hiện các thay đổi."
+BrowserWindow/PRDetailed/Msg_2_ReviewChange(FileChange)/ReplyMessage3,"Xin chào, tôi đã giải quyết được vấn đề lỗi đánh máy. 
+Vui lòng cho tôi biết nếu cần thêm bất kỳ thay đổi nào.
+Cảm ơn."
+BrowserWindow/PRDetailed/Msg_3_ReviewChange(Approve)_Approve,"Đã xem xét và xác nhận rằng nội dung 'README.md' ổn. 
+Đang phê duyệt yêu cầu hợp nhất này."

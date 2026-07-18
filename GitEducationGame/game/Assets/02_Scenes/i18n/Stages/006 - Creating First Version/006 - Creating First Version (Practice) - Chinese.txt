@@ -1,0 +1,46 @@
+﻿StageTitle,"創建您的第一個 Git 專案版本"
+Story Background/Content/Story,"您是一位正在學習 Git 的學生，您記錄著自己的學習過程。
+
+最近，您學習到如何使用新的 Git 指令
+將 '暫存區域' 的內容推入到儲存庫以做成一次版本記錄。
+
+您決定將這份學習日記推入儲存庫中，
+以證明您已經學會如何使用 Git 來管理專案。"
+Stage Quest/1,"開啟 '檔案管理' 視窗"
+Stage Quest/2,"將 'Git學習日記.txt' 加入 '已追蹤'
+並確認暫存區域"
+Stage Quest/3,"提交日記的第一個版本"
+Stage Quest/4,"開啟 '提交記錄' 視窗"
+Stage Quest/5,"增加日記內容"
+Stage Quest/6,"將 'Git學習日記.txt' 加入 '已追蹤'
+並確認暫存區域"
+Stage Quest/7,"提交日記的第二個版本"
+Stage Quest/8,"確認 '提交記錄' 視窗內容"
+DefaultData/File data/ListFileName/0,"課程資料夾"
+DefaultData/File data/ListLocation/0,"課程資料夾"
+DefaultData/File data/ListContent/1,"Git 學習日記：\nDay 1：一開始只能通過備份檔案來管理專案\nDay 2：了解版本控制與 Git 是什麼，以及它們的特點\nDay 3：第一次通過 Git 指令來新建本地儲存庫\nDay 5：了解 '暫存區域' 是什麼並通過 Git 指令來操作此區域\aDay 7：順利地通過 Git 指令將 '暫存區域' 的內容提交到儲存庫中！"
+DefaultData/File data/ListFileName/1,"Git學習日記.txt"
+DefaultData/File data/ListLocation/1,"課程資料夾\Git學習日記.txt"
+DefaultData/File data/ListLocation/2,"課程資料夾\.git"
+Quest Tracker/StagingStatusData/ListLocation/0,"課程資料夾\Git學習日記.txt"
+Quest Filter/Valider/Target File Name/0,"Git學習日記.txt"
+DefaultData/Commit data/commitMessageList/0,"新建提交"
+DefaultData/Commit data/commitMessageList/1,"初始化 '課程資料夾' 專案"
+DefaultData/Commit data/commitMessageList/2,"新增一個檔案"
+DefaultData/Commit data/commitMessageList/4,"增加日記內容：推入儲存庫"
+DefaultData/Commit data/commitMessageList/5,"更新專案中的內容"
+DefaultData/Commit data/commitMessageList/6,"新建第二個提交"
+DefaultData/Commit data/commitMessageReasonList/0,"提交訊息分析：
+提交訊息過於簡單"
+DefaultData/Commit data/commitMessageReasonList/1,"提交訊息分析：
+明確指出此提交用於初始化專案"
+DefaultData/Commit data/commitMessageReasonList/2,"提交訊息分析：
+提交訊息過於簡單
+未提供明確的檔案訊息"
+DefaultData/Commit data/commitMessageReasonList/4,"提交訊息分析：
+明確指出修改的內容以及與檔案相關的訊息"
+DefaultData/Commit data/commitMessageReasonList/5,"提交訊息分析：
+提交訊息過於簡單
+未提供明確的檔案訊息"
+DefaultData/Commit data/commitMessageReasonList/6,"提交訊息分析：
+提交訊息過於簡單"

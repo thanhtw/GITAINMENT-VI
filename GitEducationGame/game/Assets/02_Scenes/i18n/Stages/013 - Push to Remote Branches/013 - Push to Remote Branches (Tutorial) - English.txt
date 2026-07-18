@@ -1,0 +1,55 @@
+﻿StageTitle,Tạo và đẩy các nhánh từ xa
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management',
+giáo viên yêu cầu học sinh hợp tác và cùng nhau phát triển một trang web.
+
+Để các thành viên trong nhóm cùng nhau tham gia thiết kế web,
+nhóm quyết định quản lý dự án bằng Git.
+Bạn đã tạo một kho lưu trữ từ xa và sao chép nó vào máy tính của mình.
+
+Tuân theo nguyên tắc phát triển,
+các thành viên trong nhóm nên phát triển các tính năng trên chi nhánh của họ.
+Nhánh chính cần duy trì ổn định, chờ các nhánh khác hoàn thiện phát triển trước khi sáp nhập.
+
+Bạn quyết định tạo một nhánh mới cho dự án này,
+và tải nội dung đã sửa đổi lên kho lưu trữ từ xa."
+Stage Quest/1,Mở cửa sổ 'Commit History'.
+Stage Quest/2,Tạo và chuyển sang một nhánh cục bộ mới.
+Stage Quest/3,Thêm nội dung vào 'README.md'.
+Stage Quest/4,"Tạo một commit mới.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/5,"Đẩy nhánh 'update-readme' vào kho lưu trữ từ xa.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/6,"Xóa nhánh 'update-readme' khỏi kho lưu trữ từ xa.
+Sau đó cập nhật cửa sổ 'Commit History'."
+CommitHistoryData/File data/ListContent/1,# Shopping Website Project\aReason for creating the website
+CommitHistoryData/File data/ListLocation/0,shopping-website
+CommitHistoryData/File data/ListLocation/1,shopping-website\README.md
+CommitHistoryData/File data/ListLocation/2,shopping-website\.git
+CommitHistoryData/File data/ListFileName/0,shopping-website
+CommitHistoryData/File data/ListFileName/1,README.md
+CommitHistoryData/CommitMessage/1,Added README file.
+DefaultData/Commit data/commitMessageList/0,Added the reason for creating the website in 'README.md' file.
+DefaultData/Commit data/commitMessageList/1,Saved development contents to commit
+DefaultData/Commit data/commitMessageList/2,Updated website content
+DefaultData/Commit data/commitMessageReasonList/0,"Commit message analysis:
+This commit message is clear and meaningful. 
+It let developers know about the added content."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit message analysis:
+This commit message is not clear.
+It does not provide enough development information."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit message analysis:
+Although this commit message mentions updating the website, it is still not clear.
+And the README file is meant to explain project details, not directly related to website content."
+DefaultData/BranchName data/branchNameList/0,update-readme
+DefaultData/BranchName data/branchNameList/1,updateWebsiteReadme
+DefaultData/BranchName data/branchNameList/2,update readme content
+DefaultData/BranchName data/branchNameReasonList/0,"Naming branch analysis:
+Good: Using lowercase letters and hyphens (-)."
+DefaultData/BranchName data/branchNameReasonList/1,"Naming branch analysis:
+Good: Partially uses lowercase letters. 
+Bad: Partially uses uppercase letters."
+DefaultData/BranchName data/branchNameReasonList/2,"Naming branch analysis:
+Good: Using lowercase letters.
+Bad: spaces to separate words."
+Quest Filter/Valider/Target File Name/0,README.md

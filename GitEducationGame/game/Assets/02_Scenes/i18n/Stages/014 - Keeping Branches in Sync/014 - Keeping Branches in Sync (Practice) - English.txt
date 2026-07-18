@@ -1,0 +1,46 @@
+﻿StageTitle,Giữ các nhánh được đồng bộ hóa
+Story Background/Content/Story,"Bạn là sinh viên đang học nửa sau của khóa học 'Project Management'. 
+Giáo viên đã yêu cầu học sinh thành lập nhóm và phát triển ứng dụng trên nền tảng dịch vụ Git.
+
+Bạn và các thành viên trong nhóm của bạn đã quyết định phát triển dự án 'Snake Game'.
+Nhóm sẽ áp dụng các phương pháp kiểm soát phiên bản để nâng cao hiệu quả phát triển.
+
+Nhiệm vụ chịu trách nhiệm của bạn là ghi tệp 'README'. 
+Cách đây không lâu, bạn đã hoàn thành phần 'Game Features' trên nhánh 'update-readme'. 
+
+Tuy nhiên, do sự cố gần đây với máy tính thông thường của bạn, 
+bạn không có lựa chọn nào khác ngoài việc tiếp tục làm việc trên một máy tính khác. 
+
+May mắn thay, trước khi máy tính gặp sự cố, 
+bạn đã đẩy các thay đổi của mình sang kho lưu trữ từ xa.
+
+Hiện tại, phiên bản dự án trên máy tính này chưa được cập nhật. 
+Nếu bạn muốn tiếp tục công việc trước đây của mình, 
+trước tiên bạn cần đồng bộ hóa tiến trình phát triển từ máy tính khác. 
+Bây giờ, vui lòng thử tìm nạp tiến trình phát triển của nhánh 'update-readme' từ xa."
+Stage Quest/1,Mở cửa sổ 'Commit History'
+Stage Quest/2,"Đồng bộ hóa nội dung của nhánh 'update-readme' từ xa
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/3,Xem tất cả các nhánh trong kho lưu trữ từ xa
+Stage Quest/4,"Tìm nạp nhánh từ xa 'main-script' vào kho lưu trữ cục bộ
+và cập nhật cửa sổ 'Commit History'"
+CommitHistoryData/File data/ListContent/1,# snake-game
+CommitHistoryData/File data/ListContent/2v1,Game execution logic\nScore system\nFruit object management
+CommitHistoryData/File data/ListContent/2v2,Game execution logic\nScore system\nFruit object management\nBomb object management
+CommitHistoryData/File data/ListContent/2v3,Game execution logic\nScore system\nFruit object management\nBomb object management\nPlayer sprint system\nEnergy bar system
+CommitHistoryData/File data/ListContent/1v2,"# snake-game\nThis is an improved version of the Snake Game.\nMultiple objects will appear in the game. Eating fruits will grant points, and the game ends if the player is blown up by a bomb."
+CommitHistoryData/File data/ListContent/1(update),"# snake-game\nThis is an improved version of the Snake Game.\nMultiple objects will appear in the game. Eating fruits will grant points, and the game ends if the player is blown up by a bomb.\nGame Features:\n<b>· </b>Multiple objects appear within a period of time\n<b>· </b>Bombs will explode after a period of time, and the game ends if the player is within the explosion radius\n<b>· </b>The game features an energy bar, allowing players to sprint"
+CommitHistoryData/File data/ListLocation/0,snake-game
+CommitHistoryData/File data/ListLocation/1,snake-game\README.md
+CommitHistoryData/File data/ListLocation/2,snake-game\Main_Script.cpp
+CommitHistoryData/File data/ListLocation/3,snake-game\.git
+CommitHistoryData/File data/ListFileName/0,snake-game
+CommitHistoryData/File data/ListFileName/1,README.md
+CommitHistoryData/File data/ListFileName/2,Main_Script.cpp
+NPCCommitData/NPC1,Classmate A
+CommitHistoryData/CommitMessage/1,Add README file
+CommitHistoryData/CommitMessage/2,Basic Snake Game completed
+CommitHistoryData/CommitMessage/3,Bomb feature design completed
+CommitHistoryData/CommitMessage/4,Player sprint allowed and energy bar system added
+CommitHistoryData/CommitMessage/5,Snake Game introduction
+CommitHistoryData/CommitMessage/6,Snake Game features introduction

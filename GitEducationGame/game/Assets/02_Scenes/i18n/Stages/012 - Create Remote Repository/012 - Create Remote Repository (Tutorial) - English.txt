@@ -1,0 +1,29 @@
+﻿StageTitle,Tạo kho lưu trữ từ xa đầu tiên của bạn
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management',
+giáo viên yêu cầu học sinh hợp tác và cùng nhau phát triển một trang web.
+
+Bạn đã nhớ từ trong khóa học:
+'Create a remote repository to manage the project to improve development efficiency.'
+
+Để các thành viên trong nhóm cùng nhau tham gia thiết kế web,
+nhóm quyết định quản lý dự án bằng Git.
+
+Bây giờ, trước tiên bạn cần tạo một kho lưu trữ từ xa trên nền tảng dịch vụ Git.
+Sau đó sao chép nó vào máy tính của bạn để bắt đầu xây dựng trang web."
+Stage Quest/1,Mở cửa sổ 'File Manager'.
+Stage Quest/2,Mở cửa sổ 'Web Browser'.
+Stage Quest/3,Nhập trang 'Create repository'.
+Stage Quest/4,Tạo một kho lưu trữ từ xa mới.
+Stage Quest/5,Sao chép kho lưu trữ từ xa vào thiết bị cục bộ của bạn.
+Stage Quest/6,Kiểm tra xem dự án nhân bản có được kết nối với kho lưu trữ từ xa mục tiêu hay không.
+CommitHistoryData/File data/ListFileName/0,Note.txt
+CommitHistoryData/File data/ListLocation/0,Note.txt
+CommitHistoryData/File data/ListContent/0,Title: How to Use Remote Repositories\nGo to the Git service platform\nCreate a remote repository\nClone it to your local computer by Git commands
+CommitHistoryData/CommitMessage/1,Add README file.
+CommitHistoryData/File data/ListContent/2,# test-remote-repo
+CommitHistoryData/File data/ListLocation/1,test-remote-repo
+CommitHistoryData/File data/ListLocation/2,test-remote-repo\README.md
+CommitHistoryData/File data/ListLocation/3,test-remote-repo\.git
+CommitHistoryData/File data/ListFileName/1,test-remote-repo
+CommitHistoryData/File data/ListFileName/2,README.md

@@ -1,0 +1,20 @@
+﻿StageTitle,Giới thiệu trò chơi
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management', giáo viên đã giới thiệu 
+các khái niệm về kiểm soát phiên bản và Git trong lớp.
+Sau giờ học, giáo viên giao một dự án.
+Học sinh được yêu cầu giới thiệu và so sánh hai phương pháp quản lý: 
+'backing up files' và 'version control'.
+Bây giờ các bạn hãy cố gắng hoàn thiện nội dung bài thuyết trình nhé."
+Stage Quest/1,Mở cửa sổ 'File Manager'
+Stage Quest/2,Sao lưu file 'Assignment_Report_v1.docx'
+Stage Quest/3,Đổi tên tệp được hỗ trợ-up
+Stage Quest/4,Thêm nội dung vào tập tin
+Stage Quest/5,Sao lưu file 'Assignment_Report_v2.docx'
+Stage Quest/6,Đổi tên tệp được hỗ trợ-up
+Stage Quest/7,Sửa đổi nội dung của phiên bản tập tin mới nhất
+DefaultData/File data/ListContent/1,Project Topic: Ways to Manage Projects\nIntroducing File Backup\nIntroducing What Git Is\nComparing Their Differences with a Table\aSummary: Backing up files is better suited for project management <color=#CF001C>(to be modified)</color>\mSummary: Version control is better suited for project management (modified)
+DefaultData/File data/ListFileName/1,Assignment_Report_v1.docx
+DefaultData/File data/ListLocation/1,Assignment_Report_v1.docx
+Quest Filter/Valider/Target File Name/v2,Assignment_Report_v2.docx
+Quest Filter/Valider/Target File Name/v3,Assignment_Report_v3.docx

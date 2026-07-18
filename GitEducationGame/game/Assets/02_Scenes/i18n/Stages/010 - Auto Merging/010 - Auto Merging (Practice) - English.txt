@@ -1,0 +1,53 @@
+﻿StageTitle,Tự động hợp nhất
+Story Background/Content/Story,"Bạn là một sinh viên.
+Gần đây, trong khóa học 'Mobile Application Development',
+giáo viên yêu cầu học sinh ghép đôi theo nhóm hai người để sử dụng co-create, một ứng dụng di động đơn giản.
+
+Bạn và đồng đội của mình quyết định phát triển một trò chơi mang tên ""Đoán số"".
+Đồng đội của bạn chịu trách nhiệm thiết kế bố cục và giao diện của ứng dụng di động,
+trong khi bạn chịu trách nhiệm triển khai logic thời gian chạy cốt lõi của trò chơi.
+
+Hiện tại đồng đội của bạn đã hoàn thành việc thiết kế giao diện di động 
+và đã đặt tác phẩm của họ trên nhánh 'ui-design'.
+
+Bạn cũng đã hoàn thành một phần quá trình phát triển logic trò chơi trên nhánh có tên 'java-activity'.
+Bây giờ, hãy tiếp tục hoàn thành việc phát triển logic trò chơi,
+và hợp nhất nội dung hoàn thành cuối cùng trở lại nhánh chính."
+Stage Quest/1,Mở cửa sổ 'Commit History'
+Stage Quest/2,Thêm logic trò chơi trên nhánh 'java-activity'
+Stage Quest/3,"Tạo một commit mới
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/4,"Hợp nhất nhánh 'ui-design' đã hoàn thành trở lại nhánh chính
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/5,"Hợp nhất nhánh 'java-activity' đã hoàn thành trở lại nhánh chính 
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/6,"Xóa tất cả các nhánh đã sáp nhập xong 
+và cập nhật cửa sổ 'Commit History'"
+CommitHistoryData/File data/ListFileName/0,Guess_Number_Project
+CommitHistoryData/File data/ListLocation/0,Guess_Number_Project
+CommitHistoryData/File data/ListContent/1v1,Please enter 4 digits:\nDigit Input Field
+CommitHistoryData/File data/ListContent/1v2,"Please enter 4 digits:\nDigit Input Field\nGuess Button\nExecution Result: 0A, 0B"
+CommitHistoryData/File data/ListContent/1,"Please enter 4 digits:\nDigit Input Field\nGuess Button\nExecution Result: 0A, 0B"
+CommitHistoryData/File data/ListFileName/1,activity_main.xml
+CommitHistoryData/File data/ListLocation/1,Guess_Number_Project\activity_main.xml
+CommitHistoryData/File data/ListContent/2,Button Click Event\nRandom Number Generation\nGet Player Input\aCompare Answers Feature
+CommitHistoryData/File data/ListContent/2v2,Button Click Event\nRandom Number Generation\nGet Player Input\nCompare Answers Feature
+CommitHistoryData/File data/ListFileName/2,Main_Activity.java
+CommitHistoryData/File data/ListLocation/2,Guess_Number_Project\Main_Activity.java
+CommitHistoryData/File data/ListLocation/3,Guess_Number_Project\.git
+CommitHistoryData/CommitMessage/1,Initialize mobile application project
+CommitHistoryData/CommitMessage/2,"Mobile layout design: Game instructions, input fields"
+CommitHistoryData/CommitMessage/3,"Mobile layout design: Guess button, execution results"
+CommitHistoryData/CommitMessage/4,Game logic design: Button clicks and capturing player actions
+DefaultData/Commit data/commitMessageList/0,Add code: Compare answers and return results to the player
+DefaultData/Commit data/commitMessageList/1,Complete game development
+DefaultData/Commit data/commitMessageList/2,Merge commit
+DefaultData/Commit data/commitMessageReasonList/0,"Commit Message Analysis:
+The commit message is clear and specific, 
+helping developers understand the purpose of this commit."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit Message Analysis:
+Fails to specify the content modified in this commit."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit Message Analysis:
+Unrelated to the current development content."
+NPCCommitData/NPC1,Classmate A
+Quest Filter/Valider/Target File Name/0,Main_Activity.java

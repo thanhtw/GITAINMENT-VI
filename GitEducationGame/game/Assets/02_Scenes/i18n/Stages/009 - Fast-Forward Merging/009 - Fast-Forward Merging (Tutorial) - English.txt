@@ -1,0 +1,46 @@
+﻿StageTitle,Hợp nhất Fast-Forward
+Story Background/Content/Story,"Bạn là một sinh viên.
+Gần đây, bạn cần tạo một trò chơi 'Tetris' trong khóa học,
+và bạn đã hoàn thành các tính năng cơ bản của trò chơi.
+
+Có thêm thời gian trước thời hạn.
+Bạn quyết định thêm một tính năng mới vào trò chơi.
+
+Bạn sử dụng các kỹ thuật quản lý chi nhánh để hỗ trợ bạn phát triển.
+Và bạn đã tạo ra các tính năng trò chơi thú vị.
+
+Tuy nhiên, bạn cần hợp nhất nội dung của nhánh phát triển vào nhánh chính.
+Vui lòng thử hợp nhất nội dung của nhánh phát triển bằng các lệnh Git."
+Stage Quest/1,Mở cửa sổ 'Commit History'.
+Stage Quest/2,Thêm tính năng mới trên nhánh 'new-feature'.
+Stage Quest/3,"Tạo một commit mới.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/4,"Chuyển sang nhánh 'master'.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/5,"Hợp nhất nhánh 'new-feature'.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/6,"Xóa nhánh 'new-feature'.
+Sau đó cập nhật cửa sổ 'Commit History'."
+CommitHistoryData/File data/ListContent/0,Game Title Screen
+CommitHistoryData/File data/ListContent/1/v1,Game start screen\nScoring mechanism (has issues)\nClear Lines logic\nGame over
+CommitHistoryData/File data/ListContent/1/v2,Game start screen\nScoring mechanism (fixed)\nClear Lines logic\nGame over
+CommitHistoryData/File data/ListContent/1/v3,Game start screen\nScoring mechanism (fixed)\nClear Lines logic\nGame over\nEnemy attack mechanism\aPlayer usable skills
+CommitHistoryData/File data/ListFileName/0,Main_Program.c
+CommitHistoryData/File data/ListLocation/0,Main_Program.c
+CommitHistoryData/CommitMessage/1,Initialize the Tetris game.
+CommitHistoryData/CommitMessage/2,Complete basic game mechanics.
+CommitHistoryData/CommitMessage/3,Fix scoring mechanic error.
+CommitHistoryData/CommitMessage/4,Add Game Mechanic: Player fight with enemies.
+Quest Filter/Valider/Target File Name/0,Main_Program.c
+DefaultData/Commit data/commitMessageList/0,Add gameplay: Players can use skills in battles.
+DefaultData/Commit data/commitMessageList/1,Update gameplay.
+DefaultData/Commit data/commitMessageList/2,Add new features in the main program.
+DefaultData/Commit data/commitMessageReasonList/0,"Commit message analysis:
+This message mentions adding skills to the game, 
+providing a clear understanding that the skill system has been successfully developed."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit message analysis:
+Although this message mentions updating gameplay, 
+it does not provide any details about the gameplay changes."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit message analysis:
+Although this message mentions updating the main program, 
+it does not provide details of the changes."

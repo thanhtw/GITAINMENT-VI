@@ -1,0 +1,82 @@
+﻿StageTitle,Tạo Pull Request
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management',
+giáo viên yêu cầu học sinh hợp tác và cùng nhau phát triển một trang web.
+
+Bạn và các thành viên trong nhóm của bạn đang quản lý dự án với Git.
+Mỗi thành viên phát triển các tính năng trên nhánh của họ.
+
+Trên nhánh 'update-readme', bạn đã thêm nội dung vào tệp 'README.md'.
+
+Sau khi hoàn thành quá trình phát triển, 
+bạn kiểm tra quy trình 'preparations for merging into the remote main branch' trên máy tính cục bộ của mình.
+Trong quá trình này, bạn đã giải quyết xung đột hợp nhất với nhánh 'master'.
+
+Bây giờ, vui lòng tạo Pull Request thông qua nền tảng dịch vụ Git.
+Hợp nhất nội dung của nhánh 'update-readme' vào nhánh 'master'."
+Stage Quest/1,Mở cửa sổ 'Commit History'.
+Stage Quest/2,Mở cửa sổ 'Web Browser'.
+Stage Quest/3,Tạo một Pull Request mới.
+Stage Quest/4,Thêm người đánh giá.
+Stage Quest/5,Trả lời tin nhắn của người đánh giá.
+Stage Quest/6,Sửa đổi nội dung tập tin dựa trên gợi ý.
+Stage Quest/7,"Tạo một commit mới.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/8,"Đẩy nhánh 'update-readme' vào kho lưu trữ từ xa. 
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/9,Đánh dấu cuộc trò chuyện Pull Request là đã giải quyết.
+Stage Quest/10,"Đồng bộ hóa nội dung từ nhánh 'master' từ xa.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/11,"Xóa cả nhánh 'update-readme' cục bộ và từ xa.
+Sau đó cập nhật cửa sổ 'Commit History'."
+DefaultData/Commit data/commitMessageList/0,Added README content: Steps of running project.
+DefaultData/Commit data/commitMessageList/1,add-on the README file content.
+DefaultData/Commit data/commitMessageList/2,Added file content.
+DefaultData/Commit data/commitMessageReasonList/0,"Commit message analysis:
+This message clearly tells team members about the added content.
+It shows that this commit is for resolving the pull request conversation."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit message analysis:
+Although this message mentions add-on file content, it is not clear.
+It does not mention what content is changed."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit message analysis:
+This message is not clear. 
+It does not mention what content is added."
+CommitHistoryData/File data/ListContent/1/v1,# Shopping Website Project
+CommitHistoryData/File data/ListContent/1/v2,# Shopping Website Project\nReason for creating the website
+CommitHistoryData/File data/ListContent/1/v3,# Shopping Website Project\nReason for creating the website\nWebsite operation instruction
+CommitHistoryData/File data/ListContent/1/v4,# Shopping Website Project\nWeb system architecture\nWebsite screenshots
+CommitHistoryData/File data/ListContent/1/v5,# Shopping Website Project\nReason for creating the website\nWebsite operation instruction\nWeb system architecture\aSteps of running project\nWebsite screenshots
+NPCCommitData/NPC1,Team Member A
+CommitHistoryData/File data/ListLocation/0,shopping-website
+CommitHistoryData/File data/ListLocation/1,shopping-website\README.md
+CommitHistoryData/File data/ListLocation/2,shopping-website\.git
+CommitHistoryData/File data/ListFileName/0,shopping-website
+CommitHistoryData/File data/ListFileName/1,README.md
+CommitHistoryData/CommitMessage/1,Added README file.
+CommitHistoryData/CommitMessage/2,Added README content: Reason for creating the website.
+CommitHistoryData/CommitMessage/3,Added README content: Operation instructions.
+CommitHistoryData/CommitMessage/4,Added README content: Web system architecture and screenshots.
+CommitHistoryData/CommitMessage/5,Resolved merge conflicts between 'update-readme' and 'master' branches.
+RepoQuestData/Repo Quest/PRTitle,Added README content: reasons for creating website and operation instructions.
+RepoQuestData/Repo Quest/PRDes,"In this Pull Request, I made changes to the 'update-readme' branch.
+The main goal is to update the 'readme.md' file.
+I add the content about the 'reason for creating this website' and 'operation instructions'."
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/MainContent,"Xin chào, tôi nhận thấy rằng tệp 'README.md' bị thiếu nội dung cài đặt dự án. 
+Để đảm bảo rằng giáo viên và các thành viên khác của dự án có thể chạy dự án một cách chính xác.
+Tôi khuyên bạn nên thêm nội dung này vào tệp README. 
+Cảm ơn."
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/FileName,README.md
+BrowserWindow/PRDetailed/FileContent1,# Shopping Website Project
+BrowserWindow/PRDetailed/FileContent2,Reason for creating the website
+BrowserWindow/PRDetailed/FileContent3,Website operation instruction
+BrowserWindow/PRDetailed/FileContent4,Web system architecture
+BrowserWindow/PRDetailed/FileContent5,Steps of running project
+BrowserWindow/PRDetailed/FileContent6,Website screenshots
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/ReplyMessage1,Vui lòng thêm các bước dự án cài đặt ngay bên dưới 'web system architecture'.
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/ReplyMessage2,"Cảm ơn bạn đã gợi ý của bạn.
+Tôi sẽ kiểm tra và thực hiện các thay đổi."
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/ReplyMessage3,"Tôi đã thêm các bước cài đặt dự án vào tệp 'README.md'. 
+Vui lòng cho tôi biết nếu cần thêm bất kỳ thay đổi nào.
+Cảm ơn."
+BrowserWindow/PRDetailed/Msg_10_Refresh_Approve,"Đã xem xét và xác nhận rằng nội dung 'README.md' ổn. 
+Đang phê duyệt yêu cầu hợp nhất này."

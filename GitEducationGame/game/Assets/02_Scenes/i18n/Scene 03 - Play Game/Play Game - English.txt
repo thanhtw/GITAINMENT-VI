@@ -1,0 +1,266 @@
+﻿Common/Warning,Cảnh báo
+Common/Yes,Đúng
+Common/No,KHÔNG
+Common/Player,Bạn
+Common/Loading,Đang tải
+Common/FollowQuest,Hãy làm theo mục tiêu hiện tại trước!
+TooltipMessage/MainToolBar/ChatButton,Trò chuyện
+TooltipMessage/MainToolBar/GameMenuButton,Thực đơn trò chơi
+TooltipMessage/WindowButtons/FileManager/Unlock,Trình quản lý tệp
+TooltipMessage/WindowButtons/FileManager/Lock,Khóa cửa sổ: Trình quản lý tệp
+TooltipMessage/WindowButtons/CommandLine/Unlock,Dòng lệnh
+TooltipMessage/WindowButtons/CommandLine/Lock,Khóa cửa sổ: Dòng lệnh
+TooltipMessage/WindowButtons/Browser/Unlock,Trình duyệt web
+TooltipMessage/WindowButtons/Browser/Lock,Khóa cửa sổ: Trình duyệt web
+TooltipMessage/FileContentWindow/RenameButton,Đổi tên
+TooltipMessage/StageSummaryWindow/Detailed/Perfect,Mục tiêu đã hoàn thành một cách hoàn hảo!
+TooltipMessage/StageSummaryWindow/Detailed/Good,Mục tiêu đã hoàn thành nhưng trong quá trình thực hiện còn có sai sót.
+TooltipMessage/StageSummaryWindow/Detailed/Hint,Hoàn thành mục tiêu với gợi ý
+TooltipMessage/StageSummaryWindow/Detailed/Answer,Hoàn thành mục tiêu với tính năng trả lời.
+ChatButton/Title/Git Assistant,Trợ lý Git
+GameMenuButton/Menu/TitleText,Thực đơn
+GameMenuButton/Menu/BackToGame,Quay lại trò chơi
+FileManagerWindow/LoadingText,Đang tải
+GameMenuButton/Menu/RestartStage/Button,Chơi lại màn chơi
+GameMenuButton/Menu/RestartStage/Warning,"Bạn có chắc chắn muốn bắt đầu lại màn chơi này không?
+Tiến trình hiện tại của bạn sẽ không được lưu."
+GameMenuButton/Menu/BackToStageSelectScreen/Button,"Quay lại 
+Màn hình chọn màn chơi"
+GameMenuButton/Menu/BackToStageSelectScreen/Warning,"Bạn có chắc chắn muốn quay lại màn hình chọn màn chơi không?
+Tiến trình hiện tại của bạn sẽ không được lưu."
+Story Background/Title/Default,Bối cảnh câu chuyện
+Story Background/Title/Loading,Đang tải nền câu chuyện
+Story Background/Content/None,(Không có)
+FileManagerWindow/Title,Trình quản lý tệp
+FileContentWindow/ModifyContentMsg,Sửa đổi nội dung?
+FileContentWindow/DeleteContentMsg,Xóa nội dung?
+FileContentWindow/AddContnetTitle,Lựa chọn hành động
+FileContentWindow/RenameFileTitle,Đổi tên tập tin
+FileContentWindow/AddContnetButton,Thêm nội dung mới
+FileContentWindow/CopyFileTitle,Lựa chọn hành động
+FileContentWindow/CopyFileButton,Sao chép tập tin này
+FileContentWindow/WarningMsgTitle,Hoạt động không hợp lệ!
+FileContentWindow/CopyText,(Sao chép)
+CommandLineWindow/Title,Dòng lệnh
+CommandLineWindow/TooltipMessage/ClearCommandsButton,Xóa các lệnh đã thực hiện
+CommandLineWindow/TooltipMessage/UnselectCommandButton,Bỏ chọn lệnh
+CommandLineWindow/TooltipMessage/CurrentLocation,Thư mục hiện tại: {CommandLineWindow/CurrentCommandLineLocation}
+CommandLineWindow/TooltipMessage/CurrentBranch,Git Branch hiện tại: {CommandLineWindow/CurrentBranch}
+CommandLineWindow/TooltipMessage/CurrentBranch(Detached),Git Branch hiện tại: Head đã tách rời ({CommandLineWindow/CurrentBranch})
+CommandLineWindow/TooltipMessage/AutoComplete,Tự động hoàn thành
+CommandLineWindow/AutoCompleteFeature/Title(Successful),Kết quả tìm kiếm:
+CommandLineWindow/AutoCompleteFeature/Title(Failed - NotFound),Không tìm thấy kết quả có liên quan!
+CommandLineWindow/AutoCompleteFeature/Title(Failed - TooMany),Quá nhiều kết quả tìm kiếm!
+CommandLineWindow/TooltipMessage/ExecuteCommand,Thực thi lệnh
+CommandLineWindow/CommandHistoryDetailed/Title/Default,Bấm vào lệnh đã nhập
+CommandLineWindow/CommandHistoryDetailed/Title/Success,Lệnh được thực hiện thành công
+CommandLineWindow/CommandHistoryDetailed/Title/Warning,Cảnh báo
+CommandLineWindow/CommandHistoryDetailed/Title/Error,Việc thực thi lệnh bị hủy bỏ
+CommandLineWindow/CommandHistoryDetailed/Title/ExecutingCommand,Thực thi lệnh
+CommandLineWindow/CommandHistoryDetailed/Content/Default,Để xem thông tin chi tiết sau khi thực hiện.
+CommandLineWindow/CommandHistoryDetailed/Content/ExecutingCommand,"Phân tích cú pháp <color=""orange"">'{playerInputText}'</color>"
+CommandLineWindow/InputField/PlaceHolder,Click để nhập lệnh...
+Loading Message Panel/Loading,Tạo một câu chuyện nền mới
+Loading Message Panel/Completed,Đã tạo Đã hoàn tất!
+StageSummaryWindow/Title,Tóm tắt màn chơi
+StageSummaryWindow/NewRecord,Kỷ lục mới!
+StageSummaryWindow/ObjectiveReview,Đánh giá khách quan
+StageSummaryWindow/ObjectiveClearTotalTime,Thời gian hoàn thành:
+StageSummaryWindow/ObjectiveSpendTime,Thời gian sử dụng (Giây):
+StageSummaryWindow/Detailed/TotalStageTime,Tổng thời gian màn chơi
+StageSummaryWindow/Detailed/MissTimes,Hoa hậu lần
+StageSummaryWindow/Detailed/GameManualUsedTimes,Hướng dẫn sử dụng trò chơi Số lần sử dụng
+StageSummaryWindow/Detailed/CommandExecutedTimes,Thời gian thực hiện lệnh
+StageSummaryWindow/Detailed/Perfect,Mục tiêu đã hoàn thành (Hoàn hảo)
+StageSummaryWindow/Detailed/Good,Mục tiêu đã hoàn thành (Tốt)
+StageSummaryWindow/Detailed/Hint,Mục tiêu đã hoàn thành (Gợi ý)
+StageSummaryWindow/Detailed/Answer,Mục tiêu đã hoàn thành (Trả lời)
+StagingAreaWindow/Title,Staging Area
+StagingAreaWindow/CommandContentAndNum,Lệnh đã thực thi ID & Chi tiết:
+StagingAreaWindow/StagedFile/Title,Đã dàn dựng
+StagingAreaWindow/UnstagedFile/Title,Chưa được dàn dựng
+SingleSelectionPopup/Title,Lựa chọn
+SingleSelectionPopup/ReturnButton,Quay lại màn hình
+SingleSelectionPopup/CommitMessagePopup/AcitveTitle,Vui lòng chọn một thông điệp commit phù hợp từ các tùy chọn sau:
+SingleSelectionPopup/CommitMessagePopup/CannotUseTitle,Tính năng chọn thông điệp commit không thể dùng cho mục tiêu hiện tại!
+SingleSelectionPopup/CommitMessagePopup/WrongTitle,"Đây dường như không phải là lựa chọn tốt nhất trong số tất cả các lựa chọn!
+Vui lòng thử lại lần nữa!"
+SingleSelectionPopup/CommitMessagePopup/CorrectTitle,Lựa chọn tốt! Bạn đang làm rất tốt!
+SingleSelectionPopup/BranchNamingPopup/CannotUseTitle,Tính năng đặt tên chi nhánh không thể được sử dụng cho các mục tiêu hiện tại!
+SingleSelectionPopup/BranchNamingPopup/AcitveTitle,Vui lòng chọn tên chi nhánh phù hợp từ các tùy chọn sau:
+CommitHistoryWindow/Title,Lịch sử commit
+CommitHistoryWindow/CommandContentAndNum,Lệnh đã thực thi ID & Chi tiết:
+CommitHistoryWindow/LocalHistoryTitle,Lịch sử commit địa phương
+CommitHistoryWindow/RemoteHistoryTitle,Lịch sử commit từ xa
+CommitHistoryWindow/Tooltip/Unlock/ID,ID:
+CommitHistoryWindow/Tooltip/Unlock/Tag,Nhãn:
+CommitHistoryWindow/Tooltip/Unlock/Branch,Chi nhánh:
+CommitHistoryWindow/Tooltip/Unlock/Date,Ngày:
+CommitHistoryWindow/Tooltip/Unlock/Author,Tác giả:
+CommitHistoryWindow/Tooltip/Unlock/Content,Nội dung:
+CommitHistoryWindow/Tooltip/LockMessage,"Có những commit mới trong kho lưu trữ từ xa.
+Vui lòng cập nhật kho lưu trữ cục bộ để mở khóa chúng."
+CommitHistoryWindow/TooltipMessage/Commit,Nhấn vào đây để xem chi tiết commit.
+CommitHistoryWindow/TooltipMessage/RemoteButton(Enable),Nhấp để mở rộng/thu gọn bảng lịch sử commit từ xa.
+CommitHistoryWindow/TooltipMessage/RemoteButton(Disable),Không có lịch sử commit từ xa trong lệnh được thực thi này
+CommitHistoryWindow/HEADTag/HEAD,HEAD
+CommitHistoryWindow/HEADTag/Detached,HEAD (Tách rời)
+CommitHistoryWindow/Merge/MergeConflictHappened,Hợp nhất xung đột được phát hiện! Vui lòng thử giải quyết các xung đột tệp sau:
+CommitHistoryWindow/Merge/MergeConflictResolved,Chi nhánh '{CompareBranchName}' đã được sáp nhập vào chi nhánh '{BaseBranchName}'.
+BrowserWindow/Title,Trình duyệt web
+BrowserWindow/GitHubTopbarTitle/HomePage,Trang chủ
+BrowserWindow/GitHubTopbarTitle/CreateRepoPage,Kho lưu trữ mới
+BrowserWindow/Common/AutoFillText,Tự động điền văn bản
+BrowserWindow/Common/AfterQuestActiveMsg,Vui lòng nhấp vào nút sau khi thêm mục tiêu mới
+BrowserWindow/Common/SwitchBranchTitle,Chuyển nhánh
+BrowserWindow/Common/Default,Mặc định
+BrowserWindow/Common/BranchesCount,Chi nhánh
+BrowserWindow/Common/CommitsCount,Commit
+BrowserWindow/Common/Action,Hoạt động
+BrowserWindow/Common/Clone,Dòng vô tính
+BrowserWindow/Common/CopyButton,Sao chép
+BrowserWindow/Common/DownloadZIP,Tải xuống ZIP
+BrowserWindow/Common/Filters,Bộ lọc
+BrowserWindow/Common/NoREADME,Không có tệp 'README' trong kho lưu trữ này.
+BrowserWindow/Common/CreatePullRequest,Tạo Pull Request
+BrowserWindow/OopsPage/Title,Ối! Không tìm thấy trang.
+BrowserWindow/OopsPage/Detailed,"Không thể truy cập dịch vụ lưu trữ Git tại thời điểm này.
+Hãy hoàn thành mục tiêu hiện tại trước!"
+BrowserWindow/HomePage/Welcome,"Chào mừng bạn đến với nền tảng dịch vụ lưu trữ Git!
+Hãy bắt đầu với việc sử dụng kho lưu trữ từ xa."
+BrowserWindow/HomePage/YourRepo,Kho lưu trữ của bạn
+BrowserWindow/HomePage/New,Mới
+BrowserWindow/HomePage/SearchRepo,Tìm nơi lưu trữ...
+BrowserWindow/CreateRepoPage/Title,Tạo một kho lưu trữ mới
+BrowserWindow/CreateRepoPage/Title(Detailed),"Kho lưu trữ chứa tất cả các tệp dự án, bao gồm cả lịch sử sửa đổi."
+BrowserWindow/CreateRepoPage/OwnerTitle,Người sở hữu *
+BrowserWindow/CreateRepoPage/RepoNameTitle,Tên kho lưu trữ *
+BrowserWindow/CreateRepoPage/RepoName(Detailed),Tên kho lưu trữ tuyệt vời thường ngắn gọn và dễ nhớ.
+BrowserWindow/CreateRepoPage/VisibilityTitle(Public),Công cộng
+BrowserWindow/CreateRepoPage/VisibilityDetailed(Public),Bất cứ ai trên internet đều có thể thấy kho lưu trữ này. Bạn chọn người có thể commit.
+BrowserWindow/CreateRepoPage/VisibilityTitle(Private),Riêng tư
+BrowserWindow/CreateRepoPage/VisibilityDetailed(Private),Bạn chọn người có thể xem và commit với kho lưu trữ này.
+BrowserWindow/CreateRepoPage/InitializeRepoTitle,Khởi tạo kho lưu trữ này:
+BrowserWindow/CreateRepoPage/InitializeRepo/AddREADME,Thêm tệp README
+BrowserWindow/CreateRepoPage/InitializeRepo/AddREADME(Detailed),Đây là nơi bạn có thể viết mô tả dài cho dự án của mình.
+BrowserWindow/CreateRepoPage/CreateRepoButton,Tạo kho lưu trữ
+BrowserWindow/CreateRepoPage/Tooltip/WarningTitle,Vui lòng hoàn thành các yêu cầu sau:
+BrowserWindow/CreateRepoPage/Tooltip/RepoName,Đặt tên cho kho lưu trữ mới của bạn
+BrowserWindow/CreateRepoPage/Tooltip/README,Kiểm tra 'Add a README file'
+BrowserWindow/ClonePanel/SSH,"SSH là một phương pháp nhân bản nâng cao yêu cầu thiết lập bổ sung để sử dụng. 
+Trong trò chơi này, bạn chỉ cần sử dụng HTTP để sao chép các kho lưu trữ từ xa."
+BrowserWindow/ClonePanel/ZIP,"Sự khác biệt giữa 'Download ZIP' và 'Clone repository command': 
+'Download ZIP' chỉ sao chép và tải xuống dự án này.
+Nhưng nó không kết nối với kho lưu trữ từ xa."
+BrowserWindow/PRList/Opened,Mở Pull Request
+BrowserWindow/PRList/Closed,Pull Request đã đóng hoặc hợp nhất
+BrowserWindow/PRList/FilterDropDownTitle,Sắp xếp và lọc
+BrowserWindow/PRList/FilterDropDown,"Sắp xếp và lọc các Pull Request
+Kiểm tra các Pull Request cụ thể để cung cấp cho chúng các nhãn khác nhau."
+BrowserWindow/PRList/NoPR(Opened),Không có bất kỳ Pull Request mở nào.
+BrowserWindow/PRList/NoPR(Closed),Không có bất kỳ Pull Request đã đóng nào.
+BrowserWindow/PRList/CreateBy,Người tạo Pull Request #{PRNUM}:
+BrowserWindow/PRList/NotTargetPRItem,Vui lòng chọn Pull Request mục tiêu theo mục tiêu hiện tại.
+BrowserWindow/ComparePR/ChooseBranchTitle,Vui lòng chọn nhánh mục tiêu để hợp nhất
+BrowserWindow/ComparePR/CreatePRTitle,Tạo Pull Request
+BrowserWindow/ComparePR/CanCreatePRMsg,Không có xung đột hợp nhất khi so sánh các nhánh.
+BrowserWindow/ComparePR/Warning(NeedCorrectBranch),Vui lòng chọn đúng chi nhánh dựa trên mục tiêu hiện tại!
+BrowserWindow/ComparePR/Warning(Swap),Vui lòng xác nhận nhánh nào sẽ được đặt làm Cơ sở hoặc So sánh trong quá trình hợp nhất!
+BrowserWindow/ComparePR/Warning(Same),Vui lòng chọn hai chi nhánh khác nhau!
+BrowserWindow/ComparePR/Title,Thêm tiêu đề
+BrowserWindow/ComparePR/Des,Thêm mô tả
+BrowserWindow/ComparePR/CreatePRButton/Tooltip/Title,Vui lòng hoàn thành các yêu cầu sau:
+BrowserWindow/ComparePR/CreatePRButton/Tooltip/PRTitle,Kéo tiêu đề yêu cầu
+BrowserWindow/ComparePR/CreatePRButton/Tooltip/PRDes,Kéo mô tả yêu cầu
+BrowserWindow/PRDetailed/Goal1,Tạo bởi
+BrowserWindow/PRDetailed/Goal2,", nhằm sáp nhập chi nhánh"
+BrowserWindow/PRDetailed/Goal3,vào trong
+BrowserWindow/PRDetailed/Conversation,Cuộc hội thoại
+BrowserWindow/PRDetailed/Commits,Commit
+BrowserWindow/PRDetailed/FilesChanged,Tập tin đã thay đổi
+BrowserWindow/PRDetailed/Creator,Người sáng tạo
+BrowserWindow/PRDetailed/Reviewer,Người đánh giá
+BrowserWindow/PRDetailed/AuthorList,Danh sách người đánh giá
+BrowserWindow/PRDetailed/AddAuthorButton,Thêm người đánh giá
+BrowserWindow/PRDetailed/MergePullRequest,Hợp nhất Pull Request
+BrowserWindow/PRDetailed/CreatePRTitle,Đã tạo Pull Request này.
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/Warning(Msg),Vui lòng thêm đề xuất sửa đổi trong các tệp đã thay đổi.
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/Warning(Review),Vui lòng nhập tin nhắn đánh giá!
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/Warning(Type),Vui lòng chọn đúng loại bình luận!
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/Title,Hoàn thành đánh giá của bạn
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/Input,Nhập tin nhắn đánh giá của bạn:
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/CommentTitle,Bình luận
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/CommentDes,"Cung cấp phản hồi và đề xuất, được sử dụng để thảo luận nội dung với nhà phát triển."
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/ApproveTitle,Chấp thuận
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/ApproveDes,Phê duyệt yêu cầu hợp nhất này.
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/RequestChangesTitle,Yêu cầu thay đổi
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/RequestChangesDes,"Chỉ ra những sửa đổi cần thiết, đề nghị phê duyệt những thay đổi tiếp theo."
+BrowserWindow/PRDetailed/FilesChanged/ReviewChangePopup/Submit,Gửi đánh giá
+BrowserWindow/PRDetailed/CreateCommitTitle,tạo một commit mới:
+BrowserWindow/PRDetailed/GiveAdviceTitle,Đưa ra các đề xuất sửa đổi.
+BrowserWindow/PRDetailed/ApprovePRTitle,Đã phê duyệt Pull Request này.
+BrowserWindow/PRDetailed/RefreshButton,Làm mới trang (Cập nhật hành động của các thành viên trong nhóm)
+BrowserWindow/PRDetailed/FilesChanged/unfoldMsg,Mở rộng cuộc trò chuyện
+BrowserWindow/PRDetailed/FilesChanged/foldMsg,Thu gọn cuộc trò chuyện
+BrowserWindow/PRDetailed/FilesChanged/ReplyMsg,Trả lời tin nhắn...
+BrowserWindow/PRDetailed/FilesChanged/ReplyButton,Hồi đáp
+BrowserWindow/PRDetailed/FilesChanged/ResolvedButton(Solve),Cuộc trò chuyện đã được giải quyết
+BrowserWindow/PRDetailed/FilesChanged/ResolvedButton(Unsolve),Cuộc trò chuyện chưa được giải quyết
+BrowserWindow/PRDetailed/FilesChanged/ResolvedButton(FollowQuest),Hãy thực hiện hành động đúng theo mục tiêu hiện tại.
+BrowserWindow/PRDetailed/FilesChanged/ResolvedButton(ReplyFirst),Vui lòng trả lời tin nhắn trước
+BrowserWindow/PRDetailed/FilesChanged/ResolvedButton(SolveMsg),"Vấn đề đã được giải quyết, không cần đánh dấu là chưa được giải quyết"
+BrowserWindow/PRDetailed/Common/Line,Đường kẻ
+BrowserWindow/PRDetailed/Common/ChangedContent,Nội dung tệp
+BrowserWindow/PRDetailed/FileChangedTextBox/Tooltip(NoChange),Dòng này không cần sửa đổi
+BrowserWindow/PRDetailed/FileChangedTextBox/Tooltip(Hover),Nhấp vào dòng này để thêm đề xuất sửa đổi
+BrowserWindow/PRDetailed/FileChangedTextBox/Tooltip(Created),Đề xuất sửa đổi đã được tạo
+BrowserWindow/PRDetailed/ShortMsg/CreateCommit,tạo một commit mới.
+BrowserWindow/PRDetailed/ShortMsg/MergePR,Đã hợp nhất Pull Request này.
+BrowserWindow/PRDetailed/PRProgressTextBox/Detailed/Title(Review),Yêu cầu xem xét
+BrowserWindow/PRDetailed/PRProgressTextBox/Detailed/Content(Review),Việc hợp nhất này cần có sự chấp thuận của ít nhất một người đánh giá để tiếp tục.
+BrowserWindow/PRDetailed/PRProgressTextBox/Detailed/Title(Ready),Những thay đổi đã được phê duyệt
+BrowserWindow/PRDetailed/PRProgressTextBox/Detailed/Content(Ready),1 người đánh giá đã phê duyệt yêu cầu hợp nhất.
+BrowserWindow/PRDetailed/PRProgressTextBox/Detailed/Title(FileChange),Đã yêu cầu thay đổi
+BrowserWindow/PRDetailed/PRProgressTextBox/Detailed/Content(FileChange),Cần giải quyết các cuộc hội thoại được liệt kê dưới đây.
+BrowserWindow/PRDetailed/PRProgressTextBox/Conversation/Title(Ready),Mọi cuộc trò chuyện đều được giải quyết
+BrowserWindow/PRDetailed/PRProgressTextBox/Conversation/Content(Ready),Hiện tại không có cuộc trò chuyện nào chưa được giải quyết.
+BrowserWindow/PRDetailed/PRProgressTextBox/Conversation/Title(Block),Cuộc trò chuyện chưa được giải quyết
+BrowserWindow/PRDetailed/PRProgressTextBox/Conversation/Content(Block),1 cuộc trò chuyện phải được giải quyết trước khi hợp nhất.
+BrowserWindow/PRDetailed/PRProgressTextBox/Result/Title(Ready),Sẵn sàng để hợp nhất
+BrowserWindow/PRDetailed/PRProgressTextBox/Result/Content(Ready),Nhánh mục tiêu không có xung đột tệp và yêu cầu hợp nhất đã được phê duyệt.
+BrowserWindow/PRDetailed/PRProgressTextBox/Result/Title(Block),Việc hợp nhất bị chặn
+BrowserWindow/PRDetailed/PRProgressTextBox/Result/Content(Block),"Khi các vấn đề trên đã được giải quyết, bạn có thể hợp nhất Pull Request này."
+BrowserWindow/PRDetailed/PRProgressTextBox/MergeButton,Hợp nhất Pull Request
+BrowserWindow/PRDetailed/PRProgressTextBox/ChangeRequest/Title,Cuộc trò chuyện cần giải quyết:
+BrowserWindow/PRDetailed/PRProgressTextBox/ChangeRequest/Content,yêu cầu thay đổi
+BrowserWindow/PRDetailed/PRProgressTextBox/ChangeRequest/MoveButton,Chuyển sang cuộc trò chuyện
+BrowserWindow/PRDetailed/PRProgressTextBox/ApproveRequest/Title,Người đánh giá đã phê duyệt yêu cầu hợp nhất:
+BrowserWindow/PRDetailed/PRProgressTextBox/ApproveRequest/Content,đã phê duyệt những thay đổi này
+BrowserWindow/PRDetailed/ReplyMsg(Pending)/Warning,"Hãy vào trang hội thoại để trả lời, giải quyết hội thoại."
+BrowserWindow/PRDetailed/ReplyMsg(Pending)/Resolved,Cuộc trò chuyện này đã được giải quyết.
+BrowserWindow/PRDetailed/MergeTitle,Pull Request hợp nhất #{NUM}
+HelpMessagePopup/HintFeature,"Sử dụng tính năng gợi ý, trò chơi sẽ đưa ra gợi ý cho mục tiêu hiện tại. 
+Tuy nhiên, điểm cho mục tiêu này sẽ trở thành <color=#CF001C>half</color>.
+
+Bạn có muốn sử dụng tính năng gợi ý không?"
+HelpMessagePopup/AnswerFeature,"Sử dụng tính năng trả lời, trò chơi sẽ hướng dẫn bạn hoàn thành mục tiêu hiện tại.
+Nhưng <color=#CF001C>bạn không thể nhận được điểm cho mục tiêu</color> này. 
+
+Bạn có muốn sử dụng tính năng trả lời không?"
+HelpMessagePopup/QuizFeature,"Chào mừng đến với hệ thống câu đố. 
+Hệ thống này sẽ kiểm tra kiến ​​thức bạn vừa học. 
+
+Nếu bạn thực thi hệ thống, 
+nút hội thoại và hướng dẫn trò chơi sẽ bị <color=#CF001C>tạm thời tắt</color>."
+ScoreStarIcon/Tooltip(Default),"Đánh giá sau khi hoàn thành mục tiêu này:
+'None'"
+ScoreStarIcon/Tooltip(Perfect),"Đánh giá sau khi hoàn thành mục tiêu này:
+'Completed the objective perfectly'"
+ScoreStarIcon/Tooltip(Good),"Đánh giá sau khi hoàn thành mục tiêu này:
+'Completed the objective, but made mistakes'"
+ScoreStarIcon/Tooltip(Hint),"Đánh giá sau khi hoàn thành mục tiêu này:
+'Completed the objective with hints'"
+ScoreStarIcon/Tooltip(Answer),"Đánh giá sau khi hoàn thành mục tiêu này:
+'Completed the objective using the answer feature'"
+TutorialPopup/Title,Cửa sổ hướng dẫn
+GameManualPopup,Nội dung mới đã được thêm vào.

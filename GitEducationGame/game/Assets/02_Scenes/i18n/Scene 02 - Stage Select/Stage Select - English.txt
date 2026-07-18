@@ -1,0 +1,41 @@
+﻿StageSelect/Common/StageTitle,Màn chơi:
+StageCategoryButton/Basic/CategoryText,Chủ đề: Thông tin cơ bản về Git
+StageCategoryButton/Branch/CategoryText,Chủ đề: Quản lý chi nhánh
+StageCategoryButton/Remote/CategoryText,Chủ đề: Quản lý từ xa
+StageCategoryButton/Common/StageCompletionText,Hoàn thành màn chơi:
+PlayerGameRecordsWindow/Title,Kỷ lục trò chơi
+PlayerGameRecordsWindow/PlayerTitle,Dữ liệu người học Git
+PlayerGameRecordsWindow/PlayerContentTitle,Tên người học:
+PlayerGameRecordsWindow/MainRecordsTitle,Tiến trình trò chơi
+PlayerGameRecordsWindow/MainRecordsContent/GameProgress,Hoàn thành trò chơi
+PlayerGameRecordsWindow/MainRecordsContent/TotalScore,Tổng điểm trò chơi
+PlayerGameRecordsWindow/MainRecordsContent/TotalTime,Tổng thời gian chơi
+PlayerGameRecordsWindow/MainRecordsContent/TotalStar,Tổng số sao kiếm được
+PlayerGameRecordsWindow/OtherRecordsTitle,Hồ sơ khác
+PlayerGameRecordsWindow/OtherRecordsContent/ClearStageTimes,Thời gian màn chơi rõ ràng
+PlayerGameRecordsWindow/OtherRecordsContent/GameManualUsedTimes,Hướng dẫn sử dụng trò chơi Số lần sử dụng
+PlayerGameRecordsWindow/OtherRecordsContent/CommandExecutedTimes,Thời gian thực hiện lệnh
+PlayerGameRecordsWindow/OtherRecordsContent/Perfect,Thời gian hoàn thành mục tiêu (Hoàn hảo)
+PlayerGameRecordsWindow/OtherRecordsContent/Good,Thời gian hoàn thành mục tiêu (Tốt)
+PlayerGameRecordsWindow/OtherRecordsContent/Hint,Thời gian hoàn thành mục tiêu (Gợi ý)
+PlayerGameRecordsWindow/OtherRecordsContent/Answer,Thời gian hoàn thành mục tiêu (Trả lời)
+TooltipMessage/MainToolBar/PlayerGameRecordsButton,Kỷ lục trò chơi của người chơi
+TooltipMessage/MainToolBar/ReturnToTitleScreenButton,Quay lại màn hình tiêu đề
+TooltipMessage/MainToolBar/BackToStageCategoryButton,Mặt sau
+StageItemButton/DetailedPopup/Game Introduction,Giới thiệu trò chơi
+StageItemButton/DetailedPopup/Version Control and Git,Giới thiệu về Kiểm soát phiên bản và Git
+StageItemButton/DetailedPopup/Create Local Repository,Tạo kho lưu trữ cục bộ đầu tiên của bạn
+StageItemButton/DetailedPopup/Basic Staging Area,Các hoạt động cơ bản trong Staging Area Git
+StageItemButton/DetailedPopup/Advanced Staging Area,Hoạt động nâng cao trong Staging Area Git
+StageItemButton/DetailedPopup/Creating First Version,Tạo phiên bản dự án Git đầu tiên của bạn
+StageItemButton/DetailedPopup/Switching Project Versions,Chuyển đổi phiên bản dự án
+StageItemButton/DetailedPopup/Git Branching Basics,Hướng dẫn cơ bản về phân nhánh Git
+StageItemButton/DetailedPopup/Fast-Forward Merging,Hợp nhất Fast-Forward
+StageItemButton/DetailedPopup/Auto Merging,Tự động hợp nhất
+StageItemButton/DetailedPopup/Merge Conflicts,Giải quyết xung đột hợp nhất
+StageItemButton/DetailedPopup/Create Remote Repository,Tạo kho lưu trữ từ xa đầu tiên của bạn
+StageItemButton/DetailedPopup/Push to Remote Branches,Tạo và đẩy các nhánh từ xa
+StageItemButton/DetailedPopup/Keep Branches in Sync,Giữ các nhánh được đồng bộ hóa
+StageItemButton/DetailedPopup/Preparation for Merging,Chuẩn bị sáp nhập
+StageItemButton/DetailedPopup/Creating a Pull Request,Tạo Pull Request
+StageItemButton/DetailedPopup/Review and Merge Pull Requests,Xem xét và hợp nhất các Pull Request

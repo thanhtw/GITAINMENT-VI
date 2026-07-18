@@ -1,0 +1,17 @@
+﻿StageTitle,Giới thiệu về Kiểm soát phiên bản và Git
+Story Background/Content/Story,"Bạn là một sinh viên. 
+Trong khóa học 'Project Management', 
+giáo viên đã giới thiệu kiểm soát phiên bản và Git là gì, 
+và bạn đã ghi lại kiến thức này. 
+
+Vài ngày sau, 
+giáo viên quyết định kiểm tra tình trạng học tập của học sinh thông qua một bài kiểm tra ngắn. 
+Học sinh cần bắt đầu làm bài thi bằng hệ thống trắc nghiệm trên máy tính. 
+
+Bây giờ mời các bạn xem lại nội dung trong ghi chú của mình 
+rồi bấm vào hệ thống bài kiểm tra để bắt đầu kiểm tra."
+Stage Quest/1,Trả lời chính xác câu hỏi này.
+Stage Quest/2,Trả lời chính xác câu hỏi này.
+Stage Quest/3,Trả lời chính xác câu hỏi này.
+DefaultData/File data/ListFileName/1,Quiz_System.exe
+DefaultData/File data/ListLocation/1,Quiz_System.exe

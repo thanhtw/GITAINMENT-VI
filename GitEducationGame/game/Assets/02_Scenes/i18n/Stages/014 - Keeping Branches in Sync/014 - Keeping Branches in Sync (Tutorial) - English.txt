@@ -1,0 +1,45 @@
+﻿StageTitle,Giữ các nhánh được đồng bộ hóa
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management',
+giáo viên yêu cầu học sinh hợp tác và cùng nhau phát triển một trang web.
+
+Bạn và các thành viên trong nhóm của bạn đang quản lý dự án với Git,
+nhưng gần đây đã gặp phải hai vấn đề trong quá trình phát triển.
+Họ ảnh hưởng đến tiến độ phát triển.
+
+Vấn đề thứ nhất:
+Bạn thường phát triển dự án trên hai máy tính khác nhau.
+Tuy nhiên, gần đây bạn đã phát hiện ra rằng 'commit history'
+trên Máy tính A đứng sau phiên bản của Máy tính B.
+Các sửa đổi từ Máy tính B đã được tải lên kho lưu trữ từ xa.
+Để tiếp tục phát triển từ nội dung của Máy tính B,
+trước tiên bạn cần đồng bộ hóa nội dung từ kho lưu trữ từ xa với Máy tính A.
+
+Vấn đề thứ hai:
+Trong quá trình phát triển, một trong những đồng đội của bạn đã liên lạc với bạn.
+Anh ấy hy vọng bạn có thể giúp anh ấy giải quyết vấn đề gặp phải trong quá trình phát triển.
+Để nâng cao hiệu quả phát triển,
+bạn quyết định đến chi nhánh từ xa của anh ấy và tìm giải pháp cho vấn đề.
+
+Đứng trước hai vấn đề này,
+bạn sẽ sử dụng các kỹ năng Git đã học của mình để giải chúng như thế nào?"
+Stage Quest/1,Mở cửa sổ 'Commit History'.
+Stage Quest/2,Chuyển sang nhánh 'update-readme' và đồng bộ hóa nội dung từ nhánh từ xa
+Stage Quest/3,Cập nhật cửa sổ 'Commit History'.
+Stage Quest/4,Xem tất cả các nhánh trong kho lưu trữ từ xa.
+Stage Quest/5,"Tìm nạp 'member-branch' từ xa vào kho lưu trữ cục bộ.
+Sau đó cập nhật cửa sổ 'Commit History'."
+CommitHistoryData/File data/ListContent/1/v1,# Shopping Website Project
+CommitHistoryData/File data/ListContent/1/v2,# Shopping Website Project\nReason for creating the website.
+CommitHistoryData/File data/ListLocation/0,shopping-website
+CommitHistoryData/File data/ListLocation/1,shopping-website\README.md
+CommitHistoryData/File data/ListLocation/2,shopping-website\.git
+CommitHistoryData/File data/ListFileName/0,shopping-website
+CommitHistoryData/File data/ListFileName/1,README.md
+CommitHistoryData/CommitMessage/1,"Added README file,"
+CommitHistoryData/CommitMessage/2,Added README content: Reason for creating the website.
+NPCCommitData/Player1/ListContent/1,# Shopping Website Project\nReason for creating the website\nWebsite operation instructions
+NPCCommitData/NPC1/ListContent/1,# Shopping Website Project\nWeb system architecture\nWebsite screenshots
+NPCCommitData/NPC1,Team Member A
+NPCCommitData/CommitMessage/Player1,Added README content: Operation instructions
+NPCCommitData/CommitMessage/NPC1,Added README content: Web system structure and screenshots.

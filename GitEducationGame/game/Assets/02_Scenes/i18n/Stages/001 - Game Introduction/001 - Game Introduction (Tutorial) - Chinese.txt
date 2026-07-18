@@ -1,0 +1,22 @@
+﻿StageTitle,"遊戲介紹"
+Story Background/Content/Story,"您是一位學生。
+在本學期的一堂課程裡，學生需要在期中考週準備一份演講報告。
+
+您花費了許多時間來準備與課程相關的投影片，
+然而，學生們需要控制報告的時間。您只好精簡報告內容。
+
+在做修改的過程中，您想確保刪除掉的內容還可以復原。
+所以您打算採用 '備份檔案' 的方式來管理簡報。
+請試著通過這個方法來完成期中報告吧。"
+Stage Quest/1,"開啟 '檔案管理' 視窗"
+Stage Quest/2,"備份檔案 '期中報告_v1.ppt'"
+Stage Quest/3,"為備份後的檔案命名"
+Stage Quest/4,"刪除最新版本檔案中多餘的內容"
+Stage Quest/5,"備份檔案 '期中報告_v2.ppt'"
+Stage Quest/6,"為備份後的檔案命名"
+Stage Quest/7,"修改最新版本檔案中的內容"
+DefaultData/File data/ListContent/1,"報告題目：管理專案的方式\n介紹備份檔案\n如何通過備份檔案來管理專案 <color=#CF001C>(需要刪除)</color>\n介紹什麼是 Git\n比較兩種方式的差異 <color=#CF001C>(需要修改)</color>\m通過表格和實例比較兩種方式的差異 (已修改)"
+DefaultData/File data/ListFileName/1,"期中報告_v1.ppt"
+DefaultData/File data/ListLocation/1,"期中報告_v1.ppt"
+Quest Filter/Valider/Target File Name/v2,"期中報告_v2.ppt"
+Quest Filter/Valider/Target File Name/v3,"期中報告_v3.ppt"

@@ -1,0 +1,26 @@
+﻿LoginButton/Not Login/LoginButtonText,Đăng nhập
+LoginButton/Not Login/SignUpButtonText,Đăng ký
+LoginButton/Login/HelloText,"Xin chào,"
+LoginButton/Login/LogOutButtonText,Đăng xuất
+StartGameButton/StartGameButtonText,Bắt đầu trò chơi
+SelectLanguagePopup/SelectLanguageTitle,Chọn ngôn ngữ
+SignUpPopup/SignUpTitle,Đăng ký
+SignUpPopup/TextBoxTitile(UserName),Tên người dùng
+SignUpPopup/TextBoxTitile(Password),Mật khẩu
+SignUpPopup/SignUpWarningText/Failed(AlreadyExist),Tài khoản này đã được đăng ký.
+SignUpPopup/SignUpWarningText/Failed(Cannot connect),"Kết nối mạng không thành công, vui lòng thử lại."
+LogInPopup/LogInTitle,Đăng nhập
+LogInPopup/TextBoxTitile(UserName),Tên người dùng
+LogInPopup/TextBoxTitile(Password),Mật khẩu
+LogInPopup/LogInWarningText/Failed(username not found),Tài khoản này không tồn tại.
+LogInPopup/LogInWarningText/Failed(password incorrect),Mật khẩu của bạn không chính xác.
+LogInPopup/LogInWarningText/Failed(Cannot connect),"Kết nối mạng không thành công, vui lòng thử lại."
+LogInPopup/LogInWarningText/Failed(need login),Yêu cầu đăng nhập.
+LogOutPopup/LogOutTitle,Cảnh báo
+LogOutPopup/LogOutWarningText,Bạn có chắc chắn muốn đăng xuất không?
+Common/Button/Yes,Đúng
+Common/Button/No,KHÔNG
+ResultMessagePopup/ResultText/LogIn,Đăng nhập thành công!
+ResultMessagePopup/ResultText/LogOut,Đăng xuất thành công!
+ResultMessagePopup/ResultText/SignUp,Tài khoản được tạo thành công!
+TooltipMessage/SelectLanguage,Ngôn ngữ

@@ -1,0 +1,30 @@
+﻿StageTitle,Chuyển đổi phiên bản dự án
+Story Background/Content/Story,"Bạn là một sinh viên.
+Gần đây, bạn đang thiết kế nội dung cho một trang web.
+
+Tuy nhiên, bạn thấy rằng thật khó để quyết định màu nào sẽ áp dụng cho văn bản trang web.
+Và bạn đã tạo hai commit với màu văn bản khác nhau.
+
+Có thể xác nhận màu nào phù hợp hơn không 
+mà không trực tiếp sửa đổi nó mà thay vào đó sử dụng các lệnh Git?"
+Stage Quest/1,Mở cửa sổ 'Commit History'.
+Stage Quest/2,Mở cửa sổ 'File Manager'.
+Stage Quest/3,Xác minh nội dung của 'Web_Stylesheet.css'.
+Stage Quest/4,Chuyển sang phiên bản commit thứ hai.
+Stage Quest/5,Kiểm tra trạng thái của cửa sổ 'Commit History'.
+Stage Quest/6,Xác minh nội dung của 'Web_Stylesheet.css'.
+Stage Quest/7,"Chuyển sang phiên bản commit thứ ba.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/8,"Chuyển sang nhánh 'master'.
+Sau đó cập nhật cửa sổ 'Commit History'."
+CommitHistoryData/File data/ListContent/0,Webpage Title\nWebpage Content\nWebpage Footer
+CommitHistoryData/File data/ListContent/1/v1,orange text
+CommitHistoryData/File data/ListContent/1/v2,blue text
+CommitHistoryData/File data/ListFileName/0,My_Homepage.html
+CommitHistoryData/File data/ListFileName/1,Web_Stylesheet.css
+CommitHistoryData/File data/ListLocation/0,My_Homepage.html
+CommitHistoryData/File data/ListLocation/1,Web_Stylesheet.css
+CommitHistoryData/CommitMessage/1,Added homepage file for the website.
+CommitHistoryData/CommitMessage/2,Added webpage style: set text color to orange.
+CommitHistoryData/CommitMessage/3,Added webpage style: set text color to blue.
+Quest Valider/Valider/0,Web_Stylesheet.css

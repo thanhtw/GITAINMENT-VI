@@ -1,0 +1,27 @@
+﻿StageTitle,Tạo kho lưu trữ cục bộ đầu tiên của bạn
+Story Background/Content/Story,"Bạn là một nhà văn.
+Gần đây bạn muốn tự mình xây dựng một trang web 
+và đưa các bài viết của bạn lên các trang web.
+
+Trong quá trình phát triển website đã được một người bạn nhắc nhở.
+Sử dụng Git để quản lý trang web có thể giảm bớt các vấn đề phát triển dự án.
+Để bắt đầu quản lý dự án, 
+trước tiên bạn cần thiết lập hệ thống quản lý Git tại vị trí dự án mục tiêu."
+Stage Quest/1,Mở cửa sổ 'Command Line'
+Stage Quest/2,Xác minh xem hệ thống Git đã được cài đặt trên máy tính chưa
+Stage Quest/3,"Dựa trên bối cảnh câu chuyện, 
+tạo hệ thống quản lý Git mới ở đúng vị trí"
+DefaultData/File data/ListFileName/1,My_Web_Project
+DefaultData/File data/ListLocation/1,My_Web_Project
+DefaultData/File data/ListContent/2,Web Title\nWeb Content\nWeb Footer
+DefaultData/File data/ListFileName/2,My_Homepage.html
+DefaultData/File data/ListLocation/2,My_Web_Project\My_Homepage.html
+DefaultData/File data/ListContent/3,Web Background Style\nText Style
+DefaultData/File data/ListFileName/3,My_Style.css
+DefaultData/File data/ListLocation/3,My_Web_Project\My_Style.css
+DefaultData/File data/ListFileName/4, Others
+DefaultData/File data/ListLocation/4, Others
+DefaultData/File data/ListContent/5,To-Do A\nTo-Do B\nTo-Do C
+DefaultData/File data/ListFileName/5,Memo.txt
+DefaultData/File data/ListLocation/5, Others\Memo.txt
+Quest Filter/Valider/Git Create Location,My_Web_Project

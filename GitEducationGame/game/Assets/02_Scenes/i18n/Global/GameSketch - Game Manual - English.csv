@@ -1,0 +1,1086 @@
+﻿TooltipMessage/GameManualButton/Unlock,Hướng dẫn trò chơi
+TooltipMessage/GameManualButton/Lock,Khóa cửa sổ: Hướng dẫn chơi game
+TooltipMessage/GameManualItem/content/commandDetail/Lock,Lệnh tiếp theo chưa được mở khóa
+GameManualItem/list/IntroGitCommand,Giới thiệu về lệnh Git
+GameManualItem/list/git,git
+GameManualItem/list/git init,git init
+GameManualItem/list/git status,git status
+GameManualItem/list/git add,thêm git
+GameManualItem/list/git reset,thiết lập lại git
+GameManualItem/list/git commit,git commit
+GameManualItem/list/git log,git log
+GameManualItem/list/git checkout,git checkout
+GameManualItem/list/git branch,git branch
+GameManualItem/list/git merge,hợp nhất git
+GameManualItem/list/git clone,bản sao git
+GameManualItem/list/git remote,git remote
+GameManualItem/list/git push,đẩy git
+GameManualItem/list/git pull,kéo git
+GameManualItem/list/IntroGame,Cách chơi và mục tiêu
+GameManualItem/list/IntroGameScore,Giới thiệu về Điểm trò chơi
+GameManualItem/list/IntroGetPerfect,Làm thế nào để hoàn thành mục tiêu một cách hoàn hảo
+GameManualItem/list/IntroAssistance,Tính năng hỗ trợ
+GameManualItem/list/IntroGameManual,Cửa sổ giới thiệu: Hướng dẫn chơi game
+GameManualItem/list/IntroFileManager,Giới thiệu cửa sổ: Trình quản lý tệp
+GameManualItem/list/IntroFileContent,Cửa sổ giới thiệu: Nội dung tệp
+GameManualItem/list/IntroResultsScreen,Cửa sổ giới thiệu: Màn hình kết quả
+GameManualItem/list/IntroCommandLine,Giới thiệu cửa sổ: Dòng lệnh
+GameManualItem/list/IntroStagingArea,Cửa sổ giới thiệu: Staging Area
+GameManualItem/list/IntroCommitHistory,Cửa sổ giới thiệu: Lịch sử commit
+GameManualItem/list/IssuesBackupFile,Sự cố với phương pháp Tệp sao lưu
+GameManualItem/list/VersionControlAndGit,Kiểm soát phiên bản và Git
+GameManualItem/list/.gitAndGitCoreAreas,Các lĩnh vực cốt lõi của .git và Git
+GameManualItem/list/ProcessCreateCommit,Quy trình tạo commit
+GameManualItem/list/RuleNameBranch,Nguyên tắc đặt tên chi nhánh
+GameManualItem/list/RuleCommitMessage,Nguyên tắc của thông điệp commit
+GameManualItem/list/DetachedHEAD,ĐẦU tách rời
+GameManualItem/list/gitMergeModes,Hợp nhất các chế độ trong git merge
+GameManualItem/list/ResolveMergeConflict,Giải quyết xung đột hợp nhất
+GameManualItem/list/CheckBeforeMergeMainBrach,Chuẩn bị trước khi sáp nhập vào nhánh từ xa chính
+GameManualWindow/content/DefaultContent,"Bấm vào mục ở danh sách bên trái
+để xem nội dung hướng dẫn"
+GameManualItem/content/common/windowTitle,Cửa sổ giới thiệu
+GameManualItem/content/common/knowledgeTitle,Giới thiệu kiến ​​thức
+GameManualItem/content/common/errorMsgTitle,Cửa sổ bật lên thông báo lỗi
+GameManualItem/content/common/commandTitle,Giới thiệu về loại lệnh
+GameManualItem/content/common/commandDetailedTitle,Định dạng lệnh
+GameManualItem/content/common/command/use,Mục đích
+GameManualItem/content/common/command/scenario,kịch bản
+GameManualItem/content/common/command/example,Ví dụ
+GameManualItem/content/common/command/hint,Những điểm cần lưu ý về lệnh
+GameManualItem/content/common/tipTitle,Mẹo:
+GameManualWindow/Title,Hướng dẫn trò chơi
+GameManualWindow/CategoryButton/Command,Lệnh
+GameManualWindow/CategoryButton/RuleAndWindow,Quy tắc và cửa sổ
+GameManualWindow/CategoryButton/VersionControl,Kiểm soát phiên bản
+GameManualWindow/ListTitle/Command,Danh sách lệnh Git
+GameManualWindow/ListTitle/RuleAndWindow,Quy tắc trò chơi và danh sách cửa sổ
+GameManualWindow/ListTitle/VersionControl,Danh sách kiểm soát phiên bản
+GameManualItem/content/git/1,"<color=#CF001C>git</color> là một trong những loại lệnh cơ bản nhất trong Git.
+Khi thực thi các lệnh Git, bạn cần thêm <color=#CF001C>git</color> vào trường lệnh đầu tiên,
+rồi thêm các loại lệnh khác (ví dụ: init, add) vào trường thứ hai.
+Đối với loại lệnh <color=#CF001C>git</color>, bạn có thể thực thi nó chỉ bằng một trường lệnh.
+Nó cũng có thể thêm các tham số khác vào trước lệnh để thực hiện các thao tác khác nhau.
+Thông thường, lệnh <color=#CF001C>git</color> có thể được sử dụng trong các trường hợp sau:
+1. Để kiểm tra phiên bản hiện tại của Git trên máy tính của bạn.
+2. Hiểu các lệnh Git có sẵn và mục đích của từng lệnh."
+GameManualItem/content/git/commandDetail/1,git <color=#CF001C>-h or --help</color>
+GameManualItem/content/git/commandDetail/1/use,"Để hiểu phần giải thích ngắn gọn về tất cả các lệnh Git có sẵn.
+Ngoài việc thực hiện lệnh này,
+bạn cũng có thể biết thêm chi tiết từ trang web Git chính thức."
+GameManualItem/content/git/commandDetail/1/scenario,"1. Khi cần ôn lại nội dung đã học trước đó.
+2. Khi tra cứu cách sử dụng một lệnh cụ thể."
+GameManualItem/content/git/commandDetail/1/example,"Khi Người dùng A gặp sự cố khi sử dụng Git, 
+thực hiện lệnh sau để được trợ giúp:"
+GameManualItem/content/git/commandDetail/1/exampleBox,git <color=#CF001C>--help</color>
+GameManualItem/content/git/commandDetail/1/hint,"Trong trò chơi này, phần giải thích chi tiết về từng lệnh đều có trong sách hướng dẫn trò chơi.
+Nếu bạn muốn tìm hiểu thêm về một lệnh cụ thể,
+vui lòng nhấp vào nút hướng dẫn trò chơi hoặc thực hiện lệnh này để mở hướng dẫn."
+GameManualItem/content/git/commandDetail/2,git <color=#CF001C>-v or --version</color>
+GameManualItem/content/git/commandDetail/2/use,"Để kiểm tra phiên bản hiện tại của hệ thống Git được sử dụng trên máy tính của bạn, 
+và xác nhận xem hệ thống đã được cài đặt chưa."
+GameManualItem/content/git/commandDetail/2/scenario,"1. Trước khi bắt đầu sử dụng Git để quản lý dự án.
+2. Khi cần xác nhận xem hệ thống Git đã được cài đặt trên máy tính hay chưa."
+GameManualItem/content/git/commandDetail/2/example,"Khi Người dùng A muốn sử dụng Git để quản lý dự án,
+thực hiện lệnh sau để xác nhận xem Git đã được cài đặt chưa:"
+GameManualItem/content/git/commandDetail/2/exampleBox,git <color=#CF001C>--version</color>
+GameManualItem/content/git/commandDetail/2/hint,"Không có điều gì đặc biệt cần chú ý, chỉ cần tuân theo các quy tắc nhập lệnh Git cơ bản.
+vui lòng tham khảo 'Giới thiệu về lệnh Git' trong hướng dẫn sử dụng trò chơi."
+GameManualItem/content/git init/1,"<color=#CF001C>git init</color> là một trong những loại lệnh cơ bản nhất trong Git.
+Khi bạn muốn bắt đầu sử dụng Git để quản lý dự án của mình,
+<color=#CF001C>git init</color> sẽ là lệnh đầu tiên bạn cần thực thi.
+Thực hiện thành công, một thư mục ẩn có tên <color=#CF001C>.git</color> sẽ được tạo trong đường dẫn tệp bạn chỉ định.
+Thư mục này là cốt lõi của hệ thống quản lý Git, lưu trữ các bản ghi của dự án.
+Nếu không có thư mục này thì hầu hết các lệnh Git sẽ không hoạt động."
+GameManualItem/content/git init/commandDetail/1,git init
+GameManualItem/content/git init/commandDetail/1/use,Để tạo thư mục ẩn <color=#CF001C>.git</color> trong đường dẫn chứa dòng lệnh.
+GameManualItem/content/git init/commandDetail/1/scenario,1. Khi bạn muốn bắt đầu sử dụng Git để quản lý dự án.
+GameManualItem/content/git init/commandDetail/1/example,"Khi Người dùng A đang chuẩn bị sử dụng Git để quản lý dự án,
+sau khi chọn đường dẫn dự án để quản lý, thực hiện lệnh sau:"
+GameManualItem/content/git init/commandDetail/1/exampleBox,git init
+GameManualItem/content/git init/commandDetail/1/hint,"<b>1. Đảm bảo đúng đường dẫn khi thực hiện lệnh:</b>
+     Khi bạn thực thi <color=#CF001C>git init</color>,
+     Git sẽ tạo một thư mục <color=#CF001C>.git</color> trong đường dẫn chứa dòng lệnh.
+     Đảm bảo đường dẫn này khớp với dự án bạn muốn quản lý,
+     để tránh những nhầm lẫn, rắc rối không cần thiết."
+GameManualItem/content/git status/1,"<color=#CF001C>git status</color> là loại lệnh liên quan đến 'Staging Area'.
+Với lệnh này,
+bạn có thể kiểm tra trạng thái hiện tại của 'Staging Area' trong hệ thống quản lý Git.
+Điều này giúp bạn hiểu tệp nào đã được sắp xếp, tệp nào đã được sửa đổi,
+và liệu họ có sẵn sàng commit hay không."
+GameManualItem/content/git status/1/tip,"Sử dụng Git trong kịch bản thực, kết quả thực thi lệnh sẽ hiển thị trong cửa sổ dòng lệnh.
+Trong trò chơi này, đầu ra được chuyển vào cửa sổ 'Staging Area'.
+Nó giúp xem nội dung dễ dàng hơn và thiết kế của cửa sổ tương tự như đầu ra thực tế."
+GameManualItem/content/git status/commandDetail/1,git status
+GameManualItem/content/git status/commandDetail/1/use,Mở cửa sổ 'Staging Area' và hiển thị trạng thái hiện tại của 'Staging Area'.
+GameManualItem/content/git status/commandDetail/1/scenario,"1. Khi bạn cần kiểm tra trạng thái hiện tại của “Staging Area”.
+2. Sau khi đẩy hoặc xóa tệp vào 'Staging Area'.
+3. Xác nhận các tệp dàn dựng và trạng thái của chúng trước khi tạo một commit mới."
+GameManualItem/content/git status/commandDetail/1/example,"Khi Người dùng A đẩy hoặc xóa các tệp đã sửa đổi khỏi 'Staging Area',
+thực hiện lệnh sau để xem trạng thái của các tệp trong khu vực:"
+GameManualItem/content/git status/commandDetail/1/exampleBox,git status
+GameManualItem/content/git status/commandDetail/1/hint,"<b>1. Không thể cập nhật nội dung ngay lập tức:</b>
+     Sau khi thực hiện các lệnh tương tác với “Staging Area”
+     (ví dụ: git add, git reset, v.v.).
+     Mặc dù trạng thái của tệp đã thay đổi nhưng không thể thấy ngay bản cập nhật trong cửa sổ.
+     Vì vậy, sau khi thực hiện các lệnh này,
+     vui lòng thực hiện lại lệnh <color=#CF001C>git status</color> để xem trạng thái mới nhất."
+GameManualItem/content/git add/1,"<color=#CF001C>git add</color> là loại lệnh liên quan đến 'Staging Area'.
+Với lệnh này, các tập tin sẽ được thêm nội dung từ thư mục làm việc vào 'Staging Area'.
+Sau khi thêm thành công các tệp vào “Staging Area”, các tệp này sẽ được đánh dấu là “đã được dàn dựng”.
+Chúng sẽ được đưa vào 'commit' tiếp theo (bản ghi phiên bản)."
+GameManualItem/content/git add/commandDetail/1,git add <color=#CF001C>file_name</color>
+GameManualItem/content/git add/commandDetail/1/use,Thêm các tệp cụ thể vào danh sách 'dàn dựng'.
+GameManualItem/content/git add/commandDetail/1/scenario,1. Khi bạn muốn lưu các thay đổi vào một tệp cụ thể dưới dạng bản ghi.
+GameManualItem/content/git add/commandDetail/1/example,"Khi Người dùng A đã hoàn tất sửa đổi 'Article_A.txt',
+thực hiện lệnh sau để thêm tệp vào 'Staging Area':"
+GameManualItem/content/git add/commandDetail/1/exampleBox,git add <color=#CF001C>Article_A.txt</color>
+GameManualItem/content/git add/commandDetail/1/hint,"<b>1. Không thể cập nhật nội dung ngay lập tức:</b>
+     Thực hiện lệnh xong không thấy ngay bản cập nhật.
+     Vui lòng sử dụng lệnh <color=#CF001C>git status</color> để kiểm tra trạng thái 'Staging Area' mới nhất."
+GameManualItem/content/git add/commandDetail/2,git add <color=#CF001C>directory_name</color>
+GameManualItem/content/git add/commandDetail/2/use,Thêm tất cả các tệp trong một thư mục được chỉ định vào 'dàn dựng' cùng một lúc.
+GameManualItem/content/git add/commandDetail/2/scenario,1. Khi bạn muốn thêm tất cả các file trong một thư mục vào “staged” cùng một lúc.
+GameManualItem/content/git add/commandDetail/2/example,"Khi Người dùng A muốn thêm tất cả các tệp trong thư mục 'Website_Images' vào 'Staging Area' cùng một lúc.
+thực hiện lệnh sau:"
+GameManualItem/content/git add/commandDetail/2/exampleBox,git add <color=#CF001C>Website_Images</color>
+GameManualItem/content/git add/commandDetail/3,git add <color=#CF001C>.</color>
+GameManualItem/content/git add/commandDetail/3/use,Thêm tất cả các tệp theo đường dẫn hiện tại của dòng lệnh vào 'dàn dựng' cùng một lúc.
+GameManualItem/content/git add/commandDetail/3/scenario,"1. Khi bạn muốn thêm tất cả các file trong toàn bộ thư mục làm việc vào “staged” cùng một lúc.
+2. Khi khởi tạo dự án Git mới lần đầu tiên."
+GameManualItem/content/git add/commandDetail/3/example,"Khi Người dùng A cần khởi tạo dự án Git mới.
+Thêm tất cả các tệp trong thư mục làm việc vào 'Staging Area'.
+Người dùng A có thể thực hiện lệnh sau:"
+GameManualItem/content/git add/commandDetail/3/exampleBox,git add <color=#CF001C>.</color>
+GameManualItem/content/git reset/1,"'git reset' là một loại lệnh mạnh mẽ.
+Nó bao gồm các lĩnh vực như 'Staging Area' và 'Lịch sử commit'.
+Trong quá trình phát triển dự án, nếu bạn không muốn thêm một số tệp vào 'Staging Area',
+bạn có thể sử dụng lệnh này để di chuyển các tệp từ khu vực 'được tổ chức' trở lại khu vực 'không được tổ chức'."
+GameManualItem/content/git reset/commandDetail/1,git reset <color=#CF001C>file_name</color>
+GameManualItem/content/git reset/1/tip,"Sử dụng Git trong các tình huống thực tế,
+<color=#CF001C>git reset</color> không chỉ có chức năng trên mà còn xóa các xác nhận trong 'Lịch sử commit'.
+Tuy nhiên, xem xét tính không thể đảo ngược và độ phức tạp của việc xóa các commit,
+trò chơi này loại bỏ tính năng 'xóa commit' để đảm bảo chất lượng học tập."
+GameManualItem/content/git reset/commandDetail/1/use,Để di chuyển các tệp được chỉ định từ khu vực 'được tổ chức' trở lại khu vực 'không được tổ chức'.
+GameManualItem/content/git reset/commandDetail/1/scenario,1. Khi bạn không muốn đặt các tập tin đã sửa đổi vào 'Staging Area'.
+GameManualItem/content/git reset/commandDetail/1/example,"Khi Người dùng A vô tình đẩy một tệp quan trọng vào 'Staging Area',
+thực hiện lệnh sau để di chuyển nó trở lại khu vực 'chưa được phân loại':"
+GameManualItem/content/git reset/commandDetail/1/exampleBox,git reset <color=#CF001C>Secret_Document.txt</color>
+GameManualItem/content/git reset/commandDetail/1/hint,"<b>1. Không thể cập nhật nội dung ngay lập tức:</b>
+     Thực hiện lệnh xong không thấy ngay bản cập nhật.
+     Vui lòng sử dụng lệnh <color=#CF001C>git status</color> để kiểm tra trạng thái 'Staging Area' mới nhất."
+GameManualItem/content/git reset/commandDetail/2,git reset <color=#CF001C>directory_name</color>
+GameManualItem/content/git reset/commandDetail/2/use,Di chuyển tất cả các tệp trong một thư mục được chỉ định từ khu vực 'được tổ chức' trở lại khu vực 'không được tổ chức'.
+GameManualItem/content/git reset/commandDetail/2/scenario,1. Khi bạn muốn di chuyển tất cả các tệp trong một thư mục cụ thể trở lại khu vực 'chưa được phân loại' cùng một lúc.
+GameManualItem/content/git reset/commandDetail/2/example,"Khi Người dùng A không muốn chuyển các tệp lớn trong một thư mục vào 'Staging Area',
+thực hiện lệnh sau để di chuyển chúng trở lại khu vực 'chưa được phân loại':"
+GameManualItem/content/git reset/commandDetail/2/exampleBox,git reset <color=#CF001C>Uncompressed_Images</color>
+GameManualItem/content/git reset/commandDetail/3,git reset <color=#CF001C>.</color>
+GameManualItem/content/git reset/commandDetail/3/use,"Di chuyển tất cả các tệp theo đường dẫn hiện tại của dòng lệnh 
+từ khu vực 'dàn dựng' trở lại khu vực 'không dàn dựng'."
+GameManualItem/content/git reset/commandDetail/3/scenario,1. Khi bạn muốn di chuyển tất cả các tệp trong toàn bộ dự án trở lại khu vực 'unstaged' cùng một lúc.
+GameManualItem/content/git reset/commandDetail/3/example,"Khi Người dùng A cần di chuyển các tệp của nhiều thư mục trở lại khu vực 'chưa được phân loại' cùng một lúc,
+thực hiện lệnh sau:"
+GameManualItem/content/git reset/commandDetail/3/exampleBox,git reset <color=#CF001C>.</color>
+GameManualItem/content/git commit/1,"<color=#CF001C>git commit</color> là loại lệnh liên quan đến 'Lịch sử commit'.
+Lệnh này tích hợp các sửa đổi trong 'Staging Area' thành một 'commit' mới,
+và lưu trữ nó trong khu vực 'Lịch sử commit' của 'Kho lưu trữ'.
+Để thực thi thành công <color=#CF001C>git commit</color>, phải đạt được hai điều kiện sau:
+1. Ít nhất một tệp đã được thêm vào 'Staging Area'.
+2. Cung cấp thông điệp commit ngắn gọn và có ý nghĩa.
+Lệnh này giúp các nhà phát triển tổ chức công việc của họ,
+cho phép theo dõi tốt hơn các thay đổi phiên bản khác nhau và mục đích của chúng."
+GameManualItem/content/git commit/commandDetail/1,"git commit <color=#CF001C>-m or --message</color> <color=""#173D91"">""thông điệp commit""</color>"
+GameManualItem/content/git commit/commandDetail/1/use,"Để tích hợp các sửa đổi trong 'Staging Area' vào một 'commit' mới,
+trong khi cung cấp một thông điệp commit để giải thích những thay đổi."
+GameManualItem/content/git commit/commandDetail/1/scenario,1. Khi bạn quyết định lưu các sửa đổi trong 'Staging Area' dưới dạng 'commit'.
+GameManualItem/content/git commit/commandDetail/1/example,"Người dùng A gần đây đã phát triển một tính năng mới và thêm các tệp vào 'Staging Area',
+Đã thực hiện lệnh sau để tạo một 'commit' mới:"
+GameManualItem/content/git commit/commandDetail/1/exampleBox,"git commit <color=#CF001C>-m</color> <color=""#173D91"">""Đã thêm tính năng từ khóa tìm kiếm.""</color>"
+GameManualItem/content/git commit/commandDetail/1/hint/1,"<b>1. Thông báo commit phải được đặt trong dấu ngoặc kép <color=#CF001C>""</color>:</b>
+     Lệnh Git sử dụng khoảng trắng để phân tách các trường lệnh khác nhau.
+     Việc sử dụng dấu ngoặc kép đảm bảo thông điệp commit được xem như một trường lệnh.
+<b>2. Thông điệp commit phải cụ thể và rõ ràng:</b>
+     Để mọi người nhanh chóng hiểu được nội dung và mục đích của từng 'commit',
+     vui lòng đảm bảo rằng thông điệp commit bạn điền vào là cụ thể và rõ ràng.
+<b>3. Cách điền nhanh thông điệp commit trong trò chơi này:</b>
+     Trò chơi này cung cấp một cách để nhanh chóng điền vào các thông điệp commit,
+     vui lòng làm theo các bước sau để thực hiện lệnh chính xác:"
+GameManualItem/content/git commit/commandDetail/1/hint/2,1. Nhập lệnh sau vào dòng lệnh:
+GameManualItem/content/git commit/commandDetail/1/hint/3,"git commit <color=#CF001C>-m</color> <color=""#173D91"">""""</color>"
+GameManualItem/content/git commit/commandDetail/1/hint/4,"2. Giữ con trỏ sau cặp dấu ngoặc kép rỗng, rồi nhấn phím Tab hoặc biểu tượng kính lúp bên cạnh dòng lệnh.
+        3. Trong cửa sổ hiện ra, chọn thông điệp mô tả chính xác nhất thay đổi vừa thực hiện.
+        4. Trò chơi sẽ tự động điền thông điệp vào giữa hai dấu ngoặc kép. Sau đó, nhấn Enter để chạy lệnh."
+GameManualItem/content/git commit/commandDetail/1/hint/5,"Thực hiện theo các bước trên,
+     bạn có thể dễ dàng thực thi lệnh <color=#CF001C>git commit</color> và gửi các sửa đổi của mình."
+GameManualItem/content/git log/1,"<color=#CF001C>git log</color> là loại lệnh được sử dụng rộng rãi.
+Nó liên quan đến 'Lịch sử commit', 'Quản lý chi nhánh' và 'Quản lý từ xa'.
+Chức năng chính của loại lệnh này là 
+cho phép bạn hiểu trạng thái 'Lịch sử commit' trong hệ thống quản lý Git hiện tại.
+'Lịch sử commit' là một khu vực trong 'Kho lưu trữ' được sử dụng để lưu trữ tất cả các commit của một dự án."
+GameManualItem/content/git log/1/tip,"Sử dụng Git trong kịch bản thực tế, kết quả được hiển thị trong cửa sổ dòng lệnh.
+Trò chơi này tích hợp nội dung đầu ra vào cửa sổ 'Lịch sử commit'.
+Điều này giúp xem nội dung dễ dàng hơn và thiết kế của cửa sổ tương tự như đầu ra thực tế.
+Nó cũng tích hợp các kết quả đầu ra khác nhau của các tham số <color=#CF001C>git log</color>."
+GameManualItem/content/git log/commandDetail/1,git log
+GameManualItem/content/git log/commandDetail/1/use,Mở cửa sổ 'Lịch sử commit' và hiển thị trạng thái 'Lịch sử commit' hiện tại.
+GameManualItem/content/git log/commandDetail/1/scenario,"1. Khi bạn muốn kiểm tra trạng thái hiện tại của 'Lịch sử commit'.
+2. Sau khi tạo một commit mới.
+3. Sau khi chuyển sang một commit khác.
+4. Để xem trạng thái của các nhánh kho lưu trữ cục bộ.
+5. Để xem trạng thái của các nhánh kho lưu trữ từ xa."
+GameManualItem/content/git log/commandDetail/1/example,"Khi Người dùng A hoàn thành một tính năng mới và commit thành công,
+thực hiện lệnh sau để xem trạng thái 'Lịch sử commit' hiện tại:"
+GameManualItem/content/git log/commandDetail/1/exampleBox,git log
+GameManualItem/content/git log/commandDetail/1/hint/1,"<b>1. Không thể cập nhật nội dung ngay lập tức:</b>
+     Khi thực thi các lệnh ảnh hưởng đến “Lịch sử commit”
+     (ví dụ: git commit, git checkout, v.v.).
+     Mặc dù nó được thực thi thành công nhưng không thể thấy bản cập nhật trong cửa sổ ngay lập tức.
+     Do đó, sau khi thực hiện các lệnh này, hãy sử dụng lại <color=#CF001C>git log</color> để kiểm tra trạng thái mới nhất.
+<b>2. Thiết kế cửa sổ 'Lịch sử commit':</b>
+     Trong trò chơi này, kết quả đầu ra của lệnh <color=#CF001C>git log</color>
+     được tích hợp vào một cửa sổ có tên 'Lịch sử commit'.
+     Sử dụng Git trong kịch bản thực tế, 
+     bạn cần nhập lệnh sau để đạt được hiệu quả tương tự:"
+GameManualItem/content/git log/commandDetail/1/hint/2,"git log <color=#CF001C>--oneline</color> <color=""#173D91"">--all</color> <color=#244B0E>--graph</color>"
+GameManualItem/content/git log/commandDetail/1/hint/3,"Chức năng của các tham số này như sau:
+     <color=#CF001C>--oneline</color> chỉ hiển thị 'ID commit' và 'thông điệp commit'.
+     <color=""#173D91"">--all</color> hiển thị 'Lịch sử commit' của tất cả các nhánh.
+     <color=#244B0E>--graph</color> hiển thị mối quan hệ giữa các 'commit' bằng đồ họa."
+GameManualItem/content/git checkout/1,"<color=#CF001C>gitcheck</color> là loại lệnh được sử dụng rộng rãi.
+Nó liên quan đến 'Lịch sử commit' và 'Quản lý chi nhánh'.
+Lệnh này cho phép bạn chuyển đổi giữa các commit hoặc nhánh khác nhau,
+và cũng đồng bộ hóa nội dung tệp trong 'Thư mục làm việc'."
+GameManualItem/content/git checkout/commandDetail/1,git checkout <color=#CF001C>commit_ID</color>
+GameManualItem/content/git checkout/commandDetail/1/use,"Di chuyển HEAD tới một 'commit' được chỉ định, khôi phục dự án về phiên bản của commit đó."
+GameManualItem/content/git checkout/commandDetail/1/scenario,"1. Để kiểm tra các thay đổi trong các 'commit' khác nhau.
+2. Để sửa các lỗi phát hiện ở phiên bản mới nhất."
+GameManualItem/content/git checkout/commandDetail/1/example,"Khi Người dùng A cần quay lại phiên bản trước để kiểm tra nguyên nhân xảy ra lỗi.
+Sau khi xác nhận ID commit cụ thể (ví dụ: 123abc),
+thực hiện lệnh sau:"
+GameManualItem/content/git checkout/commandDetail/1/exampleBox,git checkout <color=#CF001C>123abc</color>
+GameManualItem/content/git checkout/commandDetail/1/hint,"<b>1. Sau khi xem xong quay lại đúng nhánh để tiếp tục phát triển:</b>
+     Khi HEAD trỏ đến 'commit', thay vì 'chi nhánh'.
+     Đây được gọi là trạng thái 'tách rời HEAD'.
+     Ở trạng thái này, các 'commit' mới không được tạo trên bất kỳ nhánh nào.
+     Điều này có thể dẫn đến việc mất 'commit'.
+     Để duy trì quản lý dự án, sau khi xem nội dung,
+     vui lòng sử dụng lệnh <color=#CF001C>git checkout branch_name</color> để trỏ HEAD trở lại một nhánh."
+GameManualItem/content/git checkout/commandDetail/2,git checkout <color=#CF001C>branch_name</color>
+GameManualItem/content/git checkout/commandDetail/2/use,"Trỏ HEAD tới một 'nhánh' được chỉ định.
+HEAD sẽ chuyển sang 'commit' mới nhất của chi nhánh đó, cho phép bạn tiếp tục phát triển dự án."
+GameManualItem/content/git checkout/commandDetail/2/scenario,"1. Tiếp tục phát triển trên một nhánh cụ thể.
+2. Khi chuẩn bị thực hiện sáp nhập chi nhánh."
+GameManualItem/content/git checkout/commandDetail/2/example,"Khi Người dùng A hoàn tất việc xem lại nội dung của phiên bản trước,
+và cần tiếp tục phát triển trên nhánh 'chính',
+thực hiện lệnh sau để chuyển nhánh:"
+GameManualItem/content/git checkout/commandDetail/2/exampleBox,git checkout <color=#CF001C>master</color>
+GameManualItem/content/git checkout/commandDetail/2/hint,"<b>1. Hãy nhận biết chi nhánh hiện tại:</b>
+     Trong quá trình phát triển dự án, việc phát triển các tính năng trên nhánh không chính xác là điều bình thường.
+     Để tránh nhầm lẫn không cần thiết,
+     vui lòng đảm bảo bạn đang ở đúng nhánh trước khi phát triển các tính năng."
+GameManualItem/content/git branch/1,"<color=#CF001C>git branch</color> là loại lệnh liên quan đến 'Quản lý chi nhánh' và 'Quản lý từ xa'.
+Lệnh này thực hiện các hoạt động quản lý chi nhánh khác nhau,
+bao gồm xem, thêm, xóa, v.v.
+Ngoài ra, với các thông số cụ thể, bạn có thể xem các nhánh từ xa trong kho lưu trữ từ xa.
+Nó thường được sử dụng kết hợp với loại lệnh <color=#CF001C>gitcheck</color>."
+GameManualItem/content/git branch/commandDetail/1,git branch
+GameManualItem/content/git branch/commandDetail/1/use,"Để xem tên của tất cả các nhánh cục bộ trong kho lưu trữ cục bộ hiện tại.
+Nó cũng hiển thị vị trí HEAD hiện tại trong 'nhánh' hoặc 'commit'."
+GameManualItem/content/git branch/commandDetail/1/scenario,"1. Để xác nhận vị trí hiện tại của HEAD.
+2. Để xem các nhánh cục bộ nào có trong kho lưu trữ."
+GameManualItem/content/git branch/commandDetail/1/example,"Khi Người dùng A cần xem tất cả các nhánh trong kho lưu trữ cục bộ và vị trí của HEAD.
+Người dùng A có thể thực hiện lệnh sau:"
+GameManualItem/content/git branch/commandDetail/1/exampleBox,git branch
+GameManualItem/content/git branch/commandDetail/1/hint,"<b>1. Sự khác biệt so với lệnh <color=#CF001C>git log</color>:</b>
+     Mặc dù cả hai lệnh đều có thể xem các nhánh nhưng mục đích của chúng là khác nhau.
+     <color=#CF001C>git log</color> được sử dụng để xem 'Lịch sử commit' của các nhánh.
+     <color=#173D91>git branch</color> được sử dụng để xem tất cả các nhánh trong kho lưu trữ."
+GameManualItem/content/git branch/commandDetail/2,git branch <color=#CF001C>branch_name</color>
+GameManualItem/content/git branch/commandDetail/2/use,"Để tạo một nhánh cục bộ mới.
+Nhánh này sẽ dựa trên 'commit' của HEAD hiện tại,
+và sẽ chứa tất cả các commit cũ hơn trước nó."
+GameManualItem/content/git branch/commandDetail/2/scenario,"1. Khi cần khắc phục sự cố trong dự án.
+2. Khi cần phát triển các tính năng mới trong dự án."
+GameManualItem/content/git branch/commandDetail/2/example,"Khi Người dùng A cần phát triển một tính năng mới trong dự án,
+thực hiện lệnh sau để tạo một nhánh mới:"
+GameManualItem/content/git branch/commandDetail/2/exampleBox,git branch <color=#CF001C>new-feature</color>
+GameManualItem/content/git branch/commandDetail/2/hint,"<b>1. Sau khi tạo nhánh thì chuyển sang nhánh đó:</b>
+     Lệnh này chỉ được sử dụng để tạo các nhánh.
+     Để phát triển trên nhánh mới được tạo,
+     vui lòng sử dụng lệnh <color=#CF001C>gitcheck</color> để chuyển sang nhánh đó.
+<b>2. Tên chi nhánh phải cụ thể và rõ ràng:</b>
+     Để giúp bản thân và nhóm của bạn nhanh chóng hiểu được nội dung và mục đích của chi nhánh,
+     hãy đảm bảo tên chi nhánh là cụ thể và rõ ràng."
+GameManualItem/content/git branch/commandDetail/3,"git branch <color=#CF001C>-d or --delete</color> <color=""#173D91"">branch_name</color>"
+GameManualItem/content/git branch/commandDetail/3/use,Để xóa một nhánh cục bộ được chỉ định khỏi kho lưu trữ cục bộ.
+GameManualItem/content/git branch/commandDetail/3/scenario,1. Khi chi nhánh đã hoàn thành mục tiêu và sáp nhập vào chi nhánh chính.
+GameManualItem/content/git branch/commandDetail/3/example,"Khi Người dùng A đã hợp nhất nhánh phát triển tính năng vào nhánh chính,
+thực hiện lệnh sau để xóa nhánh:"
+GameManualItem/content/git branch/commandDetail/3/exampleBox,"git branch <color=#CF001C>-d</color> <color=""#173D91"">new-feature</color>"
+GameManualItem/content/git branch/commandDetail/3/hint,"<b>1. Trước khi xóa một nhánh, hãy đảm bảo HEAD đã di chuyển đến vị trí khác:</b>
+     Để thực hiện thành công lệnh xóa nhánh,
+     vui lòng đảm bảo HEAD được chuyển sang chi nhánh hoặc commit khác."
+GameManualItem/content/git branch/commandDetail/4,git branch <color=#CF001C>-r or --remote</color>
+GameManualItem/content/git branch/commandDetail/4/use,"Để xem tên của tất cả các nhánh từ xa, được đặt tên theo định dạng:
+<color=#CF001C>remote_repository_alias/tên nhánh</color>."
+GameManualItem/content/git branch/commandDetail/4/scenario,1. Khi cần biết tên các nhánh remote trong remote repo.
+GameManualItem/content/git branch/commandDetail/4/example,"Khi Người dùng A muốn biết tên nhánh từ xa do Người dùng B phát triển,
+thực hiện lệnh sau:"
+GameManualItem/content/git branch/commandDetail/4/exampleBox,git branch <color=#CF001C>-r</color>
+GameManualItem/content/git branch/commandDetail/4/hint,"<b>1. Sự khác biệt so với lệnh <color=#CF001C>git branch</color>:</b>
+     Mặc dù cả hai lệnh đều có thể xem tên nhánh nhưng mục đích của chúng khác nhau:
+     <color=#CF001C>git branch</color> được sử dụng để xem các nhánh cục bộ.
+     <color=#173D91>git branch -r</color> được sử dụng để xem tất cả tên nhánh từ xa."
+GameManualItem/content/git branch/commandDetail/5,"git branch <color=#CF001C>local_branch_name</color> <color=""#173D91"">remote_branch_name</color>"
+GameManualItem/content/git branch/commandDetail/5/use,Sao chép 'lịch sử commit' của một nhánh từ xa được chỉ định sang nhánh cục bộ mới được tạo.
+GameManualItem/content/git branch/commandDetail/5/scenario,"1. Khi bạn cần lấy một nhánh cụ thể từ kho lưu trữ từ xa. 
+2. Khi bạn cần xem các chi nhánh từ xa của các nhà phát triển khác hoặc của riêng bạn."
+GameManualItem/content/git branch/commandDetail/5/example,"Khi Người dùng A cần xem 'nhánh thành viên' do Người dùng B tạo.
+Sử dụng lệnh sau để đưa nhánh 'nhánh thành viên' từ xa đến thiết bị cục bộ:"
+GameManualItem/content/git branch/commandDetail/5/exampleBox,"git branch <color=#CF001C>member-branch</color> <color=""#173D91"">origin/member-branch</color>"
+GameManualItem/content/git branch/commandDetail/5/hint,"<b>1. Tên nhánh cục bộ thường phải khớp với tên chi nhánh ở xa:</b>
+     Thông thường, tên nhánh cục bộ phải giống với tên nhánh ở xa.
+     Điều này có thể tránh được sự nhầm lẫn.
+<b>2. Đảm bảo tên nhánh được chỉ định không tồn tại khi thực hiện lệnh này:</b>
+     Tương tự như lệnh <color=#CF001C>git branch</color>, lệnh này tạo nhánh trong kho lưu trữ cục bộ.
+     Nếu tên nhánh được tạo đã tồn tại, lệnh sẽ ngừng chạy."
+GameManualItem/content/git merge/1,"<color=#CF001C>git merge</color> là một loại lệnh quan trọng.
+Nó liên quan đến 'Lịch sử commit' và 'Quản lý chi nhánh'.
+Lệnh này có thể hợp nhất nhánh.
+Trong quá trình sáp nhập,
+Git tự động chọn chế độ hợp nhất dựa trên 'lịch sử commit' của hai nhánh mục tiêu.
+Có ba loại chế độ hợp nhất:
+1. Hợp nhất chuyển tiếp nhanh
+2. Tự động hợp nhất
+3. Hợp nhất xung đột
+Để có giải thích chi tiết về các chế độ hợp nhất này,
+vui lòng tham khảo 'Chế độ hợp nhất trong git merge' trong hướng dẫn sử dụng trò chơi."
+GameManualItem/content/git merge/commandDetail/1,git merge <color=#CF001C>branch_name</color>
+GameManualItem/content/git merge/commandDetail/1/use,"Hợp nhất nội dung nhánh được nhắm mục tiêu vào nhánh hiện tại,
+hãy để nhánh hiện tại nhận được tất cả 'lịch sử commit' từ nhánh được nhắm mục tiêu."
+GameManualItem/content/git merge/commandDetail/1/scenario,"1. Khi chuẩn bị sáp nhập một nhánh đã hoàn thành vào nhánh chính.
+2. Một trong các bước xác nhận quá trình hợp nhất trước khi tạo Pull Request."
+GameManualItem/content/git merge/commandDetail/1/example,"Khi Người dùng A hoàn tất quá trình phát triển trên nhánh 'tính năng mới',
+và muốn hợp nhất nội dung của nó vào nhánh 'chính'.
+Người dùng A có thể chuyển sang nhánh 'chính' và thực hiện lệnh sau:"
+GameManualItem/content/git merge/commandDetail/1/exampleBox,git merge <color=#CF001C>new-feature</color>
+GameManualItem/content/git merge/commandDetail/1/hint,"<b>1. Xác nhận chi nhánh hiện tại:</b>
+     Trước khi thực hiện hợp nhất, hãy đảm bảo nhánh hiện tại là chính xác.
+     Để tránh việc sáp nhập vào sai nhánh và gây ra những sự cố không đáng có.
+<b>2. Xác nhận vai trò của nhánh được chỉ định và nhánh hiện tại:</b>
+     Việc sáp nhập nhánh A vào nhánh B có thể dẫn đến kết quả khác với việc sáp nhập nhánh B vào nhánh A.
+     Vì vậy, trước khi bắt đầu hợp nhất. 
+     Hãy xác định rõ vai trò của cả 2 nhánh trước để tránh sáp nhập vào nhầm nhánh."
+GameManualItem/content/git clone/1,"<color=#CF001C>git clone</color> là loại lệnh liên quan đến 'Quản lý từ xa'.
+Đây là lệnh đầu tiên được thực thi khi sử dụng kho lưu trữ từ xa.
+Loại lệnh này là sao chép nội dung của kho lưu trữ từ xa sang thiết bị cục bộ của bạn, 
+và tạo kết nối giữa thiết bị cục bộ của bạn và kho lưu trữ từ xa.
+Kho lưu trữ từ xa được nhân bản thành công được Git đặt tên là 'origin'.
+Một phần lệnh Git sẽ sử dụng các bí danh kho lưu trữ này để thực hiện các hành động."
+GameManualItem/content/git clone/commandDetail/1,git clone <color=#CF001C>remote_repository_URL</color>
+GameManualItem/content/git clone/commandDetail/1/use,Sao chép nội dung của kho lưu trữ từ xa vào thiết bị cục bộ của bạn.
+GameManualItem/content/git clone/commandDetail/1/scenario,"1. Khi chuẩn bị bắt đầu phát triển bằng kho lưu trữ từ xa.
+2. Khi cần tiếp tục phát triển dự án trên một thiết bị mới."
+GameManualItem/content/git clone/commandDetail/1/example,"Khi Người dùng A tạo kho lưu trữ từ xa mới (ví dụ: https://github.com/user/New-Project.git) 
+trên nền tảng dịch vụ Git (chẳng hạn như GitHub, GitLab, v.v.).
+Để phát triển dự án trên thiết bị cục bộ của họ, hãy thực hiện lệnh sau:"
+GameManualItem/content/git clone/commandDetail/1/exampleBox,git clone <color=#CF001C>https://github.com/user/New-Project.git</color>
+GameManualItem/content/git clone/commandDetail/1/hint,"<b>1. Xác nhận đường dẫn dòng lệnh hiện tại:</b>
+     Sau khi thực hiện lệnh này, Git sẽ tạo một thư mục có cùng tên với remote 
+     kho lưu trữ trong đường dẫn dòng lệnh.
+     Thư mục chứa tất cả các tệp từ kho lưu trữ từ xa.
+<b>2. Hiểu nguyên nhân khiến việc thực thi lệnh không thành công:</b>
+     Các lý do khiến việc thực thi lệnh không thành công có thể bao gồm:
+          1. Sự cố kết nối mạng.
+          2. Vấn đề về quyền.
+          3. Trạng thái của đường dẫn hiện tại.
+     Để tránh thất bại do 'trạng thái của đường dẫn hiện tại',
+     hãy đảm bảo rằng không có thư mục nào trong đường dẫn hiện tại có cùng tên
+      làm kho lưu trữ từ xa và thư mục đó trống."
+GameManualItem/content/git remote/1,"<color=#CF001C>git remote</color> là loại lệnh liên quan đến 'Quản lý từ xa'.
+Nó được sử dụng để xác nhận xem một dự án có được kết nối với các kho lưu trữ từ xa khác hay không,
+và hiển thị các URL và bí danh của các kho lưu trữ từ xa được kết nối.
+Trong thực tế sử dụng Git,
+lệnh này cũng có thể được sử dụng để thêm hoặc xóa kết nối với các kho lưu trữ từ xa khác."
+GameManualItem/content/git remote/commandDetail/1,git remote <color=#CF001C>-v or --verbose</color>
+GameManualItem/content/git remote/commandDetail/1/use,"Xác nhận xem dự án cục bộ đã kết nối với các kho lưu trữ từ xa khác chưa,
+và hiển thị các URL và bí danh của các kho được kết nối."
+GameManualItem/content/git remote/commandDetail/1/scenario,1. Khi bạn cần xác nhận trạng thái kết nối từ xa của dự án hiện tại.
+GameManualItem/content/git remote/commandDetail/1/example,"Khi Người dùng A sao chép kho lưu trữ từ xa từ nền tảng dịch vụ Git sang thiết bị cục bộ của họ.
+Để xác nhận xem nó có được kết nối chính xác với kho lưu trữ từ xa tương ứng hay không,
+họ có thể thực hiện lệnh sau:"
+GameManualItem/content/git remote/commandDetail/1/exampleBox,git remote <color=#CF001C>-v</color>
+GameManualItem/content/git remote/commandDetail/1/hint,"<b>1. Không có phản hồi khi không được kết nối với bất kỳ kho lưu trữ từ xa nào:</b>
+     Nếu dự án không kết nối với các kho lưu trữ từ xa khác.
+     Thực hiện lệnh này sẽ không trả lại bất kỳ tin nhắn nào."
+GameManualItem/content/git push/1,"<color=#CF001C>git push</color> là loại lệnh liên quan đến 'Quản lý từ xa'.
+Lệnh này được sử dụng để tải nội dung của một nhánh cục bộ lên một kho lưu trữ từ xa được chỉ định,
+và kho lưu trữ từ xa tạo và cập nhật nhánh từ xa tương ứng."
+GameManualItem/content/git push/commandDetail/1,"git push <color=#CF001C>remote_repository_alias</color> <color=""#173D91"">local_branch_name</color>"
+GameManualItem/content/git push/commandDetail/1/use,"Tải nhánh cục bộ được nhắm mục tiêu lên kho lưu trữ từ xa được nhắm mục tiêu.
+Nó sẽ tạo một nhánh từ xa có cùng tên trong kho lưu trữ từ xa.
+Và đồng bộ hóa 'lịch sử commit' của nhánh cục bộ."
+GameManualItem/content/git push/commandDetail/1/scenario,"1. Khi một phần của tính năng được hoàn thành.
+2. Khi cần sao lưu nội dung của một nhánh cục bộ.
+3. Khi tính năng đã được phát triển đầy đủ."
+GameManualItem/content/git push/commandDetail/1/example,"Khi Người dùng A đã hoàn thành một tính năng trên nhánh 'tính năng mới'
+và muốn tải nội dung nhánh lên kho lưu trữ từ xa.
+Người dùng A có thể thực hiện lệnh sau:"
+GameManualItem/content/git push/commandDetail/1/exampleBox,"git push <color=#CF001C>origin</color> <color=""#173D91"">new-feature</color>"
+GameManualItem/content/git push/commandDetail/1/hint,"<b>1. Xác nhận tên của kho lưu trữ từ xa:</b>
+     Trong quá trình phát triển dự án chung, chúng tôi chỉ cần một kho lưu trữ từ xa được kết nối, 
+     được đặt tên là 'origin' trong Git.
+     Tuy nhiên, nếu bạn được kết nối với nhiều kho lưu trữ từ xa.
+     Trước khi tải lên các thay đổi, 
+     vui lòng sử dụng lệnh <color=#CF001C>git remote</color> để kiểm tra kho lưu trữ từ xa chính xác."
+GameManualItem/content/git push/commandDetail/2,"git push <color=#CF001C>-d or --delete</color> <color=""#173D91"">remote_repository_alias</color> <color=#244B0E>local_branch_name</color>"
+GameManualItem/content/git push/commandDetail/2/use,Xóa một nhánh từ xa được nhắm mục tiêu trong kho lưu trữ từ xa được nhắm mục tiêu.
+GameManualItem/content/git push/commandDetail/2/scenario,1. Khi một nhánh từ xa được nhắm mục tiêu đã được hợp nhất vào nhánh từ xa chính.
+GameManualItem/content/git push/commandDetail/2/example,"Khi Người dùng A tạo Pull Request,
+nó đã hợp nhất thành công nhánh 'tính năng mới' vào nhánh 'chính' từ xa.
+Người dùng A có thể thực hiện lệnh sau để xóa nhánh từ xa:"
+GameManualItem/content/git push/commandDetail/2/exampleBox,"git push <color=#CF001C>-d</color> <color=""#173D91"">origin</color> <color=#244B0E>new-feature</color>"
+GameManualItem/content/git push/commandDetail/2/hint,"<b>1. Xác nhận tên của kho lưu trữ từ xa:</b>
+     Trong quá trình phát triển dự án chung, chúng tôi chỉ cần một kho lưu trữ từ xa được kết nối, 
+     được đặt tên là 'origin' trong Git.
+     Tuy nhiên, nếu bạn được kết nối với nhiều kho lưu trữ từ xa.
+     Trước khi xóa chi nhánh,
+     vui lòng sử dụng lệnh <color=#CF001C>git remote</color> để kiểm tra kho lưu trữ từ xa chính xác."
+GameManualItem/content/git pull/1,"<color=#CF001C>git pull</color> là loại lệnh liên quan đến 'Quản lý từ xa'.
+Nó được sử dụng để đồng bộ hóa nhánh cục bộ của bạn với nhánh trong kho lưu trữ từ xa.
+Để đảm bảo rằng nhánh cục bộ của bạn luôn được cập nhật.
+Khi thực hiện lệnh này, nó sẽ thực hiện tuần tự hai thao tác sau:
+1. Tải xuống 'lịch sử commit' mới nhất từ kho lưu trữ từ xa.
+2. Hợp nhất các commit mới này vào nhánh cục bộ của bạn.
+Thao tác thứ hai tương tự như tính năng của lệnh <color=#CF001C>git merge</color>,
+trong đó Git tự động chọn một trong các chế độ hợp nhất dựa trên sự khác biệt giữa các nhánh."
+GameManualItem/content/git pull/commandDetail/1,"git pull <color=#CF001C>remote_repository_alias </color> <color=""#173D91"">branch_name</color>"
+GameManualItem/content/git pull/commandDetail/1/use,Đồng bộ hóa nhánh cục bộ hiện tại với nhánh từ xa được nhắm mục tiêu trong kho lưu trữ từ xa được nhắm mục tiêu.
+GameManualItem/content/git pull/commandDetail/1/scenario,"1. Khi cần phát triển dự án trên các thiết bị cục bộ khác.
+2. Một trong các bước xác nhận quá trình hợp nhất trước khi tạo Pull Request."
+GameManualItem/content/git pull/commandDetail/1/example,"Khi Người dùng A cần phát triển dự án trên thiết bị khác,
+và kho lưu trữ cục bộ đã lâu không được cập nhật.
+Người dùng A có thể thực thi lệnh sau để cập nhật nhánh 'tính năng mới' cục bộ:"
+GameManualItem/content/git pull/commandDetail/1/exampleBox,"git pull <color=#CF001C>origin</color> <color=""#173D91"">new-feature</color>"
+GameManualItem/content/git pull/commandDetail/1/hint,"<b>1. Xác nhận tên của kho lưu trữ từ xa:</b>
+     Trong quá trình phát triển dự án chung, chúng tôi chỉ cần một kho lưu trữ từ xa được kết nối, 
+     được đặt tên là 'origin' trong Git.
+     Tuy nhiên, nếu bạn được kết nối với nhiều kho lưu trữ từ xa.
+     Trước khi đồng bộ hóa nội dung,
+     vui lòng sử dụng lệnh <color=#CF001C>git remote</color> để kiểm tra kho lưu trữ từ xa chính xác.
+<b>2. Đảm bảo bạn đang ở đúng nhánh:</b>
+     Trước khi thực hiện lệnh này, hãy đảm bảo bạn đang ở đúng nhánh.
+     Nếu bạn thực thi <color=#CF001C>git pull origin new-feature</color> khi đang ở nhánh 'master',
+     nhánh 'chính' sẽ nhận được 'lịch sử commit' của 'tính năng mới' từ xa.
+     Điều này có thể gây ra sự nhầm lẫn không cần thiết."
+GameManualItem/content/IntroGameManual/1,"Hướng dẫn trò chơi có thể giúp bạn xem lại nội dung bạn đã học trước đó trong trò chơi. 
+Bạn có thể mở và xem nội dung của nó bất kỳ lúc nào trong màn hình chọn màn chơi hoặc khi đang chơi một màn chơi.
+Nếu bạn gặp khó khăn trong trò chơi và không thể giải quyết được những thử thách hiện tại,
+Hướng dẫn trò chơi có thể cung cấp gợi ý và giải pháp.
+Khi bạn chơi các màn chơi mới, kiến ​​thức mới sẽ được mở khóa và bổ sung vào đó. 
+Kiến thức được chia thành ba chủ đề chính:
+<b>1. Lệnh Git:</b>
+     Tất cả các lệnh Git đã học trong trò chơi đều được phân loại trong phần này.
+     Nó bao gồm cách sử dụng, kịch bản và những điều cần chú ý đối với mỗi lệnh.
+<b>2. Luật chơi và Windows:</b>
+     Danh mục này bao gồm các hệ thống, cửa sổ và quy tắc của trò chơi. 
+     Nếu cần xem lại tính năng trong game, bạn có thể học hỏi từ chuyên mục này.
+<b>3. Kiểm soát phiên bản:</b>
+     Phần này chứa kiến thức và khái niệm về kiểm soát phiên bản và Git.
+Khi bạn đã hoàn thành một màn trong trò chơi và muốn xem lại những kiến ​​thức đã học trước đó, bạn có thể mở Hướng dẫn trò chơi để xem lại.
+Hoặc bạn có thể chọn màn chơi muốn xem trực tiếp từ màn hình chọn màn chơi cho các bài tập thực hành."
+GameManualItem/content/IntroGameManual/2/Title,Mục kiến ​​thức trong sách hướng dẫn
+GameManualItem/content/IntroGameManual/2,"Trong Hướng dẫn trò chơi, nội dung theo từng danh mục được liệt kê ở phía bên trái. 
+Bạn có thể nhấp vào nút danh mục ở góc trên bên trái để xem danh sách kiến ​​thức trong từng danh mục.
+Danh sách kiến thức có ba biểu tượng khác nhau:
+<b>1. Kiến thức bị khóa, có thể được mở khóa bằng cách chơi các màn mới:</b>"
+GameManualItem/content/IntroGameManual/3,<b>2. Mở khóa kiến ​​thức:</b>
+GameManualItem/content/IntroGameManual/4,<b>3. Kiến thức đã được mở khóa có thể được sử dụng ở màn chơi hiện tại:</b>
+GameManualItem/content/IntroGameManual/5,"Tính năng này đặc biệt hữu ích cho danh mục 'Lệnh Git'.
+     Nó có thể giúp bạn xác định lệnh nào sẽ được sử dụng ở màn chơi hiện tại."
+GameManualItem/content/IntroFileContent/1,"Cửa sổ Nội dung tệp mô phỏng công cụ chỉnh sửa tài liệu trong máy tính thực tế.
+Nó cho phép bạn chỉnh sửa nội dung của một tài liệu được chỉ định.
+Cửa sổ này có các tính năng sau:
+1. Thêm nội dung
+2. Sửa đổi nội dung các dòng cụ thể
+3. Xóa nội dung của dòng cụ thể
+4. Đổi tên file hiện tại"
+GameManualItem/content/IntroFileContent/2/Title,Giới thiệu thanh tiêu đề
+GameManualItem/content/IntroFileContent/2,"<b>Văn bản bên trái:</b> Tên của tài liệu hiện tại đang được chỉnh sửa.
+<b>Biểu tượng bút chì bên phải:</b> Nút đổi tên tệp."
+GameManualItem/content/IntroFileContent/3/Title,Vùng nội dung tập tin
+GameManualItem/content/IntroFileContent/3,"Sau khi mở một tệp được chỉ định, nội dung của nó sẽ được hiển thị trong khu vực này. 
+Cấu trúc từng dòng: 
+<b>·Nút bút chì trái:</b> Sửa đổi nội dung trong dòng này.
+<b>·Văn bản giữa:</b> Nội dung văn bản trong dòng này.
+<b>·Nút X bên phải:</b> Xóa dòng này.
+Ngoài ra, còn có nút <color=#CF001C>+</color> ở phía dưới để thêm nội dung mới vào tệp."
+GameManualItem/content/IntroFileContent/4,"Nếu bạn thực hiện một hành động không chính xác trong trò chơi,
+hệ thống sẽ hiển thị thông báo lỗi tại đây và cung cấp nguyên nhân gây ra lỗi.
+Để tìm hiểu cách tránh lỗi vận hành,
+vui lòng tham khảo 'Cách hoàn thành mục tiêu một cách hoàn hảo' trong Hướng dẫn trò chơi."
+GameManualItem/content/IntroFileManager/1,"Cửa sổ Trình quản lý tệp mô phỏng hệ thống trình khám phá tệp trong máy tính thực.
+Nó hiển thị nội dung của máy tính trong nền mô phỏng hiện tại.
+Trong trò chơi, cửa sổ thường sẽ mở.
+Bởi vì một số lệnh Git yêu cầu bạn nhập tên của các tệp cụ thể."
+GameManualItem/content/IntroFileManager/2/Title,Giới thiệu thanh công cụ
+GameManualItem/content/IntroFileManager/2,"<b>Nút trái:</b> Quay lại thư mục trước.
+<b>Hộp văn bản bên phải:</b> Hiển thị vị trí/đường dẫn thư mục hiện tại (Trang chủ là trang chủ)."
+GameManualItem/content/IntroFileManager/3/Title,Giới thiệu loại tệp
+GameManualItem/content/IntroFileManager/3,"Trong trò chơi này, các tệp trong Trình quản lý tệp được chia thành hai loại đơn giản.
+Bạn có thể xác định chúng dựa trên biểu tượng của chúng:
+<b>1. Loại tài liệu:</b>"
+GameManualItem/content/IntroFileManager/4,"Mở cửa sổ 'Nội dung tệp' bằng cách nhấp vào nút chuột trái.
+     Nhấp chuột phải vào biểu tượng tài liệu sẽ mở menu chức năng.
+<b>2. Loại thư mục:</b>"
+GameManualItem/content/IntroFileManager/5,"Nhấp chuột trái vào thư mục đích để đi vào nó.
+     Sau khi di chuyển, bạn có thể xem nội dung của thư mục."
+GameManualItem/content/IntroFileManager/6,"Nếu bạn thực hiện một hành động không chính xác trong trò chơi,
+hệ thống sẽ hiển thị thông báo lỗi tại đây và cung cấp nguyên nhân gây ra lỗi.
+Để tìm hiểu cách tránh lỗi vận hành,
+vui lòng tham khảo 'Cách hoàn thành mục tiêu một cách hoàn hảo' trong Hướng dẫn trò chơi."
+GameManualItem/content/IssuesBackupFile/1,"Trong khi sao lưu các tập tin có thể là một cách đơn giản và nhanh chóng để quản lý dự án.
+Nó có thể gây ra nhiều vấn đề theo thời gian, 
+làm cho dự án khó quản lý và ảnh hưởng tiêu cực đến hiệu quả phát triển.
+Dưới đây là một số vấn đề phổ biến:
+<b>1. Các tập tin không liên quan trong thư mục dự án:</b>
+     Để sao lưu tập tin, bạn phải sao chép và đổi tên chúng bằng tên rõ ràng. 
+     Theo thời gian, trong thư mục có nhiều file không liên quan khiến việc quản lý không dễ dàng.
+<b>2. Khó khăn trong việc tìm ra sự khác biệt giữa các phiên bản:</b>
+     Để hiểu những sửa đổi được thực hiện trong một phiên bản cụ thể, 
+     bạn phải xem qua toàn bộ nội dung tập tin. 
+     Khi có lỗi nghiêm trọng xảy ra trong quá trình phát triển, 
+     phải mất rất nhiều thời gian và công sức để xác định nguồn gốc của lỗi.
+<b>3. Sửa đổi các tập tin sai:</b>
+     Khi có quá nhiều tệp không liên quan trong dự án, 
+     bạn có thể vô tình thực hiện các thay đổi đối với phiên bản cũ của tệp, 
+     nó làm nhầm lẫn hồ sơ dự án.
+<b>4. Bất tiện trong việc phát triển nhóm:</b>
+     Khi cộng tác với người khác trong một dự án, 
+     phương pháp sao lưu tập tin có thể gây nhầm lẫn cho quá trình phát triển.
+     Ví dụ: các vấn đề như số lượng tệp sao lưu, thời gian tìm kiếm sự khác biệt của tệp, 
+     và cách hợp nhất nội dung nhóm.
+Đây là những vấn đề thường gặp ở trên.
+Quản lý dự án bằng file backup có thể dẫn đến nhiều rắc rối không mong muốn.
+Sử dụng Git để quản lý dự án có thể giải quyết những vấn đề này.
+Nó tăng cường sự ổn định và hiệu quả của dự án.
+Cho phép bạn dành nhiều thời gian hơn cho việc phát triển dự án."
+GameManualItem/content/DetachedHEAD/1,"HEAD tách rời là một trạng thái trong Git.
+Khi HEAD hiện tại được định vị ở một commit cụ thể, 
+chứ không phải trên bất kỳ nhánh nào trong kho Git.
+Tình huống này thường xảy ra khi chúng ta sử dụng lệnh sau:"
+GameManualItem/content/DetachedHEAD/1/Image,ĐẦU (Tách rời)
+GameManualItem/content/DetachedHEAD/1/Command,git checkout <color=#CF001C>commit_ID</color>
+GameManualItem/content/DetachedHEAD/2,"Lệnh này di chuyển HEAD đến commit đã chỉ định, HEAD ở trạng thái 'Tách rời HEAD'.
+Nếu các commit mới được tạo ở trạng thái này, chúng sẽ không thuộc về bất kỳ nhánh nào. 
+Những commit này không chỉ có nguy cơ bị thất lạc mà còn có thể gây ra các vấn đề về quản lý trong dự án.
+Vì vậy, sau khi chuyển sang commit khác để xem nội dung file.
+Nếu bạn muốn phát triển các tính năng mới, đừng quên quay lại nhánh mục tiêu. 
+Bạn có thể sử dụng lệnh sau để chuyển về một nhánh cụ thể:"
+GameManualItem/content/DetachedHEAD/2/Command,git checkout <color=#CF001C>branch_name</color>
+GameManualItem/content/DetachedHEAD/2/tip,"Trong trò chơi, khi xảy ra tình huống Tách rời đầu.
+Văn bản <color=#CF001C>HEAD (Tách rời)</color> sẽ hiển thị trên danh sách nhánh trong cửa sổ Lịch sử commit.
+Nhấp vào nó và tất cả các commit sẽ trở nên minh bạch."
+GameManualItem/content/.gitAndGitCoreAreas/1/Title,giới thiệu thư mục .git
+GameManualItem/content/.gitAndGitCoreAreas/1,"Khi bạn đã quyết định được dự án mà bạn muốn quản lý, 
+bạn cần thực thi lệnh sau trong đường dẫn thư mục dự án để tạo hệ thống quản lý Git:"
+GameManualItem/content/.gitAndGitCoreAreas/1/Command,git init
+GameManualItem/content/.gitAndGitCoreAreas/2,"Sau khi thực hiện thành công, 
+một thư mục ẩn có tên <color=#CF001C>.git</color> sẽ được tạo trong thư mục dự án."
+GameManualItem/content/.gitAndGitCoreAreas/3,"<color=#CF001C>.git</color> là thành phần cốt lõi của Git. 
+Nó lưu trữ tất cả dữ liệu liên quan đến dự án, bao gồm toàn bộ lịch sử phiên bản. 
+Không có thư mục này, hầu hết các lệnh Git không thể thực thi được."
+GameManualItem/content/.gitAndGitCoreAreas/4/Title,Các lĩnh vực cốt lõi của Git
+GameManualItem/content/.gitAndGitCoreAreas/5,"Git bao gồm ba lĩnh vực quan trọng giúp chúng ta quản lý dự án bằng Git:
+<b>1. Thư mục làm việc:</b>
+     Khu vực bên trong thư mục dự án được gọi là thư mục làm việc, 
+     bao gồm văn bản, hình ảnh và các tệp dự án khác. 
+     Trong thư mục làm việc, chúng ta thêm và chỉnh sửa các file để phát triển dự án.
+<b>2. Staging Area:</b>
+     Staging Area đóng vai trò là cầu nối giữa “thư mục làm việc” và “kho lưu trữ”. 
+     Chúng tôi di chuyển các tệp đã sửa đổi từ 'thư mục làm việc' sang khu vực này. 
+     Khi đã sẵn sàng, các tệp này sẽ được chuyển đến 'kho lưu trữ' thông qua một lệnh 
+     để tạo một 'commit' mới.
+<b>3. Kho lưu trữ:</b>
+     Kho lưu trữ là khu vực cốt lõi của Git, lưu trữ tất cả các bản ghi của dự án. 
+     Sau khi thêm một commit mới, nó sẽ được lưu trữ trong khu vực 'lịch sử commit' của 'kho lưu trữ'. 
+     Khu vực này giúp theo dõi phiên bản thay đổi."
+GameManualItem/content/.gitAndGitCoreAreas/5/tip,"Trên thực tế, thư mục <color=#CF001C>.git</color> thực chất là 'kho lưu trữ', 
+và 'Staging Area' cũng được chứa trong thư mục."
+GameManualItem/content/RuleNameBranch/1,"Học cách đặt tên các nhánh là quan trọng.
+Tên chi nhánh rõ ràng và cụ thể giúp quản lý dự án hiệu quả hơn.
+Và giúp nhóm dễ hiểu hơn về mục đích của từng chi nhánh.
+Dưới đây là một số nguyên tắc đặt tên chi nhánh:
+<b>1. Giữ nó ngắn gọn và rõ ràng:</b>
+     Tên chi nhánh phải đơn giản và rõ ràng, 
+     chứa đủ thông tin để mô tả mục đích tạo ra chi nhánh."
+GameManualItem/content/RuleNameBranch/1/tip,"Ví dụ: sử dụng <color=#CF001C>fix-login-bug</color> tốt hơn <color=#CF001C>fix-login-bug-in-homepage</color>.
+Để tránh tên chi nhánh quá dài."
+GameManualItem/content/RuleNameBranch/2,"<b>2. Tránh các ký hiệu đặc biệt, dấu cách và các ký tự ngôn ngữ khác:</b>
+     Tên nhánh nên tránh các ký hiệu đặc biệt, dấu cách và các ký tự ngôn ngữ khác.
+     Đảm bảo dự án có thể được sử dụng và đọc trong các môi trường ngôn ngữ khác nhau.
+     Việc đặt tên thích hợp nên sử dụng các chữ cái tiếng Anh viết thường và
+     tách các từ bằng dấu gạch nối (-) hoặc dấu gạch chéo (/) để tăng cường khả năng đọc."
+GameManualItem/content/RuleNameBranch/2/tip,Ví dụ: <color=#CF001C>new-system-feature</color> hoặc <color=#CF001C>new/system/feature</color>.
+GameManualItem/content/RuleNameBranch/3,"<b>3. Bao gồm tên tác giả:</b>
+     Trong quá trình phát triển nhóm, hãy đưa tên tác giả vào tên chi nhánh.
+     Nó giúp theo dõi tiến độ phát triển của các thành viên trong nhóm và 
+     xác định người chịu trách nhiệm phát triển."
+GameManualItem/content/RuleNameBranch/3/tip,Ví dụ: <color=#CF001C>john-bugfix-quest</color>.
+GameManualItem/content/RuleNameBranch/4,"<b>4. Thêm ID vấn đề:</b>
+     Trong dự án tổ, người phát triển thường tạo ra diễn đàn thảo luận để giải quyết vấn đề. 
+     Việc đưa ID vấn đề vào tên chi nhánh sẽ giúp theo dõi vấn đề tương ứng."
+GameManualItem/content/RuleNameBranch/4/tip,Ví dụ: <color=#CF001C>pan-3759-trade</color>.
+GameManualItem/content/RuleNameBranch/5,"Việc tuân theo các nguyên tắc đặt tên chi nhánh này sẽ giúp hiểu được mục đích của từng chi nhánh. 
+Nếu bạn là thành viên của một nhóm, hãy tuân thủ các quy tắc đặt tên chi nhánh của nhóm để duy trì tính nhất quán. 
+Nó giúp nhóm hiểu và quản lý các chi nhánh tốt hơn."
+GameManualItem/content/ProcessCreateCommit/1,"Khi bạn đã hoàn thành việc phát triển một tính năng cụ thể, 
+hoặc khi bạn cần sao lưu nội dung đang được phát triển.
+Đã đến lúc tạo một commit trong kho lưu trữ cục bộ của bạn. 
+Đây là quá trình tạo một commit:
+<b>1. Xác định file cần upload:</b>
+     Bạn cần di chuyển tập tin đến Staging Area 
+     trước khi bạn có thể đẩy nội dung tệp vào kho lưu trữ để tạo commit. 
+     Vui lòng sử dụng các lệnh để đảm bảo rằng Staging Area chứa các tệp bạn muốn lưu, 
+     trong khi các tập tin không liên quan không nên được đưa vào Staging Area.
+<b>2. Viết một thông điệp commit và tạo commit:</b>
+     Sau khi xác nhận, hãy tạo một commit bằng lệnh sau:"
+GameManualItem/content/ProcessCreateCommit/1/Command,"git commit <color=#CF001C>-m or --message</color> <color=""#173D91"">""thông điệp commit""</color>"
+GameManualItem/content/ProcessCreateCommit/2,"Thông báo commit phải mô tả rõ ràng những thay đổi bạn đã thực hiện. 
+     Điều này giúp theo dõi và hiểu mục đích của commit.
+     Thực hiện lệnh này có nghĩa là bạn đã hoàn thành việc tạo commit.
+     Bạn cũng có thể sử dụng lệnh sau để xác minh xem thao tác có thành công hay không:"
+GameManualItem/content/ProcessCreateCommit/2/Command,git log
+GameManualItem/content/ProcessCreateCommit/3,"<b>3. Tải commit lên kho lưu trữ từ xa (tùy chọn):</b>
+     Sau khi hoàn thành quá trình phát triển trên nhánh cục bộ của bạn, 
+     bạn có thể đẩy nó vào kho lưu trữ từ xa được liên kết bằng lệnh sau:"
+GameManualItem/content/ProcessCreateCommit/3/Command,"git push <color=#CF001C>remote_repository_alias</color> <color=""#173D91"">local_branch</color>"
+GameManualItem/content/RuleCommitMessage/1,"Học cách viết thông điệp commit Git là rất quan trọng.
+Thông điệp commit rõ ràng và ngắn gọn có thể quản lý dự án tốt hơn.
+Và giúp cả nhóm và cá nhân dễ dàng hiểu được mục đích của từng commit hơn.
+Dưới đây là một số nguyên tắc để viết thông điệp commit:
+<b>1. Viết ngắn gọn và rõ ràng:</b>
+     Một thông điệp commit tốt sẽ có thể khai báo mục đích của commit 
+     trong một câu. 
+     Điều này giúp các nhà phát triển khác nhanh chóng hiểu được những thay đổi."
+GameManualItem/content/RuleCommitMessage/1/tip,Ví dụ: <color=#CF001C>Đã thêm cấu trúc cho giao diện đăng nhập trang web</color>.
+GameManualItem/content/RuleCommitMessage/2,"<b>2. Sử dụng thông tin chính:</b>
+     Tùy theo mục đích của commit mà sử dụng động từ ở đầu tin nhắn."
+GameManualItem/content/RuleCommitMessage/2/tip,"Thêm các động từ như 'Thêm', 'Cập nhật' và 'Xóa' để nâng cao khả năng đọc. 
+Ví dụ: <color=#CF001C>Sửa lỗi: Thông báo chào mừng không hiển thị sau khi đăng nhập</color>."
+GameManualItem/content/RuleCommitMessage/3,"<b>3. Tránh những tin nhắn vô nghĩa:</b>
+     Khi viết tin nhắn commit, tránh nội dung mơ hồ hoặc vô nghĩa.
+     Nó có thể gây khó khăn cho các nhà phát triển khác trong việc hiểu mục đích của commit."
+GameManualItem/content/RuleCommitMessage/3/tip,"Ví dụ: tránh các thông báo chung chung như <color=#CF001C>Commit mới</color> hoặc <color=#CF001C>Đã sửa lỗi</color>.
+Những tin nhắn này ngắn và thiếu ý nghĩa cụ thể."
+GameManualItem/content/RuleCommitMessage/4,"<b>4. Tập trung vào một chủ đề duy nhất:</b>
+     Thực hành phát triển tốt nên tập trung vào một mục tiêu cụ thể 
+     và đưa nó vào thông điệp commit. 
+     Điều này không chỉ làm cho mỗi commit trở nên rõ ràng hơn mà còn giảm thiểu rủi ro phát triển."
+GameManualItem/content/RuleCommitMessage/4/tip,"Ví dụ: nếu phát triển Tính năng A và Tính năng B cùng lúc.
+Nhưng chúng không liên quan chặt chẽ với nhau, hãy cân nhắc việc chia chúng thành hai commit riêng biệt."
+GameManualItem/content/RuleCommitMessage/5,"Những nguyên tắc của thông điệp commit này giúp các nhóm và cá nhân hiểu rõ hơn về mục đích của từng commit. 
+Điều này cải thiện sự ổn định và hiệu quả của quản lý dự án."
+GameManualItem/content/ResolveMergeConflict/1,"Xung đột hợp nhất có thể xảy ra trong quá trình sáp nhập chi nhánh, 
+đặc biệt phổ biến trong công việc hợp tác có sự tham gia của nhiều người.
+Xung đột xảy ra khi hai nhánh thực hiện những thay đổi khác nhau trên cùng một tệp. 
+Git không thể tự động xác định nội dung nào nên được giữ lại và nội dung nào nên loại bỏ.
+Vì vậy Git sẽ yêu cầu các nhà phát triển giải quyết những xung đột này theo cách thủ công.
+Dưới đây là các bước để giải quyết xung đột hợp nhất:
+<b>1. Xác định các tệp bị xung đột:</b>
+     Khi xảy ra xung đột, dòng lệnh sẽ hiển thị tất cả các file có xung đột. 
+     Các tệp này cũng sẽ xuất hiện dưới dạng 'chưa được phân loại' trong Staging Area.
+<b>2. Hiểu nội dung của các tệp bị xung đột:</b>
+     Tệp bị xung đột sẽ được thêm ba ký hiệu đặc biệt: <color=#CF001C><</color>, <color=#CF001C>=</color> và <color=#CF001C>></color>。
+     Những sửa đổi từ cả hai nhánh hợp nhất được bao gồm giữa các ký hiệu này."
+GameManualItem/content/ResolveMergeConflict/2,"Ví dụ: trong tệp được hiển thị ở trên, 
+     xung đột xảy ra khi cố gắng hợp nhất 
+     nhánh <color=#CF001C>new-feature</color> thành nhánh <color=#CF001C>master</color>.
+     Các ký hiệu đặc biệt phân chia các sửa đổi của các nhánh này.
+     Nội dung từ dòng 1 đến 3 hiển thị HEAD, 
+     đại diện cho các sửa đổi từ nhánh hiện tại <color=#CF001C>master</color>.
+     Nội dung từ dòng 3 đến dòng 5 hiển thị các sửa đổi từ nhánh <color=#CF001C>new-feature</color>.
+<b>3. Giải quyết xung đột tập tin:</b>
+     Giải quyết xung đột tệp liên quan đến việc quyết định nên giữ hoặc xóa nội dung nào."
+GameManualItem/content/ResolveMergeConflict/3,"Ví dụ:
+     Nếu bạn muốn giữ lại các sửa đổi từ nhánh <color=#CF001C>new-feature</color> 
+     và xóa chúng khỏi nhánh <color=#CF001C>master</color>.
+     Vui lòng xóa nội dung sau:
+     1. Ba dòng ký hiệu phân cách đặc biệt (dòng 1, 3, 5).
+     2. Nội dung sửa đổi từ nhánh <color=#CF001C>master</color> (dòng 2).
+<b>4. Tạo một commit để tiếp tục hợp nhất:</b>
+     Sau khi giải quyết tất cả xung đột tệp, vui lòng tạo một commit mới với nội dung đã được giải quyết. 
+     Sau khi commit, quá trình hợp nhất sẽ tiếp tục. 
+     Cuối cùng, nhánh <color=#CF001C>master</color> sẽ nhận được commit mới được giải quyết."
+GameManualItem/content/gitMergeModes/1,"Khi thực hiện lệnh hợp nhất nhánh, 
+Git so sánh lịch sử commit của hai nhánh mục tiêu 
+và áp dụng một trong các chế độ hợp nhất sau:
+Dưới đây là ba chế độ hợp nhất trong Git:
+1. Hợp nhất chuyển tiếp nhanh
+2. Tự động hợp nhất
+3. Hợp nhất xung đột"
+GameManualItem/content/gitMergeModes/2/Title,Hợp nhất chuyển tiếp nhanh
+GameManualItem/content/gitMergeModes/2,"Khi so sánh lịch sử commit của hai nhánh, 
+nếu đường đi của chúng là tuyến tính mà không có bất kỳ nhánh nào, 
+Git thực hiện hợp nhất chuyển tiếp nhanh.
+Hợp nhất chuyển tiếp nhanh sẽ cập nhật lịch sử commit của nhánh hiện tại 
+cho đến khi các bản ghi giống với nhánh hợp nhất được nhắm mục tiêu.
+Không có commit mới nào được tạo, chỉ cập nhật lịch sử commit."
+GameManualItem/content/gitMergeModes/3/Title,Tự động hợp nhất
+GameManualItem/content/gitMergeModes/3,"Khi so sánh lịch sử commit của hai nhánh, 
+nếu họ chia thành hai con đường phát triển riêng biệt, 
+Git so sánh các sửa đổi ở cả hai nhánh.
+Nếu Git thấy rằng những sửa đổi trong các nhánh không gây ra xung đột.
+Nó sẽ sử dụng tự động hợp nhất.
+Sau khi hợp nhất nội dung của nhánh được chỉ định vào nhánh hiện tại, một commit mới sẽ được tạo. 
+Nó có nghĩa là hành động hợp nhất đã thành công, 
+và thông điệp commit sẽ hiển thị tên của hai nhánh được hợp nhất."
+GameManualItem/content/gitMergeModes/4/Title,Hợp nhất xung đột
+GameManualItem/content/gitMergeModes/4,"Tương tự với tự động hợp nhất
+Khi hai nhánh mục tiêu tách ra thành những con đường phát triển riêng biệt với những commit riêng.
+Git so sánh các sửa đổi ở cả hai nhánh.
+Nếu sửa đổi được thực hiện trên cùng một tệp và nội dung khác nhau, 
+Git sẽ cảnh báo các nhà phát triển rằng đã xảy ra xung đột hợp nhất, 
+yêu cầu họ giải quyết xung đột một cách thủ công. 
+Kịch bản này là chế độ xung đột hợp nhất.
+Khi xảy ra xung đột, quá trình hợp nhất sẽ bị tạm dừng. 
+Các nhà phát triển cần phải đi vào các tập tin bị xung đột và quyết định 
+nội dung nào nên giữ lại và nội dung nào nên xóa.
+Sau khi giải quyết mọi xung đột và tạo một commit mới với những nội dung này, quá trình hợp nhất sẽ tiếp tục. 
+Cuối cùng, nội dung của nhánh được chỉ định sẽ được sáp nhập vào nhánh hiện tại, 
+và chi nhánh hiện tại sẽ nhận được một commit mới. 
+Commit này chứa nội dung tệp xung đột đã được giải quyết."
+GameManualItem/content/gitMergeModes/4/tip,"Tự động hợp nhất và xung đột hợp nhất có liên quan. 
+Trong trò chơi này, việc hợp nhất được phân thành ba chế độ để hiểu rõ hơn."
+GameManualItem/content/IntroGameScore/1/Title,Giới thiệu tính điểm
+GameManualItem/content/IntroGameScore/1,"Trong các màn chơi của trò chơi, 
+bạn cần thực hiện các thao tác chính xác để hoàn thành mục tiêu hiện tại.
+Mỗi khi bạn hoàn thành mục tiêu sẽ được đánh giá dựa trên hành động của bạn.
+Bạn có thể biết mình sẽ nhận được tỷ lệ bao nhiêu bằng biểu tượng ngôi sao trên bảng điểm.
+Có bốn xếp hạng:
+<b>1. Hoàn thành mục tiêu một cách hoàn hảo (1000 điểm):</b>"
+GameManualItem/content/IntroGameScore/2,"Đánh giá này được đưa ra khi bạn hoàn thành mục tiêu hiện tại 
+     mà không phạm bất kỳ sai lầm nào.
+<b>2. Hoàn thành mục tiêu nhưng mắc lỗi (750 điểm):</b>"
+GameManualItem/content/IntroGameScore/3,"Đánh giá này được đưa ra khi bạn hoàn thành mục tiêu hiện tại 
+     nhưng lại mắc sai lầm trong quá trình thực hiện."
+GameManualItem/content/IntroGameScore/3/tip,"Để biết cách nhận được đánh giá hoàn hảo, 
+vui lòng tham khảo 'Cách hoàn thành mục tiêu một cách hoàn hảo' trong Hướng dẫn trò chơi."
+GameManualItem/content/IntroGameScore/4,<b>3. Hoàn thành mục tiêu có gợi ý (500 điểm):</b>
+GameManualItem/content/IntroGameScore/5,"Đánh giá này được đưa ra khi bạn hoàn thành mục tiêu hiện tại 
+     sử dụng các gợi ý trong quá trình này.
+<b>4. Hoàn thành mục tiêu sử dụng tính năng trả lời (0 điểm):</b>"
+GameManualItem/content/IntroGameScore/6,"Đánh giá này được đưa ra khi bạn hoàn thành mục tiêu hiện tại 
+     sử dụng tính năng trả lời trong quá trình này.
+Sau khi hoàn thành các màn chơi, 
+bạn có thể xem xếp hạng cho từng mục tiêu đạt được trên màn hình kết quả."
+GameManualItem/content/IntroGame/1/Title,Giới thiệu trò chơi
+GameManualItem/content/IntroGame/1,"Chào mừng đến với thế giới của GITainment! 
+Trò chơi này sẽ dạy bạn cách quản lý dự án hiệu quả bằng Git.
+Git là một công cụ quản lý dự án mạnh mẽ giúp bạn theo dõi lịch sử phát triển dự án của mình.
+Nó tăng cường sự ổn định và hiệu quả của việc phát triển dự án. 
+Đây là một công cụ thiết yếu cho các nhà phát triển phần mềm 
+và cũng có hiệu quả để quản lý bất kỳ dự án dài hạn nào.
+Trong trò chơi này, bạn sẽ tìm hiểu các khái niệm cơ bản và cách sử dụng Git. 
+Nó được thiết kế dành cho những người chưa có kinh nghiệm lập trình hoặc chưa quen với Git. 
+Khi hoàn thành trò chơi, bạn sẽ có khả năng sử dụng Git."
+GameManualItem/content/IntroGame/2/Title,Các màn chơi chủ đề Git:
+GameManualItem/content/IntroGame/2,"Kiến thức cốt lõi về Git được chia thành nhiều màn chơi.
+Chúng tạo thành ba chủ đề:
+<b>1. Khái niệm cơ bản về Git:</b>
+     Tìm hiểu các khái niệm cốt lõi và các lệnh cơ bản của Git.
+     Sau khi hoàn thành màn chơi chủ đề này, 
+     bạn sẽ có khả năng cơ bản để quản lý dự án bằng Git.
+<b>2. Quản lý chi nhánh:</b>
+     Tìm hiểu về hệ thống chi nhánh của Git. 
+     Sử dụng nó để phát triển các dự án ổn định và hiệu quả hơn.
+<b>3. Quản lý từ xa:</b>
+     Tìm hiểu các tính năng quản lý từ xa của Git.
+     Tìm hiểu cách tải dự án lên internet, sau đó cộng tác với nhóm."
+GameManualItem/content/IntroGame/3/Title,Mục tiêu kịch bản mô phỏng
+GameManualItem/content/IntroGame/3,"Mỗi màn chơi tạo ra một kịch bản phù hợp với mục tiêu học tập.
+Bạn giải quyết các vấn đề thực tế trong một cốt truyện.
+Mỗi kịch bản có một mục tiêu chính.
+Nó chia thành nhiều mục tiêu nhỏ hơn. 
+Bạn chỉ cần làm theo mục tiêu hiện tại và hướng dẫn để thực hiện hành động. 
+Khi bạn hoàn thành tất cả các mục tiêu, bạn sẽ vượt qua màn chơi này.
+Ở góc trên bên trái của màn hình trò chơi, nó hiển thị mục tiêu hiện tại. 
+Hãy làm theo nó để hoàn thành các mục tiêu và vượt qua màn chơi."
+GameManualItem/content/IntroGame/3/Image1,Tên màn chơi
+GameManualItem/content/IntroGame/3/Image2,Mục tiêu hiện tại
+GameManualItem/content/IntroGame/4/Title,Tính điểm trò chơi
+GameManualItem/content/IntroGame/4,"Trong trò chơi, mỗi mục tiêu hoàn thành sẽ được đánh giá dựa trên hành động của bạn.
+Điểm trò chơi ở mỗi màn thể hiện màn trình diễn của bạn trên màn chơi.
+Sau khi hoàn thành một màn chơi, trò chơi sẽ cho bạn xếp hạng cuối cùng từ 1 đến 4 sao. 
+Điểm số và thời gian hoàn thành màn chơi của bạn sẽ được tải lên bảng xếp hạng toàn cầu. 
+Hãy cố gắng đạt điểm cao và trở thành một trong 10 người học Git hàng đầu thế giới!"
+GameManualItem/content/CheckBeforeMergeMainBrach/1,"Trước khi sáp nhập một nhánh phát triển đã hoàn thành vào nhánh chính từ xa,
+chúng ta nên trải qua quá trình 'Chuẩn bị cho việc sáp nhập'.
+Nó giúp đảm bảo dự án được hợp nhất hoạt động tốt và tránh xung đột khi hợp nhất.
+Dưới đây là các bước để xác nhận:
+<b>1. Kiểm tra hồ sơ commit chi nhánh:</b>
+     Kiểm tra lịch sử commit của cả 'nhánh phát triển' và 'nhánh chính'. 
+     Hãy chắc chắn rằng chúng nhất quán với kho lưu trữ từ xa.
+     Điều này đảm bảo các hành động dưới đây là hợp lệ.
+<b>2. Hợp nhất chi nhánh chính cục bộ:</b>
+     Hợp nhất 'nhánh chính' trong máy tính cục bộ của bạn vào 'nhánh phát triển'.
+     Điều này tích hợp các thay đổi từ cả hai nhánh.
+<b>3. Xác minh trạng thái dự án sau khi hợp nhất:</b>
+     Sau khi hợp nhất, hãy kiểm tra xem dự án có gặp vấn đề gì không.
+     Nếu có vấn đề thì chúng ta nên giải quyết tại địa phương.
+<b>4. Tải 'nhánh phát triển' đã hợp nhất lên kho lưu trữ từ xa:</b>
+     Sau khi dự án sáp nhập diễn ra suôn sẻ,
+     hoặc sau khi giải quyết mọi vấn đề do việc hợp nhất gây ra,
+     nhánh có thể được tải lên kho lưu trữ từ xa.
+Sau khi hoàn thành các bước trên,
+bạn có thể tạo Pull Request để hợp nhất,
+để 'nhánh phát triển' đã hợp nhất có thể được hợp nhất vào nhánh chính từ xa."
+GameManualItem/content/VersionControlAndGit/1/Title,Kiểm soát phiên bản
+GameManualItem/content/VersionControlAndGit/1,"Kiểm soát phiên bản là một hệ thống để quản lý tài liệu, mã và nội dung khác. 
+Nó đặc biệt phù hợp với các dự án cần vận hành và phát triển lâu dài.
+Nó đóng một vai trò quan trọng trong lĩnh vực phát triển phần mềm.
+Nó có các tính năng sau:
+<b>1. Theo dõi nội dung tệp:</b>
+     Mỗi thay đổi đều được ghi lại. 
+     Bạn có thể sử dụng những bản ghi này để xem 
+     ai thực hiện các thay đổi khi chúng được thực hiện và những thay đổi cụ thể.
+<b>2. Khôi phục phiên bản:</b>
+     Khi xảy ra lỗi trong quá trình phát triển, 
+     tính năng này cho phép bạn hoàn nguyên về phiên bản trước khi xảy ra lỗi. 
+     Nhưng những diễn biến hiện tại và tất cả hồ sơ sẽ không bị mất. 
+     Bạn có thể dễ dàng chuyển sang phiên bản bạn muốn.
+<b>3. Quản lý chi nhánh:</b>
+     Bạn có thể chia nội dung phát triển thành nhiều nhánh. 
+     Ưu điểm chính của quản lý chi nhánh là các chi nhánh không can thiệp vào hoạt động của từng chi nhánh. 
+     khác, nâng cao hiệu quả phát triển và tính ổn định."
+GameManualItem/content/VersionControlAndGit/2,"Git là công cụ kiểm soát phiên bản được sử dụng rộng rãi, đặc biệt phổ biến trong phát triển phần mềm. 
+Nó chứa các nguyên tắc kiểm soát phiên bản, 
+cho phép người dùng thực hiện nhiều thao tác khác nhau thông qua dòng lệnh. 
+Các lệnh này thường thân thiện với người dùng, 
+và bạn sẽ học và sử dụng chúng trong trò chơi này để đạt được các mục tiêu trong kịch bản.
+Ngoài ưu điểm về kiểm soát phiên bản, Git còn hỗ trợ cộng tác nhóm. 
+Có nhiều nền tảng dịch vụ Git trực tuyến (ví dụ: GitHub, GitLab). 
+Những nền tảng này cho phép bạn tải lên các dự án của mình và cộng tác với các thành viên khác."
+GameManualItem/content/IntroGetPerfect/1/Title,Giới thiệu khách quan
+GameManualItem/content/IntroGetPerfect/1,"Mỗi kịch bản mô phỏng trong trò chơi đều có một mục tiêu chính và nhiệm vụ của bạn là hoàn thành nó.
+Trò chơi chia mục tiêu chính thành nhiều mục tiêu nhỏ hơn.
+Bạn có thể xem mục tiêu hiện tại ở góc trên bên trái của màn hình trò chơi. 
+Thông thường, nếu bạn theo dõi và hoàn thành chúng, bạn có thể nhận được đánh giá hoàn hảo."
+GameManualItem/content/IntroGetPerfect/2/Title,Những điều cần lưu ý
+GameManualItem/content/IntroGetPerfect/2,"Tuy nhiên, nếu bạn thực hiện các hành động không chính xác hoặc không liên quan trong mục tiêu hiện tại, 
+hệ thống sẽ phát hiện hành động của bạn. 
+Nếu một hành động làm thay đổi nội dung của dự án hiện tại thì nó có vẻ như là một thất bại.
+<b>1. Tránh những hành động không liên quan:</b>
+     Thực thi các lệnh Git như <color=#CF001C>git status</color>, <color=#CF001C>git branch</color> và <color=#CF001C>git log</color>, 
+     không ảnh hưởng trực tiếp đến nội dung của dự án.
+     Chúng không được coi là lỗi vận hành.
+     Nếu mục tiêu liên quan đến các tập tin, hãy tập trung vào các tập tin này. 
+     Ví dụ: Việc sửa đổi nội dung trong các tệp phiên bản cũ sẽ được coi là lỗi vận hành.
+<b>2. Vận hành theo yêu cầu khách quan:</b>
+     Ngay cả khi một số hành động dường như giúp đạt được mục tiêu chính.
+     Nếu chúng không đáp ứng được các yêu cầu của mục tiêu hiện tại, chúng cũng có thể bị coi là một 
+     sự cố vận hành.
+     Thực hiện theo hướng dẫn của mục tiêu, có thể giải quyết vấn đề hiệu quả hơn 
+     trong các tình huống thực tế."
+GameManualItem/content/IntroGetPerfect/3/Title,Cửa sổ bật lên thông báo lỗi
+GameManualItem/content/IntroGetPerfect/3,"Khi bạn mắc lỗi trong cửa sổ Trình quản lý Tệp hoặc Nội dung Tệp, 
+một cửa sổ bật lên với lý do lỗi sẽ xuất hiện."
+GameManualItem/content/IntroGetPerfect/4/Image1,Tiêu đề thông báo lỗi
+GameManualItem/content/IntroGetPerfect/4/Image2,Chi tiết thông báo lỗi
+GameManualItem/content/IntroGetPerfect/4,"Khi thực thi lệnh Git, 
+nếu một lệnh sai có thể gây ra vấn đề nghiêm trọng, 
+trò chơi sẽ dừng lệnh đó và bị coi là lỗi vận hành.
+Ví dụ: nếu bạn được yêu cầu hợp nhất nhánh 'tính năng mới' vào nhánh 'chính'.
+Nhưng nếu bạn cố gắng hợp nhất nó vào 'nhánh khác', nó sẽ bị coi là một lỗi."
+GameManualItem/content/IntroGetPerfect/4/Tip,"Sai lầm là một phần của quá trình học tập. 
+Khi phạm sai lầm, đừng nản lòng. 
+Tìm hiểu nguyên nhân sai lầm và rút kinh nghiệm từ đó.
+Nó có thể cải thiện đáng kể kỹ năng Git của bạn và giúp bạn tránh những lỗi này trong các tình huống thực tế."
+GameManualItem/content/IntroStagingArea/1,"Cửa sổ Staging Area là một màn hình hiển thị riêng cho đầu ra của lệnh 'git status'. 
+Nó hiển thị kết quả thực hiện lệnh 'git status'."
+GameManualItem/content/IntroStagingArea/2/Title,Nội dung hiển thị hiện tại
+GameManualItem/content/IntroStagingArea/2,"Bạn có thể nhấp vào các lệnh đã thực hiện trước đó 
+để xem trạng thái của Staging Area tại các thời điểm khác nhau. 
+ID lệnh tương ứng sẽ được hiển thị ở đây."
+GameManualItem/content/IntroStagingArea/3/Title,Khu vực được tổ chức và không được tổ chức
+GameManualItem/content/IntroStagingArea/3,"Trò chơi đơn giản hóa nội dung của Staging Area thành hai trạng thái tệp:
+<b>1. Khu vực chưa được tổ chức:</b>
+     So sánh commit hiện tại và các tập tin thư mục làm việc, 
+     và các tập tin được tìm thấy khác nhau trong thư mục làm việc.
+     Nhưng họ không được chuyển đến Staging Area.
+<b>2. Staging Area:</b>
+     So sánh commit hiện tại và các tập tin thư mục làm việc, 
+     và các tập tin được tìm thấy khác nhau trong thư mục làm việc.
+     Và chúng đã được thêm vào Staging Area."
+GameManualItem/content/IntroStagingArea/4/Title,Trạng thái tệp
+GameManualItem/content/IntroStagingArea/4,"Từ trái sang phải, màn hình bao gồm:
+1. Trạng thái tập tin
+2. Vị trí file trong dự án
+3. Tên tệp
+Trạng thái tệp được phân loại thành:
+<b>1. Biểu tượng tệp mới:</b>"
+GameManualItem/content/IntroStagingArea/5,"Hiển thị một tập tin đang được theo dõi lần đầu tiên.
+<b>2. Biểu tượng tập tin đã sửa đổi:</b>"
+GameManualItem/content/IntroStagingArea/6,"Hiển thị một tập tin được theo dõi đã được sửa đổi.
+<b>3. Biểu tượng Tệp đã xóa:</b>"
+GameManualItem/content/IntroStagingArea/7,"Hiển thị tệp theo dõi đã bị xóa, 
+     điều này thường có nghĩa là tập tin đã bị xóa."
+GameManualItem/content/IntroAssistance/1,"Cửa sổ hội thoại thường được sử dụng trong trò chơi. 
+Trước khi bắt đầu trò chơi, bạn cần nhấp vào nút này để chuyển sang bước tiếp theo. 
+Có nhiều đoạn hội thoại sẽ xuất hiện trong màn chơi.
+Họ sẽ hướng dẫn bạn phải làm gì tiếp theo.
+Khi hệ thống cho phép bạn tự mình bắt đầu một hành động, 
+bạn có thể nhấp lại vào nút này để sử dụng tính năng hỗ trợ. 
+Hệ thống sẽ hiện ra các tùy chọn."
+GameManualItem/content/IntroAssistance/1/Image1,Cửa sổ đối thoại
+GameManualItem/content/IntroAssistance/1/Image2,Đối thoại câu chuyện
+GameManualItem/content/IntroAssistance/1/Image3,Phản hồi của bạn
+GameManualItem/content/IntroAssistance/2/Title,Xem lại các cuộc trò chuyện trước đó
+GameManualItem/content/IntroAssistance/2,"Cuộc đối thoại thường chứa nội dung hướng dẫn và hướng dẫn. 
+Bạn có thể chọn tùy chọn này khi bạn quên mất mình nên làm gì."
+GameManualItem/content/IntroAssistance/3/Title,Sử dụng tính năng gợi ý
+GameManualItem/content/IntroAssistance/3,"Tính năng gợi ý sẽ cung cấp hướng dẫn dựa trên mục tiêu của màn chơi hiện tại. 
+Sau khi sử dụng tính năng gợi ý, 
+xếp hạng hoàn thành mục tiêu hiện tại sẽ thay đổi thành 'Đã hoàn thành mục tiêu có gợi ý'."
+GameManualItem/content/IntroAssistance/4/Title,Sử dụng tính năng trả lời
+GameManualItem/content/IntroAssistance/4,"Tính năng trả lời hỗ trợ bạn thông qua đối thoại cho đến khi hoàn thành mục tiêu hiện tại. 
+Sau khi sử dụng tính năng trả lời, 
+xếp hạng cho việc hoàn thành mục tiêu hiện tại sẽ thay đổi thành 'Mục tiêu đã hoàn thành có tính năng trả lời'.
+Để sử dụng tính năng này, nó cần phải đáp ứng một số điều kiện thì bạn mới có thể sử dụng được.
+Để tìm hiểu tốt hơn các lệnh Git và kiến thức kiểm soát phiên bản, 
+hãy cố gắng hoàn thành mục tiêu theo những cách khác."
+GameManualItem/content/IntroResultsScreen/1,"Cửa sổ này sẽ hiển thị sau khi hoàn thành màn chơi. 
+Hệ thống ghi lại hành động của bạn trong màn chơi này, 
+và cửa sổ sẽ hiển thị kết quả tóm tắt, cho phép bạn hiểu phần trình diễn của mình trên màn chơi."
+GameManualItem/content/IntroResultsScreen/2/Title,Đánh giá màn chơi và thống kê chi tiết
+GameManualItem/content/IntroResultsScreen/2,"Hiển thị tổng số điểm và xếp hạng cho màn chơi, 
+Hệ thống sẽ đánh giá từ 1 đến 4 sao. 
+Bạn có thể sử dụng xếp hạng để biết màn trình diễn của mình trên màn chơi.
+Phần dưới cùng sẽ hiển thị số lượng hành động được thực hiện trong màn chơi này."
+GameManualItem/content/IntroResultsScreen/3/Title,Bảng xếp hạng
+GameManualItem/content/IntroResultsScreen/3,"Bảng xếp hạng cá nhân hiển thị thành tích tốt nhất của bạn ở màn chơi hiện tại. 
+Bạn có thể sử dụng nó để theo dõi tình trạng học tập của bạn. 
+Hãy cố gắng phá kỷ lục của bạn để chứng tỏ bạn đang tiến bộ trên màn chơi.
+Ngoài ra, điểm số và thời gian hoàn thành màn chơi của bạn sẽ được tải lên bảng xếp hạng toàn cầu. 
+Bạn có thể xem bảng xếp hạng toàn cầu cho màn chơi này bằng nút ở góc trên bên phải."
+GameManualItem/content/IntroResultsScreen/4/Title,Danh sách mục tiêu đã hoàn thành
+GameManualItem/content/IntroResultsScreen/4,"Hiển thị tất cả các mục tiêu đã hoàn thành ở màn chơi hiện tại. 
+Mỗi mục tiêu bao gồm một mô tả nhiệm vụ và thời gian cần thiết để hoàn thành nó.
+Và các mục tiêu đã hoàn thành được phân loại thành bốn xếp hạng:
+1. <b>Hoàn thành mục tiêu một cách hoàn hảo:</b>"
+GameManualItem/content/IntroResultsScreen/5,2. <b>Đã hoàn thành mục tiêu nhưng mắc lỗi:</b>
+GameManualItem/content/IntroResultsScreen/6,3. <b>Đã hoàn thành mục tiêu với gợi ý:</b>
+GameManualItem/content/IntroResultsScreen/7,4. <b>Đã hoàn thành mục tiêu bằng tính năng trả lời:</b>
+GameManualItem/content/IntroCommandLine/1,"Cửa sổ dòng lệnh mô phỏng cửa sổ dấu nhắc lệnh (CMD) trong máy tính thực. 
+Người dùng có thể thực thi các lệnh hệ thống và lệnh Git trong cửa sổ này.
+Sử dụng Git trong kịch bản thực tế, 
+kết quả thực hiện lệnh được hiển thị trong cửa sổ này."
+GameManualItem/content/IntroCommandLine/2/Title,Giới thiệu thanh công cụ
+GameManualItem/content/IntroCommandLine/2,<b>Biểu tượng thùng rác bên phải:</b> Xóa nội dung lịch sử lệnh.
+GameManualItem/content/IntroCommandLine/3/Title,Lịch sử lệnh
+GameManualItem/content/IntroCommandLine/3/Image,001 - Thực hiện lệnh thành công
+GameManualItem/content/IntroCommandLine/3,"Dùng để ghi lại các lệnh đã thực hiện trước đó. 
+Bấm vào một lệnh để xem kết quả thực hiện của nó, 
+hoặc di chuột qua lệnh để xem nhanh kết quả.
+Sau khi thực hiện một lệnh, có ba loại kết quả:
+<b>1. Lệnh được thực thi thành công:</b>"
+GameManualItem/content/IntroCommandLine/4/Image,002 - Thực thi lệnh không chính xác
+GameManualItem/content/IntroCommandLine/4,"Khi lệnh được thực thi là chính xác và không gây ra vấn đề gì cho dự án.
+<b>2. Cảnh báo:</b>"
+GameManualItem/content/IntroCommandLine/5/Image,003 - Lệnh dừng được thực thi
+GameManualItem/content/IntroCommandLine/5,"Việc thực thi lệnh bị gián đoạn, điều này thường có nghĩa là có lỗi trong quá trình thực thi. 
+     Trò chơi sẽ cảnh báo bạn về lý do thất bại.
+<b>3. Việc thực thi lệnh bị hủy bỏ:</b>"
+GameManualItem/content/IntroCommandLine/6,"Lệnh được thực thi có thể gây ra sự cố cho dự án. 
+     Nếu lệnh được thực thi thành công, nó có thể cần thêm thời gian và công sức
+     để giải quyết các vấn đề. 
+     Trong trò chơi, việc thực thi sẽ bị buộc dừng lại và được coi là lỗi vận hành."
+GameManualItem/content/IntroCommandLine/7/Title,Chi tiết thực hiện lệnh
+GameManualItem/content/IntroCommandLine/7,"Sau khi thực hiện lệnh, kết quả được hiển thị ở đây."
+GameManualItem/content/IntroCommandLine/8/Title,Vị trí hiện tại
+GameManualItem/content/IntroCommandLine/8/Image,Vị trí hiện tại trong Dòng lệnh
+GameManualItem/content/IntroCommandLine/8,"<b>Di chuột qua biểu tượng la bàn bên trái:</b> Vị trí dòng lệnh hiện tại.
+<b>Di chuột qua biểu tượng nhánh bên phải:</b> Nhánh hiện tại, commit."
+GameManualItem/content/IntroCommandLine/8/tip,"Trong trò chơi, 
+cửa sổ dòng lệnh đồng bộ với đường dẫn trong cửa sổ trình quản lý tệp. 
+Nếu bạn di chuyển đường dẫn trong cửa sổ quản lý file, dòng lệnh cũng sẽ cập nhật đường dẫn."
+GameManualItem/content/IntroCommandLine/9/Title,Trường lệnh đầu vào
+GameManualItem/content/IntroCommandLine/9/Image,Click để nhập lệnh...
+GameManualItem/content/IntroCommandLine/9,"Được sử dụng để thực thi các lệnh Git.
+Trong quá trình nhập lệnh, các thao tác sau có thể được thực hiện:
+1. Nhấp vào phím Tab hoặc biểu tượng ống kính để sử dụng tính năng tìm kiếm nhanh.
+2. Nhấn Enter hoặc nhấp vào biểu tượng mũi tên để thực hiện lệnh.
+3. Sử dụng phím mũi tên lên và xuống để điền nhanh các lệnh đã thực hiện trước đó.
+4. Nhấp chuột phải vào trường nhập để dán nội dung đã sao chép."
+GameManualItem/content/IntroCommandLine/10/Title,Tính năng hoàn thiện nhanh
+GameManualItem/content/IntroCommandLine/10,"Tìm kiếm kết quả phù hợp dựa trên đầu vào hiện tại để điền nhanh vào trường đầu vào. 
+Nó rất hữu ích trong các tình huống sau:
+1. Nhập lệnh nhanh.
+2. Chưa quen với cấu trúc lệnh.
+3. Sử dụng hệ thống trong trò chơi: Điền thông điệp commit và đặt tên cho các nhánh."
+GameManualItem/content/IntroCommandLine/10/tip,"Để biết cách sử dụng tính năng điền nhanh cho thông điệp commit và đặt tên chi nhánh,
+vui lòng tham khảo các lệnh 'git commit' và 'git branch' trong hướng dẫn sử dụng trò chơi."
+GameManualItem/content/IntroGitCommand/1/Title,Giới thiệu cấu trúc lệnh Git
+GameManualItem/content/IntroGitCommand/1,"Git là một công cụ kiểm soát phiên bản được sử dụng rộng rãi. 
+Người dùng cần nhập lệnh Git vào dòng lệnh để thực hiện các thao tác khác nhau.
+Cấu trúc của lệnh Git bao gồm một số từ khóa.
+Chúng được ngăn cách bởi không gian.
+Ví dụ:"
+GameManualItem/content/IntroGitCommand/1/exampleBox,<color=#CF001C>git</color> <color=#173D91>add</color> <color=#244B0E>Text_File.txt</color>
+GameManualItem/content/IntroGitCommand/2,"Lệnh này có 3 trường lệnh:
+<b>Trường lệnh đầu tiên - <color=#CF001C>git</color>:</b>
+Đây là từ khóa bắt buộc phải nhập khi thực thi lệnh Git. 
+Các lệnh liên quan đến Git cần bắt đầu bằng <color=#CF001C>git</color>.
+<b>Trường lệnh thứ hai - <color=#173D91>add</color>:</b>
+Nội dung này thường được sử dụng để xác định loại lệnh Git.
+Loại lệnh <color=#173D91>add</color> được sử dụng để di chuyển tệp đến Staging Area.
+<b>Trường lệnh thứ ba - <color=#244B0E>Text_File.txt</color>:</b>
+Tùy thuộc vào loại lệnh, 
+một số lệnh có thể thêm các từ khóa khác vào phía trước để đạt được các tính năng khác nhau. 
+Hãy kiểm tra trang web chính thức của Git để tìm hiểu cách sử dụng một loại lệnh cụ thể."
+GameManualItem/content/IntroGitCommand/3/Title,Ghi chú
+GameManualItem/content/IntroGitCommand/3,"Trò chơi này sẽ tập trung vào các lệnh Git cơ bản và thiết thực nhất. 
+Bạn chỉ cần học các lệnh được đề cập trong hướng dẫn và màn chơi của trò chơi.
+Dưới đây là một số điểm chính cần lưu ý khi thực hiện lệnh Git:
+<b>1. Sử dụng dấu cách để phân tách các trường lệnh:</b>
+     Git cần khoảng trống để nhận biết nội dung của từng trường nhằm thực thi các chức năng khác nhau.
+<b>2. Hãy chú ý đến trường hợp của lệnh:</b>
+     Các lệnh Git cần đảm bảo kiểu chữ giống với định dạng lệnh.
+     Nó có thể tránh được những lỗi vô tình.
+<b>3. Nhập lệnh theo định dạng được đề cập trong hướng dẫn và màn chơi trò chơi:</b>
+     Trò chơi đơn giản hóa cấu trúc đa dạng của lệnh Git. 
+     Bằng cách làm theo các phương pháp được đề cập trong hướng dẫn, 
+     bạn có thể thực hiện lệnh thành công."
+GameManualItem/content/IntroCommitHistory/1,"Cửa sổ Lịch sử commit là một màn hình hiển thị riêng cho đầu ra của lệnh 'git log'. 
+Nó hiển thị kết quả thực hiện lệnh 'git log'.
+và thực hiện một số cải tiến để nâng cao hiểu biết của bạn về lịch sử commit."
+GameManualItem/content/IntroCommitHistory/2/Title,Nội dung hiển thị hiện tại
+GameManualItem/content/IntroCommitHistory/2,"Bạn có thể nhấp vào các lệnh đã thực hiện trước đó 
+để xem trạng thái của lịch sử commit tại các thời điểm khác nhau. 
+ID lệnh tương ứng sẽ được hiển thị ở đây."
+GameManualItem/content/IntroCommitHistory/3/Title,Khu vực lịch sử commit
+GameManualItem/content/IntroCommitHistory/3,"Lịch sử commit được chia thành hai phần: cục bộ và từ xa. 
+Nếu kịch bản hiện tại có kho lưu trữ từ xa, 
+bạn có thể mở rộng hoặc thu gọn nội dung bằng nút điều khiển từ xa."
+GameManualItem/content/IntroCommitHistory/4/Title,Danh sách chi nhánh Lịch sử commit và HEAD
+GameManualItem/content/IntroCommitHistory/4,"Khu vực này hiển thị danh sách các nhánh trong kho lưu trữ cục bộ và từ xa. 
+Dựa trên màu trong danh sách và màu hiển thị trên các commit.
+Bạn có thể xác định nhánh nào thuộc về một commit.
+Ngoài ra, khi click vào một nhánh trong danh sách, 
+tất cả các commit thuộc nhánh được nhấp vào đó sẽ chuyển sang màu đại diện cho nhánh đó.
+Biểu tượng lá cờ tượng trưng cho HEAD.
+Nó hiển thị commit hiện tại nơi đặt Git. 
+Nhấp vào HEAD trên danh sách nhánh sẽ hiển thị tất cả lịch sử commit trên HEAD."
+GameManualItem/content/IntroCommitHistory/5/Title,Commit nội dung chi tiết
+GameManualItem/content/IntroCommitHistory/5,"Khi chạy lệnh 'git log' trong kịch bản thực.
+Các chi tiết như tác giả, thời gian và thông điệp của commit được hiển thị trong dòng lệnh.
+Trong trò chơi này, những chi tiết này được ẩn đi. 
+Để xem thông tin này, vui lòng nhấp vào một commit cụ thể. 
+Một cửa sổ bật lên sẽ hiển thị tất cả thông tin chi tiết về commit đó."
+GameManualItem/content/IntroCommitHistory/6/Title,Commit bị khóa
+GameManualItem/content/IntroCommitHistory/6,"Khi chạy lệnh 'git log' trong kịch bản thực.
+Nếu chúng tôi chưa cập nhật kho lưu trữ từ xa bằng các lệnh như 'git pull', 
+chúng tôi không thể xem thông tin về các commit bị khóa này.
+Trong game, tính năng này sẽ nhắc nhở bạn. 
+vui lòng sử dụng 'git pull' để cập nhật nội dung của kho lưu trữ từ xa nếu bạn cần."

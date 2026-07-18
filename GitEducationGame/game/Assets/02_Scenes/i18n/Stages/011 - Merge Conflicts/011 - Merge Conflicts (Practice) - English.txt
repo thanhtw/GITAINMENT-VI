@@ -1,0 +1,77 @@
+﻿StageTitle,Giải quyết xung đột hợp nhất
+Story Background/Content/Story,"Bạn là một sinh viên.
+Gần đây, trong khóa học 'Mobile Application Development',
+giáo viên yêu cầu học sinh ghép đôi theo nhóm hai người để sử dụng co-create, một ứng dụng di động đơn giản.
+
+Bạn và đồng đội của mình quyết định phát triển một trò chơi mang tên ""Đoán số"".
+Sau một thời gian, các tính năng cơ bản của trò chơi đã được hoàn thiện.
+
+Tuy nhiên, bạn nhận thấy rằng thiết kế bố cục của trò chơi chưa đủ hấp dẫn.
+Để cải thiện màn chơi, bạn và đồng đội quyết định mỗi người sẽ thiết kế giao diện di động của riêng mình,
+và sau đó thảo luận xem yếu tố thiết kế nào cuối cùng sẽ được áp dụng.
+
+Đồng đội của bạn đang thiết kế bố cục di động của họ trên nhánh 'member-style-design',
+trong khi bạn đang chuẩn bị tạo một nhánh mới để thiết kế bố cục di động của riêng mình.
+
+Bây giờ, vui lòng sửa đổi các thành phần di động trên nhánh của riêng bạn,
+và cuối cùng hợp nhất nội dung đã hoàn thành vào nhánh chính."
+Stage Quest/1,Mở cửa sổ 'Commit History'
+Stage Quest/2,Tạo một nhánh mới trên nhánh 'master' và cập nhật cửa sổ 'Commit History'
+Stage Quest/3,Sửa đổi kiểu ứng dụng dành cho thiết bị di động trên nhánh 'your-style-design'
+Stage Quest/4,Tạo một commit mới và cập nhật cửa sổ 'Commit History'
+Stage Quest/5,Hợp nhất nhánh 'member-style-design' trở lại nhánh chính và cập nhật cửa sổ 'Commit History'
+Stage Quest/6,Hợp nhất nhánh 'your-style-design' trở lại nhánh chính
+Stage Quest/7,Giải quyết xung đột trong file 'activity_main.xml'
+Stage Quest/8,Tạo một commit mới và cập nhật cửa sổ 'Commit History'
+Stage Quest/9,Xóa tất cả các nhánh đã hoàn tất việc sáp nhập và cập nhật cửa sổ 'Commit History'
+AutoMergeData/Quest 8/ListContent/0,"Please enter 4 digits:\n<<<<<<< HEAD\nDigit Input Field (Designed by Classmate A)<color=#FFE6C6>=</color>\nGuess Button (Designed by Classmate A)\n=======\nDigit Input Field (Your Design)\nGuess Button (Your Design)<color=#FFE6C6>=</color>\n>>>>>>> your-style-design\nExecution Result: 0A, 0B"
+CommitHistoryData/File data/ListFileName/0,Guess_Number_Project
+CommitHistoryData/File data/ListLocation/0,Guess_Number_Project
+CommitHistoryData/File data/ListContent/1,"Please enter 4 digits:\nDigit Input Field\nGuess Button\nExecution Result: 0A, 0B"
+CommitHistoryData/File data/ListContent/NPC,"Please enter 4 digits:\nDigit Input Field (Designed by Classmate A)\nGuess Button (Designed by Classmate A)\nExecution Result: 0A, 0B"
+CommitHistoryData/File data/ListContent/2,Button Click Event\nRandom Number Generation\nGet Player Input\nCompare Answers Feature
+CommitHistoryData/File data/ListContent/1(fix),"Please enter 4 digits:\nDigit Input Field <color=#CF001C>(to be modified)</color><color=#FFE6C6>Flag1</color>\mDigit Input Field (Your Design)\nGuess Button <color=#CF001C>(to be modified)</color><color=#FFE6C6>Flag2</color>\mGuess Button (Your Design)\nExecution Result: 0A, 0B"
+CommitHistoryData/File data/ListFileName/1,activity_main.xml
+CommitHistoryData/File data/ListFileName/2,Main_Activity.java
+CommitHistoryData/File data/ListLocation/1,Guess_Number_Project\activity_main.xml
+CommitHistoryData/File data/ListLocation/2,Guess_Number_Project\Main_Activity.java
+CommitHistoryData/File data/ListLocation/3,Guess_Number_Project\.git
+CommitHistoryData/CommitMessage/1,Initialize mobile application project
+CommitHistoryData/CommitMessage/2,Basic game logic design completed
+CommitHistoryData/CommitMessage/3,Basic mobile layout design completed
+CommitHistoryData/CommitMessage/4,"Branch ""ui-design"" has been merged into branch ""master"""
+CommitHistoryData/CommitMessage/5,Classmate A mobile interface style design completed
+Quest Filter/Valider/Target File Name/0,activity_main.xml
+Quest Filter/Valider/Target File Name/1,Guess_Number_Project\activity_main.xml
+Quest Valider/Valider/0,activity_main.xml
+DefaultData/BranchName data/branchNameList/0,your-style-design
+DefaultData/BranchName data/branchNameList/1,style-design
+DefaultData/BranchName data/branchNameList/2,new-branch
+DefaultData/BranchName data/branchNameReasonList/0,"Branch Naming Analysis:
+Appropriate: Uses lowercase letters and differentiates words using the '-' symbol."
+DefaultData/BranchName data/branchNameReasonList/1,"Branch Naming Analysis:
+Appropriate: Uses lowercase letters and differentiates words using the '-' symbol.
+Inappropriate: Since you are developing co-operatively with a team, you should add keywords like your name to improve identification."
+DefaultData/BranchName data/branchNameReasonList/2,"Branch Naming Analysis:
+Appropriate: Uses lowercase letters and differentiates words using the '-' symbol.
+Inappropriate: Fails to indicate the purpose of creating the branch."
+DefaultData/Commit data/commitMessageList/0,Modify mobile main interface file
+DefaultData/Commit data/commitMessageList/1,Main interface design improvement: buttons and input fields
+DefaultData/Commit data/commitMessageList/2,Change game interface
+DefaultData/Commit data/commitMessageReasonList/0,"Commit Message Analysis:
+Although it mentions the target file modified, it fails to specify the modified content."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit Message Analysis:
+Clearly specifies the modification target and details."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit Message Analysis:
+Mentions that the game interface was changed, but lacks detailed information."
+DefaultData/Commit data/commitMessageList/4,Resolve merge conflict between 'master' and 'your-style-design' branches
+DefaultData/Commit data/commitMessageList/5,Resolve conflicts
+DefaultData/Commit data/commitMessageList/6,Merge two branches
+DefaultData/Commit data/commitMessageReasonList/4,"Commit Message Analysis:
+Clearly specifies the two branches whose conflict was resolved."
+DefaultData/Commit data/commitMessageReasonList/5,"Commit Message Analysis:
+Although it notes that a conflict was resolved, more details should be added."
+DefaultData/Commit data/commitMessageReasonList/6,"Commit Message Analysis:
+The commit message is not specific enough; 
+the names of the two target branches being merged can be added."
+NPCCommitData/NPC1,Classmate A

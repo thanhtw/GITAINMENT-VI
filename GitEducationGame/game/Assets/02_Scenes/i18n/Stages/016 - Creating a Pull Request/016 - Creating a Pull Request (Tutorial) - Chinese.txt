@@ -1,0 +1,77 @@
+﻿StageTitle,"創建 Pull Request"
+Story Background/Content/Story,"您是一位學生，
+在課程 '專案管理' 中，
+老師要求學生們幾個人組成一隊，共同開發一個網站。
+
+您和團隊成員一同使用 Git 來管理專案，
+每個人分別在自己的分支開發功能。
+
+您在自己創建的 'update-readme' 分支上，新增 'README.md' 檔案內容。
+
+完成開發後，在本地電腦上確認了一次 '合併到遠端主分支前的準備'。
+過程中，您解決了與 'master' 分支的合併衝突，
+
+現在，就請您通過 Git 服務平台創建一個 Pull Request。
+將 'update-readme' 分支的內容合併到 'master' 分支吧。"
+Stage Quest/1,"開啟 '提交記錄' 視窗"
+Stage Quest/2,"開啟 '瀏覽器' 視窗"
+Stage Quest/3,"新建 Pull Request 請求"
+Stage Quest/4,"新增審核人員"
+Stage Quest/5,"回覆審核人員的訊息"
+Stage Quest/6,"根據建議修改檔案內容"
+Stage Quest/7,"創建新的提交，並更新 '提交記錄' 視窗"
+Stage Quest/8,"將 'update-readme' 分支上傳到遠端儲存庫中
+並更新 '提交記錄' 視窗"
+Stage Quest/9,"將 Pull Request 對話標記為完成"
+Stage Quest/10,"同步遠端 'master' 分支的內容
+並更新 '提交記錄' 視窗"
+Stage Quest/11,"刪除本地、遠端的 'update-readme' 分支
+並更新 '提交記錄' 視窗"
+DefaultData/Commit data/commitMessageList/0,"新增 README 內容：專案運行步驟"
+DefaultData/Commit data/commitMessageList/1,"補充 README 檔案的內容"
+DefaultData/Commit data/commitMessageList/2,"新增檔案內容"
+DefaultData/Commit data/commitMessageReasonList/0,"提交訊息分析：
+這個提交消息明確地告訴團隊成員本次新增的內容
+它讓人知道本次提交的目的是為了解決 Pull Request 的對話"
+DefaultData/Commit data/commitMessageReasonList/1,"提交訊息分析：
+這個提交消息雖然提到了補充檔案內容，但不夠清楚
+它並沒有提到修改的內容"
+DefaultData/Commit data/commitMessageReasonList/2,"提交訊息分析：
+這個提交消息不夠清楚，並未提及新增的內容是什麼"
+CommitHistoryData/File data/ListContent/1/v1,"# 購物網站專案"
+CommitHistoryData/File data/ListContent/1/v2,"# 購物網站專案\n建立網站原因"
+CommitHistoryData/File data/ListContent/1/v3,"# 購物網站專案\n建立網站原因\n網頁操作說明"
+CommitHistoryData/File data/ListContent/1/v4,"# 購物網站專案\n網頁系統架構\n網頁截圖"
+CommitHistoryData/File data/ListContent/1/v5,"# 購物網站專案\n建立網站原因\n網頁操作說明\n網頁系統架構\a專案運行步驟\n網頁截圖"
+NPCCommitData/NPC1,"團隊成員 A"
+CommitHistoryData/File data/ListLocation/0,"shopping-website"
+CommitHistoryData/File data/ListLocation/1,"shopping-website\README.md"
+CommitHistoryData/File data/ListLocation/2,"shopping-website\.git"
+CommitHistoryData/File data/ListFileName/0,"shopping-website"
+CommitHistoryData/File data/ListFileName/1,"README.md"
+CommitHistoryData/CommitMessage/1,"增加 README 檔案"
+CommitHistoryData/CommitMessage/2,"新增 README 內容：建立網站原因"
+CommitHistoryData/CommitMessage/3,"新增 README 內容：操作說明"
+CommitHistoryData/CommitMessage/4,"新增 README 內容：網頁系統架構和截圖"
+CommitHistoryData/CommitMessage/5,"解決 'update-readme' 分支與 'master' 分支的合併衝突"
+RepoQuestData/Repo Quest/PRTitle,"新增 README 內容: 創建網站原因和操作說明"
+RepoQuestData/Repo Quest/PRDes,"這個 Pull Request 包含了我在 'update-readme' 分支上所做的變更，
+它主要用於更新 README 檔案，我新增了創建網站的原因和使用說明。"
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/MainContent,"您好，我注意到 'README.md' 檔案中缺少了安裝專案的流程。
+為了確保老師和其他專案成員能夠順利運行專案。
+建議您將其內容添加到 README 文件中。
+謝謝。"
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/FileName,"README.md"
+BrowserWindow/PRDetailed/FileContent1,"# 購物網站專案"
+BrowserWindow/PRDetailed/FileContent2,"建立網站原因"
+BrowserWindow/PRDetailed/FileContent3,"網頁操作說明"
+BrowserWindow/PRDetailed/FileContent4,"網頁系統架構"
+BrowserWindow/PRDetailed/FileContent5,"專案運行步驟"
+BrowserWindow/PRDetailed/FileContent6,"網頁截圖"
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/ReplyMessage1,"請您在網頁系統架構的下面一行新增安裝流程。"
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/ReplyMessage2,"謝謝您的建議，我會檢查並進行對應的修改。"
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/ReplyMessage3,"我已經將安裝網頁的相關流程添加到 README 文件中。
+如果還有其他需要改進的地方。
+請隨時提出，謝謝。"
+BrowserWindow/PRDetailed/Msg_10_Refresh_Approve,"已審核並確認 'README.md' 內容沒有問題。
+批准本次合併請求。"

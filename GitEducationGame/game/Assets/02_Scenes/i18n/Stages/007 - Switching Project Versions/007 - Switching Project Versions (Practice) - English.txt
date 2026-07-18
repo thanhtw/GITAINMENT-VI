@@ -1,0 +1,34 @@
+﻿StageTitle,Chuyển đổi phiên bản dự án
+Story Background/Content/Story,"Bạn là một QA (Kỹ sư kiểm thử phần mềm) xuất sắc.
+Gần đây, đồng nghiệp của bạn đã phát triển một máy tính chỉ số BMI.
+Tuy nhiên, bạn phát hiện ra rằng phiên bản mới nhất của chương trình gặp sự cố trong thời gian chạy.
+
+Bạn tin rằng lỗi này có thể bắt nguồn từ đoạn mã được viết trước đó,
+và việc chuyển về các phiên bản cũ hơn sẽ đẩy nhanh quá trình điều tra nguyên nhân gốc rễ của bạn.
+
+Nhiệm vụ của bạn là sử dụng Git để theo dõi chính xác thời điểm xảy ra lỗi này.
+Khi bạn tìm thấy lỗi, hãy ghi lại số dòng,
+và quay lại phiên bản mới nhất để sửa nó."
+Stage Quest/1,Xác minh nội dung của 'BMI_Calculator.c
+Stage Quest/2,"Chuyển sang phiên bản commit thứ 2
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/3,Xác minh nội dung của 'BMI_Calculator.c
+Stage Quest/4,"Chuyển sang phiên bản commit thứ 3
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/5,Xác minh nội dung của 'BMI_Calculator.c
+Stage Quest/6,"Chuyển sang nhánh 'master'
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/7,Sửa lỗi nội dung mã
+CommitHistoryData/File data/ListContent/0,BMI Calculator Main Program
+CommitHistoryData/File data/ListContent/1,BMI Calculator Main Program\nInput Detection Code <color=#173D91>(No Problems!)</color>
+CommitHistoryData/File data/ListContent/2,BMI Calculator Main Program\nInput Detection Code\nBMI Calculation Code <color=#CF001C>(Error!)</color>
+CommitHistoryData/File data/ListContent/3,BMI Calculator Main Program\nInput Detection Code\nBMI Calculation Code <color=#FFE6C6>(to be modified)</color>\mCorrect BMI Calculation Code (modified)\nDisplay BMI Results Code <color=#173D91>(No Problems!)</color>
+CommitHistoryData/File data/ListFileName/0,BMI_Calculator.c
+CommitHistoryData/File data/ListLocation/0,BMI_Calculator.c
+Quest Filter/Valider/Target File Name/1,BMI_Calculator.c
+Quest Valider/Valider/0,BMI_Calculator.c
+CommitHistoryData/CommitMessage/1,Initialize BMI Calculator
+CommitHistoryData/CommitMessage/2,Write 'Input Detection Code'
+CommitHistoryData/CommitMessage/3,Write 'BMI Calculation Code'
+CommitHistoryData/CommitMessage/4,Write 'Display BMI Results Code'
+NPCCommitData/NPC1,Colleague A

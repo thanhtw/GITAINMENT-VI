@@ -1,0 +1,31 @@
+﻿StageTitle,Các hoạt động cơ bản trong Staging Area Git
+Story Background/Content/Story,"Bạn là sinh viên mới bắt đầu học hệ thống Git.
+Gần đây bạn đã biết đến khái niệm 'Staging Area',
+tuy nhiên, bạn vẫn chưa quen lắm với việc thực hiện các lệnh.
+
+Bạn đã chuyển thành công 'Member_Data.csv' vào 'Staging Area'.
+Nhưng do lo ngại về quyền riêng tư, tệp này không được lưu trong hệ thống quản lý Git.
+
+Bây giờ, hãy đặt tất cả các tệp cần lưu vào 'Staging Area'."
+Stage Quest/1,Mở cửa sổ 'Command Line'
+Stage Quest/2,Xác minh nội dung của 'Staging Area'
+Stage Quest/3,"Sau khi đáp ứng các yêu cầu trong 'Requirements.txt',
+xác minh trạng thái của 'Staging Area'"
+DefaultData/File data/ListContent/0,"I created a new Git management system in the project.\nTo initialize the project, I need to <color=#CF001C>add</color> the following content to the 'Staging Area':\nWebsite_Homepage.html\nLogin_System.js\nFiles that <color=#CF001C>should NOT be added</color>:\nMember_Data.csv"
+DefaultData/File data/ListFileName/0,Requirements.txt
+DefaultData/File data/ListLocation/0,Requirements.txt
+DefaultData/File data/ListFileName/1,Shopping_Website_Project
+DefaultData/File data/ListLocation/1,Shopping_Website_Project
+DefaultData/File data/ListContent/2,Homepage Title\nWeb Content\nUsername and Password Fields\nMember Login Button\nMember Register Button
+DefaultData/File data/ListFileName/2,Website_Homepage.html
+DefaultData/File data/ListLocation/2,Shopping_Website_Project\Website_Homepage.html
+DefaultData/File data/ListContent/3,Validate Member Data\nRegister Member Data\nFailure Message\nSuccess Message
+DefaultData/File data/ListFileName/3,Login_System.js
+DefaultData/File data/ListLocation/3,Shopping_Website_Project\Login_System.js
+DefaultData/File data/ListContent/4,"abcde12345,123456789\ngitGame56789,password\nstagingArea999,stagedUnstaged"
+DefaultData/File data/ListFileName/4,Member_Data.csv
+DefaultData/File data/ListLocation/4,Shopping_Website_Project\Member_Data.csv
+DefaultData/File data/ListLocation/5,Shopping_Website_Project\.git
+Quest Tracker/StagingStatusData/ListLocation/1,Shopping_Website_Project\Website_Homepage.html
+Quest Tracker/StagingStatusData/ListLocation/2,Shopping_Website_Project\Login_System.js
+Quest Tracker/StagingStatusData/ListLocation/3,Shopping_Website_Project\Member_Data.csv

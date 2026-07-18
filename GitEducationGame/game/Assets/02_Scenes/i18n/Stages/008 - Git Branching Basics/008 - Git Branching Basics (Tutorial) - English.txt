@@ -1,0 +1,58 @@
+﻿StageTitle,Hướng dẫn cơ bản về phân nhánh Git
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management', 
+cô giáo đã nêu 'branch' là gì trong bài học hôm nay.
+
+Dự án bạn đang thực hiện là trò chơi 'Tetris',
+và bạn đã hoàn thành các tính năng cơ bản của trò chơi.
+
+Có thêm thời gian trước thời hạn.
+Bạn quyết định thêm một tính năng mới vào trò chơi.
+
+Để đảm bảo nội dung trò chơi hiện tại không bị ảnh hưởng khi quá trình phát triển không thành công.
+Bạn quyết định sử dụng các kỹ thuật quản lý chi nhánh để hỗ trợ phát triển."
+Stage Quest/1,Mở cửa sổ 'Commit History'.
+Stage Quest/2,Tạo một nhánh trên commit mới nhất.
+Stage Quest/3,Kiểm tra trạng thái của cửa sổ 'Commit History'.
+Stage Quest/4,Xem tất cả các nhánh trong kho lưu trữ cục bộ.
+Stage Quest/5,"Chuyển sang nhánh mới được tạo.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/6,Thêm một tính năng mới trên nhánh đã tạo.
+Stage Quest/7,"Tạo một commit mới.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/8,"Chuyển sang nhánh 'master'.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/9,"Xóa nhánh vừa tạo.
+Sau đó cập nhật cửa sổ 'Commit History'."
+CommitHistoryData/File data/ListContent/0,Game Title Screen
+CommitHistoryData/File data/ListContent/1/v1,Game start screen\nScoring mechanism (has issues)\nClear Lines logic\nGame over
+CommitHistoryData/File data/ListContent/1/v2,Game start screen\nScoring mechanism (fixed)\nClear Lines logic\nGame over\aAdd RPG elements to the game
+CommitHistoryData/File data/ListFileName/0,Main_Program.c
+CommitHistoryData/File data/ListLocation/0,Main_Program.c
+CommitHistoryData/CommitMessage/1,Initialize the Tetris game.
+CommitHistoryData/CommitMessage/2,Complete basic game mechanics.
+CommitHistoryData/CommitMessage/3,Fix scoring mechanic error.
+Quest Filter/Valider/Target File Name/0,Main_Program.c
+DefaultData/Commit data/commitMessageList/0,Add RPG elements: Players can use skills during the gameplay.
+DefaultData/Commit data/commitMessageList/1,Add a new commit.
+DefaultData/Commit data/commitMessageList/2,Add new features in the main program.
+DefaultData/Commit data/commitMessageReasonList/0,"Commit message analysis:
+This commit message mentions adding RPG elements to the project.
+People can quickly understand that this commit developed a skill system."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit message analysis:
+This message is too simple! 
+It doesn't provide enough information to help people understand the purpose or content of the commit."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit message analysis:
+Although this commit message mentions updating the main program
+it doesn't provide what function has been updated."
+DefaultData/BranchName data/branchNameList/0,new-feature
+DefaultData/BranchName data/branchNameList/1,NewFeature
+DefaultData/BranchName data/branchNameList/2,NEW-FEATURE
+DefaultData/BranchName data/branchNameReasonList/0,"Naming branch analysis:
+Good: Using lowercase letters and hyphens (-)."
+DefaultData/BranchName data/branchNameReasonList/1,"Naming branch analysis:
+Good: Using lowercase letters and hyphens (-).
+Bad: Using uppercase letters."
+DefaultData/BranchName data/branchNameReasonList/2,"Naming branch analysis:
+Good: Using hyphens (-) to divide words.
+Bad: Using uppercase letters."

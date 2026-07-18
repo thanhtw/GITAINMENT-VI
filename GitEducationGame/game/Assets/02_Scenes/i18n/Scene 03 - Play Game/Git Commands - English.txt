@@ -1,0 +1,277 @@
+﻿GitCommandValider/Common/InGitLocation,"Bạn không có trong 'working directory'. 
+Vui lòng vào thư mục dự án chứa '.git' để thực thi các lệnh."
+GitCommandValider/LockedCommand/git/0,"Loại lệnh bị khóa:
+'git'"
+GitCommandValider/LockedCommand/git init/0,"Loại lệnh bị khóa:
+'git init'"
+GitCommandValider/LockedCommand/git status/0,"Loại lệnh bị khóa:
+'git status'"
+GitCommandValider/LockedCommand/git log/0,"Loại lệnh bị khóa:
+'git log'"
+GitCommandValider/LockedCommand/git merge/0,"Loại lệnh bị khóa:
+'git merge'"
+GitCommandValider/LockedCommand/git clone/0,"Loại lệnh bị khóa:
+'git clone'"
+GitCommandValider/LockedCommand/git remote/0,"Loại lệnh bị khóa:
+'git remote'"
+GitCommandValider/LockedCommand/git pull/0,"Loại lệnh bị khóa:
+'git pull'"
+GitCommandValider/LockedCommand/git push/0,"Loại lệnh bị khóa:
+'git push'"
+GitCommandValider/LockedCommand/git push/2,"Lệnh bị khóa:
+'git push -d or --delete remote_repository_alias branch_name'"
+GitCommandValider/LockedCommand/git add/0,"Loại lệnh bị khóa:
+'git add'"
+GitCommandValider/LockedCommand/git add/1,"Lệnh bị khóa:
+'git add file_name'"
+GitCommandValider/LockedCommand/git add/2,"Lệnh bị khóa:
+'git add folder_name'"
+GitCommandValider/LockedCommand/git add/3,"Lệnh bị khóa:
+'git add .'"
+GitCommandValider/LockedCommand/git reset/0,"Loại lệnh bị khóa:
+'git reset'"
+GitCommandValider/LockedCommand/git reset/1,"Lệnh bị khóa:
+'git reset file_name'"
+GitCommandValider/LockedCommand/git reset/2,"Lệnh bị khóa:
+'git reset folder_name'"
+GitCommandValider/LockedCommand/git reset/3,"Lệnh bị khóa:
+'git reset .'"
+GitCommandValider/LockedCommand/git branch/0,"Loại lệnh bị khóa:
+'git branch'"
+GitCommandValider/LockedCommand/git branch/1,"Lệnh bị khóa:
+'git branch'"
+GitCommandValider/LockedCommand/git branch/2,"Lệnh bị khóa:
+'git branch branch_name'"
+GitCommandValider/LockedCommand/git branch/3,"Lệnh bị khóa:
+'git branch -d or --delete branch_name'"
+GitCommandValider/LockedCommand/git branch/4,"Lệnh bị khóa:
+'git branch -r or --remote'"
+GitCommandValider/LockedCommand/git branch/5,"Lệnh bị khóa:
+'git branch local_branch_name remote_branch_name'"
+GitCommandValider/LockedCommand/git checkout/0,"Loại lệnh bị khóa:
+'git checkout'"
+GitCommandValider/LockedCommand/git checkout/1,"Lệnh bị khóa:
+'git checkout commit_ID'"
+GitCommandValider/LockedCommand/git checkout/2,"Lệnh bị khóa:
+'git checkout branch_name'"
+GitCommandValider/LockedCommand/git commit/0,"Loại lệnh bị khóa:
+'git commit'"
+GitCommandValider/LockedCommand/git commit/1,"Lệnh bị khóa:
+'git commit -m or --message commit_message'"
+GitCommandValider/CannotUsedCommandInStage/git/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git'"
+GitCommandValider/CannotUsedCommandInStage/git init/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git init'"
+GitCommandValider/CannotUsedCommandInStage/git status/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git status'"
+GitCommandValider/CannotUsedCommandInStage/git log/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git log'"
+GitCommandValider/CannotUsedCommandInStage/git merge/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git merge'"
+GitCommandValider/CannotUsedCommandInStage/git clone/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git clone'"
+GitCommandValider/CannotUsedCommandInStage/git remote/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git remote'"
+GitCommandValider/CannotUsedCommandInStage/git pull/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git pull'"
+GitCommandValider/CannotUsedCommandInStage/git push/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git push'"
+GitCommandValider/CannotUsedCommandInStage/git push/2,"Lệnh Không thể sử dụng trong màn chơi này:
+'git push -d or --delete remote_repository_alias branch_name'"
+GitCommandValider/CannotUsedCommandInStage/git add/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git add'"
+GitCommandValider/CannotUsedCommandInStage/git add/1,"Lệnh Không thể sử dụng trong màn chơi này:
+'git add file_name"
+GitCommandValider/CannotUsedCommandInStage/git add/2,"Lệnh Không thể sử dụng trong màn chơi này:
+'git add folder_name"
+GitCommandValider/CannotUsedCommandInStage/git add/3,"Lệnh Không thể sử dụng trong màn chơi này:
+'git add .'"
+GitCommandValider/CannotUsedCommandInStage/git reset/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git reset'"
+GitCommandValider/CannotUsedCommandInStage/git reset/1,"Lệnh Không thể sử dụng trong màn chơi này:
+'git reset file_name"
+GitCommandValider/CannotUsedCommandInStage/git reset/2,"Lệnh Không thể sử dụng trong màn chơi này:
+'git reset folder_name'"
+GitCommandValider/CannotUsedCommandInStage/git reset/3,"Lệnh Không thể sử dụng trong màn chơi này:
+'git reset .'"
+GitCommandValider/CannotUsedCommandInStage/git branch/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git branch'"
+GitCommandValider/CannotUsedCommandInStage/git branch/1,"Lệnh Không thể sử dụng trong màn chơi này:
+'git branch'"
+GitCommandValider/CannotUsedCommandInStage/git branch/2,"Lệnh Không thể sử dụng trong màn chơi này:
+'git branch branch_name'"
+GitCommandValider/CannotUsedCommandInStage/git branch/3,"Lệnh Không thể sử dụng trong màn chơi này:
+'git branch -d or --delete branch_name'"
+GitCommandValider/CannotUsedCommandInStage/git branch/4,"Lệnh Không thể sử dụng trong màn chơi này:
+'git branch -r or --remote'"
+GitCommandValider/CannotUsedCommandInStage/git branch/5,"Lệnh Không thể sử dụng trong màn chơi này:
+'git branch local_branch_name remote_branch_name'"
+GitCommandValider/CannotUsedCommandInStage/git checkout/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git checkout'"
+GitCommandValider/CannotUsedCommandInStage/git checkout/1,"Lệnh Không thể sử dụng trong màn chơi này:
+'git checkout commit_ID'"
+GitCommandValider/CannotUsedCommandInStage/git checkout/2,"Lệnh Không thể sử dụng trong màn chơi này:
+'git checkout branch_name'"
+GitCommandValider/CannotUsedCommandInStage/git commit/0,"Loại lệnh Không thể sử dụng trong màn chơi này:
+'git commit'"
+GitCommandValider/CannotUsedCommandInStage/git commit/1,"Lệnh Không thể sử dụng trong màn chơi này:
+'git commit -m or --message commit_message'"
+CommandLineWindow/NotFoundCommand,"Lệnh không tìm thấy:
+'{playerInputCommand}'"
+CommandLineWindow/NotSupport,"Trò chơi này không hỗ trợ lệnh: 
+'{playerInputCommand}'"
+Git Commands/common/FollowQuest,Hãy làm theo mục tiêu hiện tại trước!
+Git Commands/git/Welcome,"Chào mừng bạn đến với hệ thống Git!
+Vui lòng nhập các lệnh bổ sung để thực hiện các hành động cụ thể."
+Git Commands/git/Exceed,"Các lệnh liên quan đến 'git':
+tối đa 2 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git/Help,Bấm để mở cửa sổ 'Game Manual'.
+Git Commands/git/Version,Phiên bản Git hiện tại đã được cập nhật!
+Git Commands/git init/Exceed,"Các lệnh liên quan đến 'git init':
+tối đa 2 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git init/Success,Kho lưu trữ Git mới đã được tạo thành công!
+Git Commands/git init/Already Created,Một kho lưu trữ cục bộ đã được tạo trong đường dẫn hiện tại.
+Git Commands/git init/Wrong Quest,"Nếu mục tiêu hiện tại không phải là 'Create Git Repository',
+nên tránh thực hiện lệnh này."
+Git Commands/git init/Wrong Location,"Theo mục tiêu hiện tại,
+vui lòng tạo kho lưu trữ Git theo đường dẫn tệp chính xác."
+Git Commands/git status/Exceed,"Các lệnh liên quan đến 'git status':
+tối đa 2 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git status/Success,Bấm để mở cửa sổ 'Staging Area'.
+Git Commands/git add/Exceed,"Các lệnh liên quan đến 'git add':
+tối đa 3 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git add/CommandField3,Vui lòng nhập file đích cần thêm vào Staging Area ở trường lệnh thứ 3!
+Git Commands/git add/NotFound,Không thể tìm thấy tệp '{fileName}' được chỉ định.
+Git Commands/git add/Success(All),Tất cả các tệp trong đường dẫn hiện tại đã được thêm vào Staging Area!
+Git Commands/git add/Success(Folder),Tất cả các file trong thư mục '{folderName}' đã được thêm vào Staging Area!
+Git Commands/git add/Success(File),Tệp '{fileName}' đã được thêm vào Staging Area!
+Git Commands/git add/Staged(File),Tệp '{fileName}' đã có trong Staging Area!
+Git Commands/git add/Upload(File),"Tệp '{fileName}' không có thay đổi nào!
+Tệp này đã là phiên bản mới nhất trong commit hiện tại."
+Git Commands/git reset/Exceed,"Các lệnh liên quan đến 'git reset':
+tối đa 3 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git reset/CommandField3,Vui lòng nhập file đích cần loại bỏ khỏi Staging Area vào trường lệnh thứ 3!
+Git Commands/git reset/NotFound,Không thể tìm thấy tệp '{fileName}' được chỉ định.
+Git Commands/git reset/Success(All),Tất cả các tệp trong đường dẫn hiện tại đã bị xóa khỏi Staging Area!
+Git Commands/git reset/Success(Folder),Tất cả các tệp trong thư mục '{folderName}' đã bị xóa khỏi Staging Area!
+Git Commands/git reset/Success(File),Tệp '{fileName}' đã bị xóa khỏi Staging Area!
+Git Commands/git reset/Staged(File),Tệp '{fileName}' không còn trong Staging Area!
+Git Commands/git reset/Upload(File),"Tệp '{fileName}' không có thay đổi nào!
+Tệp này đã là phiên bản mới nhất trong commit hiện tại."
+Git Commands/git commit/Exceed,"Các lệnh liên quan đến 'git commit':
+tối đa 4 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git commit/CommandField2,"Định dạng lệnh không chính xác.
+Vui lòng tham khảo hướng dẫn trò chơi để biết định dạng lệnh chính xác."
+Git Commands/git commit/CommandField3(-m),Vui lòng sử dụng -m trong trường lệnh thứ 3 để sử dụng 'git commit'.
+Git Commands/git commit/CommandField3(CommitMessage),Vui lòng nhập thông điệp commit vào trường thứ 4.
+Git Commands/git commit/Unstaged,"Không có tập tin dàn dựng trong Staging Area.
+Không có gì để commit."
+Git Commands/git commit/SearchFeature,"Để điền thông điệp commit, hãy nhập 'git commit -m """"', sau đó nhấn biểu tượng kính lúp và chọn thông điệp phù hợp."
+Git Commands/git commit/Success,Đã chuyển thành công các thay đổi theo màn chơi sang lịch sử commit!
+Git Commands/git log/Exceed,"Các lệnh liên quan đến 'git log':
+tối đa 2 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git log/Success,Bấm để mở cửa sổ 'Commit History'.
+Git Commands/git checkout/Exceed,"Các lệnh liên quan đến 'git checkout':
+tối đa 3 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git checkout/CommandField3,Vui lòng nhập nhánh mục tiêu/commit ID vào trường lệnh thứ 3.
+Git Commands/git checkout/NotFound,Không thể tìm thấy nhánh/commit được chỉ định ID: '{keyword}'
+Git Commands/git checkout/Already(Commit),Đã có trong commit được chỉ định '{commitID}'.
+Git Commands/git checkout/Already(Branch),Đã có trên nhánh được chỉ định '{branchName}'.
+Git Commands/git checkout/Success(Commit),Đã chuyển sang commit được chỉ định thành công! (Commit ID: '{commitID}')
+Git Commands/git checkout/Success(Branch),Đã chuyển sang nhánh được chỉ định thành công! (chi nhánh: '{branchName}')
+Git Commands/git branch/Exceed,"Các lệnh liên quan đến 'git branch':
+tối đa 4 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git branch/SearchFeature,Vui lòng sử dụng tính năng tìm kiếm để đặt tên chi nhánh.
+Git Commands/git branch/CommandField4,Vui lòng nhập tên chi nhánh cần xóa vào trường lệnh thứ 4.
+Git Commands/git branch/ExistBranch(Create),Nhánh '{branchName}' đã tồn tại.
+Git Commands/git branch/Success(Create),Đã tạo chi nhánh '{branchName}' thành công!
+Git Commands/git branch/NotFoundLocalBranch(Delete),Không thể tìm thấy nhánh cục bộ được chỉ định '{branchName}'.
+Git Commands/git branch/DeleteEqualInput(Delete),"Chi nhánh hiện tại là '{branchName}'.
+Vui lòng chuyển sang chi nhánh khác trước khi xóa."
+Git Commands/git branch/Success(Delete),Đã xóa thành công nhánh cục bộ '{branchName}'!
+Git Commands/git branch/ExistLocalBranch(Remote),Kho lưu trữ cục bộ đã có nhánh '{branchName}'.
+Git Commands/git branch/ExistRemoteBranch(Remote),Không thể tìm thấy nhánh từ xa '{branchName}' được chỉ định.
+Git Commands/git branch/NeedSameBranchName(Remote),"Khi sử dụng 'git branch localBranchName remoteBranchName',
+bạn nên đặt tên nhánh cục bộ giống với nhánh từ xa đã chỉ định.
+Vui lòng dùng '{branchName}' làm tên nhánh cục bộ!"
+Git Commands/git branch/Success(Remote),"Đã tạo thành công nhánh cục bộ '{LocalBranchName}'.
+Và đã kết nối thành công với nhánh từ xa '{RemoteBranchName}'."
+Git Commands/git merge/Exceed,"Các lệnh liên quan đến 'git merge':
+tối đa 3 trường lệnh trong trò chơi.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git merge/CommandField3,Vui lòng nhập nhánh cần hợp nhất vào trường lệnh thứ 3.
+Git Commands/git merge/NotFoundBranch,Không thể tìm thấy nhánh mục tiêu '{branchName}'.
+Git Commands/git merge/EnterEqualBranch,Bạn đang cố gắng hợp nhất một nhánh với chính nó.
+Git Commands/git merge/UpToDate,"Nhánh '{currentBranchName}' không yêu cầu hợp nhất với '{targetBranchName}'.
+Nó đã được cập nhật."
+Git Commands/git merge/FastForward,"Hợp nhất Fast-forward thành công.
+Chi nhánh '{branchName}' đã được cập nhật!"
+Git Commands/git merge/AutoMerge,"Tự động hợp nhất thành công. 
+Chi nhánh '{targetBranchName}' đã được sáp nhập vào '{currentBranchName}'!"
+Git Commands/git clone/Exceed,"Các lệnh liên quan đến 'git clone':
+tối đa 3 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git clone/CommandField3,Vui lòng nhập kho lưu trữ từ xa URL vào trường lệnh thứ 3.
+Git Commands/git clone/NotFoundURL,Không thể tìm thấy kho lưu trữ từ xa URL đã nhập!
+Git Commands/git clone/HasFolder,Một thư mục có cùng tên đã tồn tại ở đường dẫn hiện tại và nó chứa các tệp.
+Git Commands/git remote/Exceed,"Các lệnh liên quan đến 'git remote':
+tối đa 3 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git remote/ShowConnection,"Bí danh kho lưu trữ từ xa được kết nối và URL:
+{RemoteRepoURL}"
+Git Commands/git remote/NotConnection,Dự án hiện tại không được kết nối với bất kỳ kho lưu trữ từ xa nào.
+Git Commands/git remote/CommandField3,Cần thêm tham số vào trường lệnh thứ 3 để xem thông tin chi tiết
+Git Commands/git remote/NotFoundCommand,Tham số '{command}' không được hỗ trợ hoặc không tìm thấy.
+Git Commands/git push/Exceed,"Các lệnh liên quan đến 'git push':
+tối đa 5 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git push/CommandFieldOnly2,"Vui lòng nhập lệnh đẩy đầy đủ!
+Bạn cần cung cấp:
+1. Bí danh kho lưu trữ từ xa 
+2. Tên nhánh cục bộ"
+Git Commands/git push/CommandFieldOnly3(Delete),"Vui lòng nhập lệnh xóa chi nhánh từ xa đầy đủ!
+Bạn cần cung cấp:
+1. Bí danh kho lưu trữ từ xa 
+2. Tên nhánh cục bộ"
+Git Commands/git push/NotFoundRepo,"Không thể tìm thấy bí danh kho lưu trữ từ xa được chỉ định: 
+'{RepoName}'"
+Git Commands/git push/CommandFieldOnly4(Delete),"Vui lòng nhập lệnh xóa chi nhánh từ xa đầy đủ! 
+Bạn cần cung cấp: 
+1. Tên nhánh cục bộ"
+Git Commands/git push/DeleteMaster,"'master' là một nhánh được bảo vệ. 
+Đừng xóa chi nhánh!"
+Git Commands/git push/NotFound(Remote),Không thể tìm thấy nhánh từ xa '{BranchName}' được chỉ định.
+Git Commands/git push/Success(Delete),"Đã xóa thành công nhánh từ xa trong kho 'origin': 
+'{BranchName}'"
+Git Commands/git push/CommandFieldOnly3(Add),"Hãy nhập đầy đủ lệnh add remote Branch nhé!
+Bạn cần cung cấp: 
+1. Tên nhánh cục bộ"
+Git Commands/git push/UpdateMaster,"'master' là một nhánh được bảo vệ.
+Vui lòng sử dụng Pull Request để cập nhật chi nhánh!"
+Git Commands/git push/NotFound(Local),Không thể tìm thấy nhánh cục bộ được chỉ định '{BranchName}'.
+Git Commands/git push/Success(Add),Đã tải thành công nhánh cục bộ '{BranchName}' lên kho lưu trữ từ xa!
+Git Commands/git pull/Exceed,"Các lệnh liên quan đến 'git pull':
+tối đa 4 trường lệnh trong trò chơi này.
+Vui lòng tham khảo hướng dẫn trò chơi để biết các lệnh có thể sử dụng."
+Git Commands/git pull/CommandFieldOnly2,"Vui lòng nhập lệnh kéo đầy đủ!
+Bạn cần cung cấp: 
+1. Bí danh kho lưu trữ từ xa
+2. Tên chi nhánh mục tiêu"
+Git Commands/git pull/NotFoundRepo,"Không thể tìm thấy bí danh kho lưu trữ từ xa được chỉ định: 
+'{RepoName}'"
+Git Commands/git pull/CommandFieldOnly3,"Vui lòng nhập lệnh đầy đủ để đồng bộ nhánh từ xa! 
+Bạn cần cung cấp: 
+1. Tên chi nhánh mục tiêu"
+Git Commands/git pull/NotFound(Remote),Không thể tìm thấy nhánh từ xa '{BranchName}' được chỉ định.
+Git Commands/git pull/WrongBranches,"việc đồng bộ hóa các nhánh từ xa phải được thực hiện trên nhánh cục bộ tương ứng! 
+Vui lòng chuyển sang nhánh '{BranchName}' để chạy hành động lệnh git chính xác."
+Git Commands/git pull/Success,Đồng bộ thành công lịch sử commit của nhánh '{BranchName}'!

@@ -1,0 +1,40 @@
+﻿StageTitle,Hoạt động nâng cao trong Staging Area Git
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management', 
+giáo viên giới thiệu khái niệm 'staging area'.
+
+Sau giờ học, bạn đã luyện tập nó rất nhiều.
+Bây giờ bạn có thể hiểu cấu trúc của 'staging area' và cách kiểm soát nội dung bên trong nó.
+
+Tuy nhiên, bạn nhận thấy rằng các lệnh cơ bản không thể di chuyển nhiều file cùng một lúc.
+Lần này, vui lòng thử sử dụng các lệnh nâng cao để di chuyển tệp."
+Stage Quest/1,Mở cửa sổ 'File Manager'.
+Stage Quest/2,Mở cửa sổ 'Staging Area'.
+Stage Quest/3,"Di chuyển tất cả các tệp trong 'Folder_B' sang 'staged'.
+Sau đó cập nhật Staging Area."
+Stage Quest/4,"Di chuyển tất cả các tệp trong 'Folder_B' sang 'unstaged'.
+Sau đó cập nhật Staging Area."
+Stage Quest/5,"Di chuyển tất cả các tệp trong dự án sang 'staged'.
+Sau đó cập nhật Staging Area."
+Stage Quest/6,"Di chuyển tất cả các tệp trong dự án sang 'unstaged'.
+Sau đó cập nhật Staging Area."
+DefaultData/File data/ListContent/2,File Content A\nFile Content B\nFile Content C
+DefaultData/File data/ListContent/3,File Content A\nFile Content B\nFile Content C
+DefaultData/File data/ListContent/4,File Content A\nFile Content B\nFile Content C
+DefaultData/File data/ListContent/5,File Content A\nFile Content B\nFile Content C
+DefaultData/File data/ListFileName/0,Folder_A
+DefaultData/File data/ListFileName/1,Folder_B
+DefaultData/File data/ListFileName/2,File_B1.txt
+DefaultData/File data/ListFileName/3,File_B2.txt
+DefaultData/File data/ListFileName/4,File_B3.txt
+DefaultData/File data/ListFileName/5,File_C.txt
+DefaultData/File data/ListLocation/0,Folder_A
+DefaultData/File data/ListLocation/1,Folder_B
+DefaultData/File data/ListLocation/2,Folder_B\File_B1.txt
+DefaultData/File data/ListLocation/3,Folder_B\File_B2.txt
+DefaultData/File data/ListLocation/4,Folder_B\File_B3.txt
+DefaultData/File data/ListLocation/5,File_C.txt
+Quest Tracker/StagingStatusData/ListLocation/0,Folder_B\File_B1.txt
+Quest Tracker/StagingStatusData/ListLocation/1,Folder_B\File_B2.txt
+Quest Tracker/StagingStatusData/ListLocation/2,Folder_B\File_B3.txt
+Quest Tracker/StagingStatusData/ListLocation/3,File_C.txt

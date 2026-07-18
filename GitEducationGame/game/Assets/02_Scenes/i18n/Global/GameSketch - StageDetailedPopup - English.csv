@@ -1,0 +1,136 @@
+﻿Common/None,Không có
+SelfLeaderboard/TitleText,Kỷ lục cá nhân tốt nhất
+SelfLeaderboard/ClearTimesText,- Số lần hoàn thành:
+StageIntroductionPanel/Title,Giới thiệu màn chơi
+StageIntroductionPanel/TitleText,Màn chơi:
+StageIntroductionPanel/StageOverviewTitle,Tổng quan về màn chơi
+StageIntroductionPanel/StageObjectivesTitle,Mục tiêu màn chơi
+ModeSelectionPanel/Title,Lựa chọn chế độ
+ModeSelectionPanel/TutorialModeButton,Chế độ hướng dẫn
+ModeSelectionPanel/PracticeModeButton,Chế độ luyện tập
+ModeSelectionPanel/BackToStageSelectionButton,Quay lại lựa chọn màn chơi
+ModeSelectionPanel/PlayThisStage,Chơi màn này
+TooltipMessage/TutorialModeDescription,"Trong Chế độ hướng dẫn,
+văn bản hướng dẫn sẽ hướng dẫn bạn
+để hoàn thành các mục tiêu chính trong các kịch bản mô phỏng."
+TooltipMessage/PracticeModeDescription,"Trong Chế độ luyện tập,
+bạn được yêu cầu phải đạt được các mục tiêu chính trong các tình huống mô phỏng một cách độc lập.
+(Lưu ý: Trước tiên bạn phải xóa Chế độ hướng dẫn.)"
+StageIntroductionPanel/StageOverview/Game Introduction,"Màn chơi 'Giới thiệu trò chơi' là điểm khởi đầu của bạn trong trò chơi hướng dẫn Git này.
+Ở màn chơi này, bạn sẽ được làm quen với cách chơi và luật chơi cơ bản của trò chơi. 
+Bạn sẽ làm quen với các thao tác và giao diện cơ bản của trò chơi bằng cách sử dụng phương pháp 'sao lưu tập tin'."
+StageIntroductionPanel/StageObjective/Game Introduction,"1. Hiểu giao diện và thao tác trò chơi bằng cách chơi trò chơi thực tế.
+2. Làm quen với môi trường trò chơi và cách chơi bằng phương pháp 'sao lưu tập tin'."
+StageIntroductionPanel/StageOverview/Version Control and Git,"Trong màn chơi này, bạn sẽ tìm hiểu những kiến ​​thức cơ bản về kiểm soát phiên bản và Git. 
+Màn chơi này sẽ tập trung vào:
+Kiểm soát phiên bản và Git là gì? Và lợi ích của việc sử dụng chúng.
+Màn chơi này không bao gồm các hoạt động thực tế, 
+nhưng cuối bài có bài kiểm tra để ôn lại nội dung học."
+StageIntroductionPanel/StageObjective/Version Control and Git,"1. Xem lại màn chơi trước và chỉ ra các vấn đề do 'sao lưu tập tin' gây ra.
+2. Hiểu khái niệm cơ bản về kiểm soát phiên bản và những ưu điểm của nó.
+3. Tìm hiểu Git là gì và lợi ích của việc sử dụng nó.
+4. Nâng cao hiểu biết của bạn về kiểm soát phiên bản và Git bằng cách làm bài kiểm tra."
+StageIntroductionPanel/StageOverview/Create Local Repository,"Trong màn chơi này, bạn sẽ tìm hiểu cách sử dụng giao diện dòng lệnh để tạo kho lưu trữ cục bộ Git đầu tiên của mình.
+Thực hiện theo các văn bản hướng dẫn và hành động thực tế, 
+tìm hiểu cách điều khiển giao diện dòng lệnh, thực thi các lệnh Git và hiểu các thành phần của Git cũng như quy trình làm việc của nó."
+StageIntroductionPanel/StageObjective/Create Local Repository,"1. Học cách mở và sử dụng giao diện dòng lệnh.
+2. Hiểu và thực thi lệnh 'git --version' để kiểm tra cài đặt và phiên bản Git.
+3. Thực thi lệnh 'git init' để tạo kho lưu trữ Git mới trong một thư mục được chỉ định.
+4. Hiểu vai trò và thành phần của thư mục “.git”."
+StageIntroductionPanel/StageOverview/Basic Staging Area,"Trong màn chơi này, bạn sẽ tìm hiểu các hoạt động cơ bản của Staging Area Git. 
+Màn chơi này sẽ tìm hiểu thêm về cấu trúc của Staging Area. 
+Và sử dụng các lệnh Git để xem nội dung của Staging Area và kiểm soát trạng thái tổ chức của các tệp."
+StageIntroductionPanel/StageObjective/Basic Staging Area,"1. Hiểu vai trò và tầm quan trọng của Staging Area trong quy trình làm việc Git.
+2. Tìm hiểu cách sử dụng lệnh 'git status' để xem trạng thái của Staging Area.
+3. Làm quen với việc sử dụng lệnh 'git add' để thêm tệp vào Staging Area.
+4. Hiểu cách sử dụng lệnh 'git reset' để xóa tệp khỏi Staging Area."
+StageIntroductionPanel/StageOverview/Advanced Staging Area,"Trong màn chơi này, bạn sẽ tìm hiểu các hoạt động nâng cao của Staging Area Git. 
+Màn chơi này sẽ hướng dẫn bạn cách thêm tham số trước các lệnh để quản lý trạng thái phân tầng tệp hiệu quả hơn.
+Bạn sẽ học cách di chuyển các tệp của một thư mục cùng một lúc và di chuyển tất cả các tệp trong đường dẫn dòng lệnh."
+StageIntroductionPanel/StageObjective/Advanced Staging Area,"1. Tìm hiểu cách thêm tham số vào lệnh 'git add' và 'git reset' để Staging Area hoạt động hiệu quả hơn.
+2. Hiểu được tính linh hoạt cao của các lệnh Git trong quy trình."
+StageIntroductionPanel/StageOverview/Creating First Version,"Trong màn chơi này, bạn sẽ tìm hiểu quy trình tạo các commit Git.
+Ở các màn chơi trước, bạn đã học cách thêm tệp vào Staging Area. 
+Lần này, bạn sẽ đẩy những nội dung này vào lịch sử commit và hiểu nội dung của nó."
+StageIntroductionPanel/StageObjective/Creating First Version,"1. Sử dụng lệnh 'git add' và 'git reset' để thêm hoặc xóa tệp khỏi Staging Area.
+2. Học cách sử dụng lệnh 'git commit' để thực hiện các thay đổi.
+3. Hiểu tầm quan trọng của thông điệp commit và học cách viết những thông điệp có ý nghĩa.
+4. Sử dụng 'git status' và 'git log' để xem trạng thái của Staging Area và lịch sử commit."
+StageIntroductionPanel/StageOverview/Switching Project Versions,"Trong màn chơi này, bạn sẽ học cách sử dụng lệnh 'gitcheck' để chuyển đổi các phiên bản commit khác nhau.
+Và tìm hiểu cách kiểm tra lịch sử commit và di chuyển HEAD sang các commit khác. 
+Trong quá trình này, bạn sẽ gặp phải tình huống khi chuyển đổi phiên bản."
+StageIntroductionPanel/StageObjective/Switching Project Versions,"1. Làm quen với cấu trúc của lịch sử commit.
+2. Tìm hiểu cách sử dụng 'gitcheck commit_ID' để chuyển sang các lần xác nhận khác nhau.
+3. Hiểu khái niệm và tác dụng của “Tách rời đầu”.
+4. Tìm hiểu cách sử dụng 'git checkout branch_name' để chuyển HEAD trở lại nhánh được chỉ định."
+StageIntroductionPanel/StageOverview/Git Branching Basics,"Trong màn chơi này, bạn sẽ học các kỹ năng quản lý và vận hành cơ bản của các nhánh Git. 
+Màn chơi này sẽ giới thiệu những lợi ích của việc sử dụng hệ thống chi nhánh 
+và tìm hiểu các lệnh liên quan đến nhánh thông qua các tình huống. 
+Kịch bản sẽ bao gồm các hành động như:
+tạo, xem, chuyển đổi và xóa các nhánh."
+StageIntroductionPanel/StageObjective/Git Branching Basics,"1. Giới thiệu tầm quan trọng và lợi ích của việc quản lý chi nhánh trong các dự án.
+2. Tìm hiểu cách sử dụng lệnh 'git branch' để quản lý nhánh và dùng các tùy chọn nâng cao.
+3. Thực hành sử dụng 'gitcheck' để chuyển nhánh.
+4. Kiểm chứng tầm quan trọng của công tác quản lý chi nhánh trong việc phát triển dự án thông qua hoạt động thực tế."
+StageIntroductionPanel/StageOverview/Fast-Forward Merging,"Trong màn chơi này, bạn sẽ học cách sử dụng lệnh 'git merge' để hợp nhất các nhánh. 
+Bạn sẽ thực hành cách hợp nhất nhánh phát triển trở lại nhánh chính, 
+và hiểu loại chế độ hợp nhất mà Git sẽ chọn trong khi hợp nhất.
+Màn chơi này sẽ tập trung vào việc giới thiệu 'Hợp nhất chuyển tiếp nhanh'."
+StageIntroductionPanel/StageObjective/Fast-Forward Merging,"1. Thực hành sử dụng lệnh “git merge” để gộp các nhánh.
+2. Hiểu chế độ Hợp nhất Chuyển tiếp Nhanh là gì và tại sao Git chọn nó.
+3. Sau khi hoàn tất việc hợp nhất nhánh, hãy tìm hiểu cách xóa các nhánh không còn cần thiết."
+StageIntroductionPanel/StageOverview/Auto Merging,"Trong màn chơi này, bạn sẽ học cách sử dụng lệnh 'git merge' để hợp nhất các nhánh. 
+Màn chơi này sẽ tập trung vào việc giới thiệu 'Tự động hợp nhất'. 
+Hiểu cách Git sử dụng tính năng tự động hợp nhất khi lịch sử commit của hai nhánh không nằm trên cùng một dòng."
+StageIntroductionPanel/StageObjective/Auto Merging,"1. Hiểu tác động của 'Hợp nhất chuyển tiếp nhanh' và 'Hợp nhất tự động' thông qua việc hợp nhất hai nhánh.
+2. Trong quá trình tự động hợp nhất, hãy hiểu cách Git phát hiện xung đột hợp nhất.
+3. Tự mình hợp nhất các nhánh và quan sát những thay đổi trong lịch sử commit."
+StageIntroductionPanel/StageOverview/Merge Conflicts,"Ở màn chơi này, bạn sẽ học cách giải quyết xung đột trong quá trình hợp nhất Git. 
+Hiểu cách Git đưa ra quyết định trong quá trình hợp nhất tự động,
+và thực hành xác định và giải quyết xung đột file xảy ra khi sáp nhập các nhánh khác nhau."
+StageIntroductionPanel/StageObjective/Merge Conflicts,"1. Tìm hiểu lý do tại sao xung đột hợp nhất sẽ xảy ra.
+2. Thực hành giải quyết xung đột file theo cách thủ công.
+3. Thực hành quy trình giải quyết xung đột hợp nhất."
+StageIntroductionPanel/StageOverview/Create Remote Repository,"Ở màn chơi này, bạn sẽ hiểu những lợi ích của việc sử dụng kho lưu trữ từ xa. 
+Tìm hiểu cách tạo kho lưu trữ từ xa trên các nền tảng như GitHub 
+và sao chép chúng vào máy tính cục bộ của bạn."
+StageIntroductionPanel/StageObjective/Create Remote Repository,"1. Hiểu vai trò của kho lưu trữ từ xa trong quản lý dự án và cộng tác nhóm.
+2. Tạo kho lưu trữ từ xa mới trên nền tảng dịch vụ Git.
+3. Sử dụng lệnh 'git clone' để sao chép kho lưu trữ từ xa vào máy tính cục bộ của bạn.
+4. Xác minh kết nối của kho lưu trữ từ xa với dự án cục bộ bằng lệnh 'git remote -v'."
+StageIntroductionPanel/StageOverview/Push to Remote Branches,"Trong màn chơi này, bạn sẽ học cách tải các nhánh cục bộ lên kho lưu trữ từ xa. 
+Bạn sẽ trải nghiệm như:
+1. Tạo các nhánh mới trong kho lưu trữ cục bộ, 
+2. Cập nhật các nhánh cục bộ này. 
+3. Sử dụng 'git push' để đẩy các thay đổi tới kho lưu trữ từ xa. 
+Quá trình này bao gồm việc học cách tạo và xóa các nhánh từ xa."
+StageIntroductionPanel/StageObjective/Push to Remote Branches,"1. Sử dụng lệnh 'git push' để tải các nhánh cục bộ lên kho lưu trữ từ xa.
+2. Tìm hiểu cách sử dụng lệnh 'git push -d' để xóa các nhánh từ xa."
+StageIntroductionPanel/StageOverview/Keep Branches in Sync,"Trong màn chơi này, bạn sẽ học cách sử dụng 'git pull' để đồng bộ hóa nội dung từ kho lưu trữ từ xa đến nhánh cục bộ. 
+Bạn sẽ gặp phải hai tình huống phổ biến, yêu cầu bạn tìm nạp các nhánh từ kho lưu trữ từ xa về máy tính cục bộ của mình."
+StageIntroductionPanel/StageObjective/Keep Branches in Sync,"1. Hiểu lý do tại sao 'git clone' không thể giải quyết các vấn đề gặp phải trong các tình huống này.
+2. Sử dụng lệnh 'git pull' để cập nhật các nhánh cục bộ lên phiên bản mới nhất của các nhánh từ xa.
+3. Tìm hiểu cách xem tất cả các nhánh từ xa của kho lưu trữ.
+4. Sử dụng các tùy chọn nâng cao của 'git branch' để lấy nhánh từ xa được chỉ định."
+StageIntroductionPanel/StageOverview/Preparation for Merging,"Trong màn chơi này, bạn sẽ tìm hiểu các bước kiểm tra và chuẩn bị cần thiết 
+trước khi sáp nhập vào nhánh chính của kho lưu trữ từ xa. 
+Kịch bản sẽ tuân theo một quy trình để xác định và giải quyết mọi xung đột tiềm ẩn, 
+giúp quá trình tạo Pull Request diễn ra suôn sẻ hơn."
+StageIntroductionPanel/StageObjective/Preparation for Merging,"1. Đảm bảo rằng hồ sơ của chi nhánh phát triển địa phương và chi nhánh chính nhất quán với các chi nhánh ở xa.
+2. Hợp nhất nhánh chính vào nhánh phát triển cục bộ và xử lý các xung đột tiềm ẩn.
+3. Kiểm tra xem dự án đã hợp nhất có chạy chính xác mà không gặp bất kỳ sự cố nào không.
+4. Đẩy thành công nhánh phát triển đã hợp nhất vào kho lưu trữ từ xa."
+StageIntroductionPanel/StageOverview/Creating a Pull Request,"Trong màn chơi này, bạn sẽ tìm hiểu cách tạo Pull Request trên nền tảng dịch vụ Git. 
+Bạn sẽ đóng vai người tạo Pull Request trong màn chơi này. 
+Và rút kinh nghiệm, giải quyết các vấn đề gặp phải trong quá trình thực hiện."
+StageIntroductionPanel/StageObjective/Creating a Pull Request,"1. Hiểu Pull Request là gì và vai trò của chúng trong việc phát triển nhóm.
+2. Thực hành điền và tạo Pull Request trên nền tảng dịch vụ Git.
+3. Hiểu cấu trúc của trang chi tiết Pull Request.
+4. Cập nhật Pull Request dựa trên đề xuất sửa đổi từ các thành viên trong nhóm."
+StageIntroductionPanel/StageOverview/Review and Merge Pull Requests,"Ở màn chơi này, bạn sẽ đóng vai trò là người đánh giá. 
+Bạn sẽ học cách xem xét và hợp nhất các Pull Request. 
+Bạn sẽ kiểm tra các yêu cầu hợp nhất từ ​​các thành viên trong nhóm, đưa ra đề xuất sửa đổi và phê duyệt việc hợp nhất sau khi xác nhận mọi thứ đều chính xác."
+StageIntroductionPanel/StageObjective/Review and Merge Pull Requests,"1. Tìm hiểu cách xem lại các thay đổi của tệp trong Pull Request.
+2. Thực hành đưa ra các đề xuất sửa đổi hiệu quả và giao tiếp với các nhà phát triển.
+3. Phê duyệt Pull Request sau khi đảm bảo tất cả các sửa đổi đã được sửa.
+4. Hợp nhất Pull Request khi tất cả các điều kiện của Pull Request đã được hoàn thành."

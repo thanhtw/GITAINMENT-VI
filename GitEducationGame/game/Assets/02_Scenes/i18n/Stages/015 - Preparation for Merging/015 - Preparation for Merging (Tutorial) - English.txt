@@ -1,0 +1,65 @@
+﻿StageTitle,Chuẩn bị sáp nhập
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management',
+giáo viên yêu cầu học sinh hợp tác và cùng nhau phát triển một trang web.
+
+Bạn và các thành viên trong nhóm của bạn đang quản lý dự án với Git.
+Mỗi thành viên phát triển các tính năng trên nhánh của họ.
+
+Bạn đã tạo chi nhánh 'update-readme' vào thứ Sáu,
+Nhánh là thêm nội dung vào tệp 'README.md'.
+
+Có một bài kiểm tra từ các khóa học khác vào tuần tới, 
+vì vậy bạn quyết định ngừng phát triển tạm thời.
+Sau kỳ thi các bạn tiếp tục làm việc trên nhánh 'update-readme'.
+
+Tuy nhiên, bạn nhận thấy rằng các thành viên trong nhóm đã hợp nhất 
+nội dung phát triển của họ vào nhánh chính từ xa.
+
+Trong trường hợp này, nhánh của bạn là phiên bản cũ hơn.
+Nó không thể được sáp nhập vào nhánh chính.
+
+Hãy tìm cách đảm bảo chi nhánh của bạn được 
+sẵn sàng để sáp nhập vào nhánh chính từ xa."
+Stage Quest/1,Mở cửa sổ 'Commit History'.
+Stage Quest/2,"Đồng bộ hóa nội dung từ nhánh 'master' từ xa.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/3,"Đồng bộ hóa nội dung từ nhánh 'update-readme' từ xa.
+cập nhật cửa sổ 'Commit History'."
+Stage Quest/4,Hợp nhất nhánh 'master' vào nhánh 'update-readme'.
+Stage Quest/5,Giải quyết xung đột trong tệp 'README.md'.
+Stage Quest/6,"Tạo một commit giải quyết xung đột hợp nhất.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/7,Đảm bảo rằng dự án chạy chính xác sau hành động hợp nhất.
+Stage Quest/8,"Đẩy nhánh 'update-readme' vào kho lưu trữ từ xa.
+Sau đó cập nhật cửa sổ 'Commit History'."
+DefaultData/Commit data/commitMessageList/0,Resolved merge conflicts between 'update-readme' and 'master' branches.
+DefaultData/Commit data/commitMessageList/1,Resolved merge conflicts.
+DefaultData/Commit data/commitMessageList/2,Modified README file content.
+DefaultData/Commit data/commitMessageReasonList/0,"Commit message analysis:
+This commit message clearly shows the resolution of merge conflicts between two branches.
+Let other team members understand the meaning of the commit."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit message analysis:
+This commit message mentions merge conflict resolution but it is not clear. 
+This is not the most appropriate commit message."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit message analysis:
+This commit message changed the 'README.md' file content while resolving merge conflicts.
+But it does not mention the detailed of the file conflicts.
+This will lead other developers think this commit does not have merge conflict."
+CommitHistoryData/File data/ListContent/1/v1,# Shopping Website Project
+CommitHistoryData/File data/ListContent/1/v2,# Shopping Website Project\nReason for creating the website
+CommitHistoryData/File data/ListContent/1/v3,# Shopping Website Project\nReason for creating the website\nWebsite operation instructions
+CommitHistoryData/File data/ListLocation/0,shopping-website
+CommitHistoryData/File data/ListLocation/1,shopping-website\README.md
+CommitHistoryData/File data/ListLocation/2,shopping-website\.git
+CommitHistoryData/File data/ListFileName/0,shopping-website
+CommitHistoryData/File data/ListFileName/1,README.md
+AutoMergeData/Quest 4/ListContent/1,# Shopping Website Project\n<<<<<<< HEAD\nReason for creating the website\nWebsite operation instructions\n=======\nWeb system architecture\nWebsite screenshots\n>>>>>>> master
+NPCCommitData/NPC1,Team Member A
+NPCCommitData/CommitMessage/NPC1,Added README content: Web system architecture and screenshots.
+NPCCommitData/NPC1/ListContent/1,# Shopping Website Project\nWeb system architecture\nWebsite screenshots
+CommitHistoryData/CommitMessage/1,Added README file.
+CommitHistoryData/CommitMessage/2,Added README content: Reason for creating the website.
+CommitHistoryData/CommitMessage/3,Added README content: Operation instructions.
+Quest Filter/Valider/Target File Name/0,README.md
+Quest Filter/Valider/Target File Name/1,shopping-website\README.md

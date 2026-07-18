@@ -1,0 +1,29 @@
+﻿StageTitle,Tạo kho lưu trữ cục bộ đầu tiên của bạn
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management',
+giáo viên yêu cầu học sinh tạo dự án và quản lý dự án bằng 'version control.'
+
+Gần đây bạn đã hoàn thành nguyên mẫu trang web cơ bản nhưng bạn không sử dụng Git để quản lý nó.
+Trước đó, bạn đã sử dụng phương pháp 'backup files' để quản lý dự án nhưng nó gây ra một số vấn đề.
+Lần này, hãy thử tạo kho lưu trữ cục bộ Git đầu tiên của bạn cho dự án."
+Stage Quest/1,Mở cửa sổ 'Command Line'.
+Stage Quest/2,Kiểm tra xem Git đã được cài đặt trên máy tính này chưa.
+Stage Quest/3,Di chuyển đến đường dẫn mà bạn muốn quản lý dự án của mình.
+Stage Quest/4,Khởi tạo kho lưu trữ cục bộ Git mới.
+DefaultData/File data/ListFileName/1,Ongoing Project
+DefaultData/File data/ListLocation/1,Ongoing Project
+DefaultData/File data/ListContent/2,Webpage Title\nWebpage Content\nWebpage Footer
+DefaultData/File data/ListFileName/2,My_Homepage.html
+DefaultData/File data/ListLocation/2,Ongoing Project\My_Homepage.html
+DefaultData/File data/ListContent/3,Webpage Background Styles\nText Styles
+DefaultData/File data/ListFileName/3,My_Stylesheet.css
+DefaultData/File data/ListLocation/3,Ongoing Project\My_Stylesheet.css
+DefaultData/File data/ListContent/4,Feature: Update UI\nFeature: Upload File\nFeature: Load File
+DefaultData/File data/ListFileName/4,MainScript.js
+DefaultData/File data/ListLocation/4,Ongoing Project\MainScript.js
+DefaultData/File data/ListFileName/5,Course Folder
+DefaultData/File data/ListLocation/5,Course Folder
+DefaultData/File data/ListContent/6,Backup files may cause many issues.\nVersion control can increase project management efficiency.
+DefaultData/File data/ListFileName/6,Notes.txt
+DefaultData/File data/ListLocation/6,Course Folder\Notes.txt
+Quest Filter/Valider/Git Create Location,Ongoing Project

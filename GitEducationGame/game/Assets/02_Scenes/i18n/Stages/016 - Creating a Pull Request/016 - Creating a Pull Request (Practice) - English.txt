@@ -1,0 +1,88 @@
+﻿StageTitle,Tạo Pull Request
+Story Background/Content/Story,"Bạn là sinh viên đang học nửa sau của khóa học 'Project Management'. 
+Giáo viên đã yêu cầu học sinh thành lập nhóm và phát triển ứng dụng trên nền tảng dịch vụ Git.
+
+Bạn và các thành viên trong nhóm của bạn đã quyết định phát triển dự án 'Snake Game'.
+Nhóm sẽ áp dụng các phương pháp kiểm soát phiên bản để nâng cao hiệu quả phát triển.
+
+Nhiệm vụ chịu trách nhiệm của bạn là ghi tệp 'README'.
+Bạn đã hoàn thành việc ghi tệp 'README' trên nhánh 'update-readme'.
+
+Để đảm bảo rằng không có xung đột hợp nhất nào xảy ra trong quá trình Pull Request sau này,
+bạn đã hoàn thành quy trình làm việc 'Preparation for Merging' trên máy tính cục bộ của mình.
+
+Bây giờ, nhiệm vụ của bạn là tạo Pull Request cho nhánh phát triển của mình.
+Vui lòng thử hợp nhất nhánh 'update-readme' vào nhánh chính từ xa,
+và thảo luận với các thành viên trong nhóm của bạn để đảm bảo những thay đổi là phù hợp."
+Stage Quest/1,Mở cửa sổ 'Commit History'
+Stage Quest/2,Mở cửa sổ 'Web Browser'
+Stage Quest/3,Tạo một Pull Request mới
+Stage Quest/4,Thêm người đánh giá
+Stage Quest/5,Trả lời tin nhắn của người đánh giá
+Stage Quest/6,Sửa đổi nội dung file dựa trên gợi ý
+Stage Quest/7,"Tạo một commit mới 
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/8,"Đẩy nhánh 'update-readme' vào kho lưu trữ từ xa
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/9,Đánh dấu cuộc trò chuyện Pull Request là đã giải quyết
+Stage Quest/10,"Đồng bộ hóa nội dung của nhánh 'master' từ xa
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/11,"Xóa nhánh 'update-readme' khỏi cả kho lưu trữ cục bộ và từ xa
+và cập nhật cửa sổ 'Commit History'"
+DefaultData/Commit data/commitMessageList/0,Add more detailed descriptions for the 'Multiple object spawning' section
+DefaultData/Commit data/commitMessageList/1,Modify README content
+DefaultData/Commit data/commitMessageList/2,Fix issues occurring in the merge request
+DefaultData/Commit data/commitMessageReasonList/0,"Commit Message Analysis:
+Clearly indicates the specific details of the modified commit."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit Message Analysis:
+Although the README content was indeed modified, it is not specific enough."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit Message Analysis:
+Fails to indicate which modification suggestion this commit fixes.
+Furthermore, it fails to indicate the file details of the modified commit."
+CommitHistoryData/File data/ListContent/1,# snake-game
+CommitHistoryData/File data/ListContent/2v1,Game execution logic\nScore system\nFruit object management
+CommitHistoryData/File data/ListContent/2v2,Game execution logic\nScore system\nFruit object management\nBomb object management
+CommitHistoryData/File data/ListContent/2v3,Game execution logic\nScore system\nFruit object management\nBomb object management\nPlayer sprint system\nEnergy bar system
+CommitHistoryData/File data/ListContent/1v2,"# snake-game\nThis is an improved version of the Snake Game.\nMultiple objects will appear in the game. Eating fruits will grant points, and the game ends if the player is blown up by a bomb."
+CommitHistoryData/File data/ListContent/1v3,"# snake-game\nThis is an improved version of the Snake Game.\nMultiple objects will appear in the game. Eating fruits will grant points, and the game ends if the player is blown up by a bomb.\nGame Features:\n<b>· </b>Multiple objects appear within a period of time\n<b>· </b>Bombs will explode after a period of time, and the game ends if the player is within the explosion radius\n<b>· </b>The game features an energy bar, allowing players to sprint"
+CommitHistoryData/File data/ListContent/1v4,"# snake-game\nThis is an improved version of the Snake Game.\nMultiple objects will appear in the game. Eating fruits will grant points, and the game ends if the player is blown up by a bomb.\nGame Features:\n<b>· </b>Multiple objects appear within a period of time<color=#FFE6C6>(to be modified)</color>\m<b>· </b>Random amounts of fruits and bombs will spawn every 5 seconds, and their spawn locations are also random. (modified)\n<b>· </b>Bombs will explode after a period of time, and the game ends if the player is within the explosion radius\n<b>· </b>The game features an energy bar, allowing players to sprint"
+CommitHistoryData/File data/ListLocation/0,snake-game
+CommitHistoryData/File data/ListLocation/1,snake-game\README.md
+CommitHistoryData/File data/ListLocation/2,snake-game\Main_Script.cpp
+CommitHistoryData/File data/ListLocation/3,snake-game\.git
+CommitHistoryData/File data/ListFileName/0,snake-game
+CommitHistoryData/File data/ListFileName/1,README.md
+CommitHistoryData/File data/ListFileName/2,Main_Script.cpp
+NPCCommitData/NPC1,Classmate A
+CommitHistoryData/CommitMessage/1,Add README file
+CommitHistoryData/CommitMessage/2,Basic Snake Game completed
+CommitHistoryData/CommitMessage/5,Snake Game introduction
+CommitHistoryData/CommitMessage/6,Snake Game features introduction
+CommitHistoryData/CommitMessage/3,Bomb feature design completed
+CommitHistoryData/CommitMessage/4,Player sprint allowed and energy bar system added
+CommitHistoryData/CommitMessage/7,Branch 'master' has been merged into branch 'update-readme'
+RepoQuestData/Repo Quest/PRTitle,Add README content: Snake Game introduction and features
+RepoQuestData/Repo Quest/PRDes,"This Pull Request contains the changes I made on the 'update-readme' branch.
+It is mainly used to update the README file, 
+where I have added the basic introduction and game features of the Snake Game."
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/MainContent,"Xin chào, tôi nhận thấy rằng có thể thực hiện một số cải tiến đối với tính năng trò chơi 'Multiple object spawning' trong tệp 'README.md'.
+Để giúp người đọc hiểu rõ hơn về lối chơi và thử thách, 
+Tôi khuyên bạn nên thêm nhiều chi tiết hơn về việc sinh sản đối tượng, chẳng hạn như thời gian sinh sản và các tính năng ngẫu nhiên.
+Cảm ơn."
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/FileName,README.md
+BrowserWindow/PRDetailed/FileContent1,# snake-game
+BrowserWindow/PRDetailed/FileContent2,This is an improved version of the Snake Game.
+BrowserWindow/PRDetailed/FileContent3,"Multiple objects will appear in the game. Eating fruits will grant points, and the game ends if the player is blown up by a bomb."
+BrowserWindow/PRDetailed/FileContent4,Game Features:
+BrowserWindow/PRDetailed/FileContent5,<b>· </b>Multiple objects appear within a period of time
+BrowserWindow/PRDetailed/FileContent5(fixed),"<b>· </b>Random amounts of fruits and bombs will spawn every 5 seconds, and their spawn locations are also random."
+BrowserWindow/PRDetailed/FileContent6,"<b>· </b>Bombs will explode after a period of time, and the game ends if the player is within the explosion radius"
+BrowserWindow/PRDetailed/FileContent7,"<b>· </b>The game features an energy bar, allowing players to sprint"
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/ReplyMessage1,Vui lòng thêm chi tiết sinh sản vào dòng liên quan đến 'Multiple object spawning'.
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/ReplyMessage2,"Cảm ơn bạn đã gợi ý.
+Tôi sẽ xem xét nó và thực hiện các sửa đổi tương ứng."
+BrowserWindow/PRDetailed/Msg_5_Refresh_FileChanged/ReplyMessage3,"Tôi đã cung cấp mô tả chi tiết hơn cho phần 'Multiple object spawning'.
+Vui lòng cho tôi biết nếu có bất kỳ lĩnh vực nào khác cần cải thiện.
+Cảm ơn."
+BrowserWindow/PRDetailed/Msg_10_Refresh_Approve,"Đã xem xét và xác nhận rằng nội dung 'README.md' không có vấn đề gì.
+Đang phê duyệt yêu cầu hợp nhất này."

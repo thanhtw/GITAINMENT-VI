@@ -1,0 +1,45 @@
+﻿StageTitle,Tạo phiên bản dự án Git đầu tiên của bạn
+Story Background/Content/Story,"Bạn là sinh viên đang học Git và đang ghi lại quá trình học tập của mình.
+
+Gần đây, bạn đã học cách sử dụng lệnh Git mới 
+để đẩy nội dung của 'Staging Area' vào kho lưu trữ 
+để tạo một bản ghi phiên bản.
+
+Bạn đã quyết định đưa nhật ký học tập này vào kho lưu trữ 
+để chứng minh rằng bạn đã học cách sử dụng Git để quản lý dự án."
+Stage Quest/1,Mở cửa sổ 'File Manager'
+Stage Quest/2,"Thêm 'Git_Learning_Diary.txt' vào trạng thái 'Staged'
+và kiểm tra Staging Area"
+Stage Quest/3,Commit phiên bản đầu tiên của nhật ký
+Stage Quest/4,Mở cửa sổ 'Commit History'
+Stage Quest/5,Thêm nhiều nội dung hơn vào nhật ký
+Stage Quest/6,"Thêm 'Git_Learning_Diary.txt' vào trạng thái 'Staged'
+và kiểm tra Staging Area"
+Stage Quest/7,Commit phiên bản thứ hai của nhật ký
+Stage Quest/8,Xác minh nội dung của cửa sổ 'Commit History'
+DefaultData/File data/ListFileName/0,Course_Folder
+DefaultData/File data/ListLocation/0,Course_Folder
+DefaultData/File data/ListContent/1,"Git Learning Diary:\nDay 1: At first, I could only manage projects by manually backing up files.\nDay 2: Understood what version control and Git are, and their characteristics.\nDay 3: Created a local repository using Git commands for the first time.\nDay 5: Understood what the 'Staging Area' is and operated it using Git commands.\aDay 7: Successfully committed the contents of the 'Staging Area' to the repository using Git commands!"
+DefaultData/File data/ListFileName/1,Git_Learning_Diary.txt
+DefaultData/File data/ListLocation/1,Course_Folder\Git_Learning_Diary.txt
+DefaultData/File data/ListLocation/2,Course_Folder\.git
+Quest Tracker/StagingStatusData/ListLocation/0,Course_Folder\Git_Learning_Diary.txt
+Quest Filter/Valider/Target File Name/0,Git_Learning_Diary.txt
+DefaultData/Commit data/commitMessageList/0,create new commit
+DefaultData/Commit data/commitMessageList/1,Initialize 'Course_Folder' project
+DefaultData/Commit data/commitMessageList/2,add a file
+DefaultData/Commit data/commitMessageList/4,Add diary content: push to repository
+DefaultData/Commit data/commitMessageList/5,Update contents in project
+DefaultData/Commit data/commitMessageList/6,create second commit
+DefaultData/Commit data/commitMessageReasonList/0,"Commit Message Analysis:
+The commit message is too simple."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit Message Analysis:
+Clearly states that this commit is used to initialize the project."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit Message Analysis:
+The commit message is too simple and fails to provide clear file information."
+DefaultData/Commit data/commitMessageReasonList/4,"Commit Message Analysis:
+Clearly specifies the modified content and provides file-related information."
+DefaultData/Commit data/commitMessageReasonList/5,"Commit Message Analysis:
+The commit message is too simple and fails to provide clear file information."
+DefaultData/Commit data/commitMessageReasonList/6,"Commit Message Analysis:
+The commit message is too simple."

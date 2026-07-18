@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level
+  - File
+  - FileContentWindow/AddButtonSelection
+  - FileContentWindow/RenameButtonSelection
+  - File/FileFunctionSelection
+  - Toolbar/FileManagerWindowButton
+  - Score
+  - Time
+  - Star
+  - Name
+  - UI/Border
+  - UI/Background
+  - Text
+  - .git
+  - FileManagerWindow/Current Folder Panel
+  - Toolbar/CommandLineWindowButton
+  - Layer/HideWindow
+  - Window/FileManagerWindow
+  - Layer/Layer 2 MovableField
+  - Window/CommandLineWindow
+  - Window/CommandLineWindow/InputField
+  - Image
+  - Commit
+  - GameStage/StageManager
+  - GameStage/RandomData
+  - GameStage/QuestTracker
+  - GameManager
+  - SaveManager
+  - Window/ResultWindow
+  - GameManualType/Command
+  - GameManualType/RuleAndWindow
+  - GameManualType/VersionControl
+  - Window/GameManualWindow
+  - FileContentWindow/ModifyButtonSelection
+  - FileContentWindow/DeleteButtonSelection
+  - Branch
+  - Line
+  - Flag
+  - Button
+  - Panel
+  - Page
+  - PRDetailedMsg/Approve
+  - PRDetailedMsg/FileChanged
+  - PRDetailedMsg/ShortMsg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - canBeHit
+  - LineRender
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

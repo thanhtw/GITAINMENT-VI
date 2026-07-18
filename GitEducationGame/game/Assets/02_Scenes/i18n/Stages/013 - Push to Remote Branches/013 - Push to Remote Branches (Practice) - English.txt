@@ -1,0 +1,54 @@
+﻿StageTitle,Tạo và đẩy các nhánh từ xa
+Story Background/Content/Story,"Bạn là sinh viên đang học nửa sau của khóa học 'Project Management'. 
+Giáo viên đã yêu cầu học sinh thành lập nhóm và phát triển ứng dụng trên nền tảng dịch vụ Git.
+
+Bạn và các thành viên trong nhóm của bạn đã quyết định phát triển dự án 'Snake Game'. 
+Nhóm sẽ áp dụng các phương pháp kiểm soát phiên bản để nâng cao hiệu quả phát triển.
+
+Nhiệm vụ chịu trách nhiệm của bạn là ghi tệp 'README'. 
+Cách đây không lâu, bạn đã thử viết một số văn bản thử nghiệm trên nhánh từ xa đã tạo.
+
+Bây giờ các bạn hãy thử tạo một nhánh mới để hoàn thành phần giới thiệu Trò Chơi Rắn Săn Mồi nhé, 
+và đẩy nó vào kho lưu trữ từ xa. 
+Ngoài ra, vui lòng xóa nhánh từ xa được sử dụng để thử nghiệm để giữ cho kho lưu trữ từ xa luôn sạch sẽ."
+Stage Quest/1,Mở cửa sổ 'Commit History'
+Stage Quest/2,Tạo và chuyển sang một chi nhánh mới tại địa phương
+Stage Quest/3,Thêm phần giới thiệu Game Rắn săn mồi trên nhánh 'update-readme'
+Stage Quest/4,"Tiếp tục hoàn thành phần giới thiệu Game Rắn Săn Mồi
+trên nhánh 'update-readme'"
+Stage Quest/5,"Tạo một commit mới 
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/6,"Đẩy nhánh 'update-readme' vào kho lưu trữ từ xa
+và cập nhật cửa sổ 'Commit History'"
+Stage Quest/7,"Xóa nhánh 'test-readme' khỏi cả kho lưu trữ cục bộ và từ xa
+và cập nhật cửa sổ 'Commit History'"
+CommitHistoryData/File data/ListContent/1,"# snake-game\aThis is an improved version of the Snake Game.\aMultiple objects will appear in the game. Eating fruits will grant points, and the game ends if the player is blown up by a bomb."
+CommitHistoryData/File data/ListContent/1(test-readme),# snake-game\nThis is test text to verify if it can be pushed to the remote repository.
+CommitHistoryData/File data/ListLocation/0,snake-game
+CommitHistoryData/File data/ListLocation/1,snake-game\README.md
+CommitHistoryData/File data/ListLocation/2,snake-game\.git
+CommitHistoryData/File data/ListFileName/0,snake-game
+CommitHistoryData/File data/ListFileName/1,README.md
+CommitHistoryData/CommitMessage/1,Add README file
+CommitHistoryData/CommitMessage/(test-readme),Push test text
+DefaultData/Commit data/commitMessageList/0,Add Snake Game introduction
+DefaultData/Commit data/commitMessageList/1,Add commit
+DefaultData/Commit data/commitMessageList/2,Complete Snake Game
+DefaultData/Commit data/commitMessageReasonList/0,"Commit Message Analysis:
+Clearly indicates that the commit is used to add the game introduction."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit Message Analysis:
+The commit message has no clear meaning."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit Message Analysis:
+Irrelevant to the purpose of the commit."
+DefaultData/BranchName data/branchNameList/0,update-readme
+DefaultData/BranchName data/branchNameList/1,gameUpdate
+DefaultData/BranchName data/branchNameList/2,content-update
+DefaultData/BranchName data/branchNameReasonList/0,"Branch Naming Analysis:
+Appropriate: Uses lowercase letters and differentiates words using the '-' symbol."
+DefaultData/BranchName data/branchNameReasonList/1,"Branch Naming Analysis:
+Appropriate: Partially uses lowercase letters.
+Inappropriate: Partially uses uppercase letters."
+DefaultData/BranchName data/branchNameReasonList/2,"Branch Naming Analysis:
+Appropriate: Uses lowercase letters and differentiates words using the '-' symbol.
+Inappropriate: Fails to indicate the development purpose through the branch name."
+Quest Filter/Valider/Target File Name/0,README.md

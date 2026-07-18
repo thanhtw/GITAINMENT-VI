@@ -1,0 +1,56 @@
+﻿StageTitle,Giải quyết xung đột hợp nhất
+Story Background/Content/Story,"Bạn là sinh viên và bạn đang tham gia khóa học 'Web Programming'.
+Gần đây, bạn đã học cách viết mã để thêm tính tương tác vào các trang web.
+
+Sau khóa học, bạn quyết định tạo một trò chơi web đơn giản để ôn lại nội dung đã học trên lớp.
+Trong trò chơi này, người chơi có thể nhấp vào nút 'add score' để kiếm điểm,
+và nhấp vào nút 'reset score' để đặt điểm về 0.
+
+Để duy trì một môi trường phát triển tốt cho dự án, 
+bạn quyết định quản lý dự án web với Git.
+
+Bạn đã tạo hai nhánh theo chức năng 
+và hoàn thành việc phát triển các tính năng này.
+
+Bây giờ, hãy thử hợp nhất hai nhánh đã phát triển thành nhánh chính."
+Stage Quest/1,Mở cửa sổ 'Commit History'.
+Stage Quest/2,"Hợp nhất nhánh 'add-score-feature'.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/3,"Hợp nhất nhánh 'reset-score-feature'.
+Sau đó cập nhật cửa sổ 'Commit History'."
+Stage Quest/4,Mở tệp 'Game_Program.js'.
+Stage Quest/5,Giải quyết xung đột trong tệp 'Game_Program.js'.
+Stage Quest/6,Giải quyết xung đột trong tệp 'Game_Webpage.html'.
+Stage Quest/7,"Tạo một commit mới.
+Sau đó cập nhật cửa sổ 'Commit History'."
+DefaultData/Commit data/commitMessageList/0,Resolve merge conflict between 'master' and 'reset-score-feature' branches.
+DefaultData/Commit data/commitMessageList/1,Resolve conflicts.
+DefaultData/Commit data/commitMessageList/2,Merge two branches.
+DefaultData/Commit data/commitMessageReasonList/0,"Commit message analysis:
+This commit message is clear and meaningful.
+It shows that the developer resolved the merge conflict between which two branches."
+DefaultData/Commit data/commitMessageReasonList/1,"Commit message analysis:
+Although this commit message mentions resolving conflicts, 
+it does not provide details related to conflict resolution."
+DefaultData/Commit data/commitMessageReasonList/2,"Commit message analysis:
+Although this message mentions merging branches
+it does not provide information about file conflicts."
+AutoMergeData/Quest 3/ListContent/0,Webpage basic framework\n<<<<<<< HEAD\nAdd score button\n=======\nReset score button\n>>>>>>> reset-score-feature
+AutoMergeData/Quest 3/ListContent/1,Set initial score to 0\n<<<<<<< HEAD\nAdd scoring feature\n=======\nReset scoring feature\n>>>>>>> reset-score-feature
+CommitHistoryData/File data/ListFileName/0,Game_Webpage.html
+CommitHistoryData/File data/ListFileName/1,Game_Program.js
+CommitHistoryData/File data/ListLocation/0,Game_Webpage.html
+CommitHistoryData/File data/ListLocation/1,Game_Program.js
+CommitHistoryData/File data/ListContent/0,Webpage basic framework
+CommitHistoryData/File data/ListContent/0/add,Webpage basic framework\nAdd score button
+CommitHistoryData/File data/ListContent/0/reset,Webpage basic framework\nReset score button
+CommitHistoryData/File data/ListContent/1,Set initial score to 0
+CommitHistoryData/File data/ListContent/1/add,Set initial score to 0\nAdd scoring feature
+CommitHistoryData/File data/ListContent/1/reset,Set initial score to 0\nReset scoring feature
+CommitHistoryData/CommitMessage/1,Initialize project - Click Button Game.
+CommitHistoryData/CommitMessage/2,Add 'Add Score' button and feature.
+CommitHistoryData/CommitMessage/3,Add 'reset Score' button and feature.
+Quest Filter/Valider/Target File Name/0,Game_Program.js
+Quest Filter/Valider/Target File Name/1,Game_Webpage.html
+Quest Valider/Valider/0,Game_Program.js
+Quest Valider/Valider/1,Game_Webpage.html

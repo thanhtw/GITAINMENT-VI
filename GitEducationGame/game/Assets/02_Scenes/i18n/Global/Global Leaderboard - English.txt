@@ -1,0 +1,40 @@
+﻿TooltipMessage/GlobalLeaderboardButton,Bảng xếp hạng toàn cầu
+Window/TitleText,Bảng xếp hạng toàn cầu
+Window/LeaderboardCategory/StageBestRecords,Kỷ lục màn chơi xuất sắc nhất
+Window/LeaderboardCategory/TotalGameScores,Tổng điểm trò chơi
+Window/LeaderboardCategory/GameCompletion,Hoàn thành trò chơi
+Content/StageBestRecord/LeaderboardEntry/Rank,Thứ hạng
+Content/StageBestRecord/LeaderboardEntry/UserName,Tên người dùng
+Content/StageBestRecord/LeaderboardEntry/StarsEarned,Số sao kiếm được
+Content/StageBestRecord/LeaderboardEntry/StageScore,Điểm màn chơi
+Content/StageBestRecord/LeaderboardEntry/TotalStageTime,Tổng thời gian màn chơi
+Content/TotalScore/LeaderboardEntry/Rank,Thứ hạng
+Content/TotalScore/LeaderboardEntry/UserName,Tên người dùng
+Content/TotalScore/LeaderboardEntry/TotalGameScore,Tổng điểm trò chơi
+Content/TotalScore/LeaderboardEntry/AchievePlayTime,"Tổng thời gian chơi
+để đạt được số điểm này"
+Content/GameCompletion/LeaderboardEntry/Rank,Thứ hạng
+Content/GameCompletion/LeaderboardEntry/UserName,Tên người dùng
+Content/GameCompletion/LeaderboardEntry/GameCompletion,Hoàn thành trò chơi
+Content/GameCompletion/LeaderboardEntry/AchievePlayTime,"Tổng thời gian chơi
+để đạt được sự hoàn thành này"
+ProcessPopup/OopsPage/Title,Ối! Không tìm thấy trang.
+ProcessPopup/OopsPage/Content,"Kết nối mạng không thành công, vui lòng thử lại."
+ProcessPopup/Loading,Đang tải
+Stage/Game Introduction,Giới thiệu trò chơi
+Stage/Version Control and Git,Giới thiệu về Kiểm soát phiên bản và Git
+Stage/Create Local Repository,Tạo kho lưu trữ cục bộ đầu tiên của bạn
+Stage/Basic Staging Area,Các hoạt động cơ bản trong Staging Area Git
+Stage/Advanced Staging Area,Hoạt động nâng cao trong Staging Area Git
+Stage/Creating First Version,Tạo phiên bản dự án Git đầu tiên của bạn
+Stage/Switching Project Versions,Chuyển đổi phiên bản dự án
+Stage/Git Branching Basics,Hướng dẫn cơ bản về phân nhánh Git
+Stage/Fast-Forward Merging,Hợp nhất chuyển tiếp nhanh
+Stage/Auto Merging,Tự động hợp nhất
+Stage/Merge Conflicts,Giải quyết xung đột hợp nhất
+Stage/Create Remote Repository,Tạo kho lưu trữ từ xa đầu tiên của bạn
+Stage/Push to Remote Branches,Tạo và đẩy các nhánh từ xa
+Stage/Keep Branches in Sync,Giữ các nhánh được đồng bộ hóa
+Stage/Preparation for Merging,Chuẩn bị sáp nhập
+Stage/Creating a Pull Request,Tạo Pull Request
+Stage/Review and Merge Pull Requests,Xem xét và hợp nhất các Pull Request

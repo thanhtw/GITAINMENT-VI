@@ -1,0 +1,27 @@
+﻿StageTitle,Tạo kho lưu trữ từ xa đầu tiên của bạn
+Story Background/Content/Story,"Bạn là sinh viên đang học nửa sau của khóa học 'Project Management'.
+Giáo viên đã yêu cầu học sinh thành lập nhóm và phát triển ứng dụng trên nền tảng dịch vụ Git.
+
+Bạn và các thành viên trong nhóm của bạn đã quyết định phát triển dự án 'Snake Game'.
+Nhóm sẽ áp dụng các phương pháp kiểm soát phiên bản để nâng cao hiệu quả phát triển.
+
+Để tạo điều kiện cho sự hợp tác phát triển của nhóm,
+vui lòng thử tạo kho lưu trữ từ xa mới trên nền tảng dịch vụ Git.
+Sau đó, sao chép nó vào máy cục bộ của bạn để chuẩn bị phát triển."
+Stage Quest/1,Mở cửa sổ 'File Manager'
+Stage Quest/2,Mở cửa sổ 'Web Browser'
+Stage Quest/3,Nhập trang 'Create Repository'
+Stage Quest/4,Tạo một kho lưu trữ từ xa
+Stage Quest/5,Sao chép kho lưu trữ từ xa vào thiết bị cục bộ của bạn
+Stage Quest/6,"Xác minh xem dự án nhân bản
+được kết nối với kho lưu trữ từ xa tương ứng"
+CommitHistoryData/File data/ListFileName/0,Preparation.txt
+CommitHistoryData/File data/ListLocation/0,Preparation.txt
+CommitHistoryData/File data/ListContent/0,"To smoothly develop the 'Snake Game' project, we need to create a remote repository first.\nAfter creation, clone the repository into this path."
+CommitHistoryData/CommitMessage/1,Add README file
+CommitHistoryData/File data/ListContent/2,# snake-game
+CommitHistoryData/File data/ListLocation/1,snake-game
+CommitHistoryData/File data/ListLocation/2,snake-game\README.md
+CommitHistoryData/File data/ListLocation/3,snake-game\.git
+CommitHistoryData/File data/ListFileName/1,snake-game
+CommitHistoryData/File data/ListFileName/2,README.md

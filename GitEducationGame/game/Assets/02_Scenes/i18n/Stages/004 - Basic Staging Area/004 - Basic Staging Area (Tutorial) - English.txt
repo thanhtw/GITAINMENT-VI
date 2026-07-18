@@ -1,0 +1,17 @@
+﻿StageTitle,Các hoạt động cơ bản trong Staging Area Git
+Story Background/Content/Story,"Bạn là một sinh viên.
+Trong khóa học 'Project Management', 
+giáo viên giới thiệu khái niệm 'staging area'.
+Vì 'staging area' không xuất hiện trực tiếp trên máy tính của bạn nên bạn chưa quen với khái niệm này.
+
+Sau giờ học, bạn quyết định thực hiện các lệnh liên quan đến 'staging area' trên máy tính của mình.
+Hãy thử thực hiện các lệnh cơ bản để làm quen với 'staging area'."
+Stage Quest/1,Mở cửa sổ 'Command Line'.
+Stage Quest/2,Xác minh nội dung trong 'Staging Area'.
+Stage Quest/3,Di chuyển 'Class_Notes.txt' vào Staging Area.
+Stage Quest/4,Xác nhận rằng tập tin đã được dàn dựng thành công.
+Stage Quest/5,Hủy phân vùng tệp và xác minh Staging Area.
+DefaultData/File data/ListContent/0,The Staging Area is one of the three main areas in Git.\nIt cannot be directly viewed from the file manager window.\nWe need to use Git commands to inspect it.
+DefaultData/File data/ListFileName/0,Class_Notes.txt
+DefaultData/File data/ListLocation/0,Class_Notes.txt
+Quest Tracker/StagingStatusData/ListLocation/1,Class_Notes.txt

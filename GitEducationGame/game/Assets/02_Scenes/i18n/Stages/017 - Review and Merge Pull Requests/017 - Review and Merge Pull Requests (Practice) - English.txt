@@ -1,0 +1,84 @@
+﻿StageTitle,Xem xét và hợp nhất các Pull Request
+Story Background/Content/Story,"Bạn là sinh viên đang học nửa sau của khóa học 'Project Management'. 
+Giáo viên đã yêu cầu học sinh thành lập nhóm và phát triển ứng dụng trên nền tảng dịch vụ Git.
+
+Bạn và các thành viên trong nhóm của bạn đã quyết định phát triển dự án 'Snake Game'. 
+Nhóm sẽ áp dụng các phương pháp kiểm soát phiên bản để nâng cao hiệu quả phát triển.
+
+Bạn cùng lớp A chịu trách nhiệm phát triển chương trình chính của trò chơi 
+và đang làm việc tại chi nhánh có tên 'main-script'. 
+Bây giờ, các tính năng chính của trò chơi đã được hoàn thành, 
+và Bạn cùng lớp A đã thêm nhiều yếu tố khác nhau vào trò chơi.
+
+Để đảm bảo quá trình tạo Pull Request diễn ra suôn sẻ, 
+Bạn cùng lớp A đã hoàn thành quy trình làm việc 'Preparation for Merging' trên máy tính cục bộ của họ. 
+Sau đó, Bạn cùng lớp A đã tạo Pull Request trên nền tảng dịch vụ Git.
+
+Với tư cách là người đánh giá Pull Request này, 
+nhiệm vụ của bạn là thảo luận vấn đề đó với bạn cùng lớp A để đảm bảo mọi thay đổi đều phù hợp. 
+Sau khi xác minh mọi thứ đều chính xác, 
+bạn sẽ chịu trách nhiệm hợp nhất nhánh 'main-script' vào nhánh chính từ xa."
+Stage Quest/1,Mở cửa sổ 'Web Browser'
+Stage Quest/2,Thêm đề xuất sửa đổi vào Pull Request
+Stage Quest/3,Phê duyệt Pull Request
+Stage Quest/4,Hợp nhất Pull Request
+Stage Quest/5,"Đồng bộ hóa nội dung của nhánh 'master' từ xa
+và cập nhật cửa sổ 'Commit History'"
+NPCCommitData/NPC1,Classmate A
+CommitHistoryData/File data/ListContent/1,# snake-game
+CommitHistoryData/File data/ListContent/2v1,Game execution logic\nScore system\nFruit object management
+CommitHistoryData/File data/ListContent/2v2,Game execution logic\nScore system\nFruit object management\nBomb object management
+CommitHistoryData/File data/ListContent/2v3,Game execution logic\nScore system\nFruit object management\nBomb object management\nPlayer sprint system\nEnergy bar system
+CommitHistoryData/File data/ListContent/2v4(fixed),Game execution logic\nScore system\nFruit object management\nBomb object management (Adjusted bomb explosion radius)\nPlayer sprint system\nEnergy bar system
+CommitHistoryData/File data/ListLocation/0,snake-game
+CommitHistoryData/File data/ListLocation/1,snake-game\README.md
+CommitHistoryData/File data/ListLocation/2,snake-game\Main_Script.cpp
+CommitHistoryData/File data/ListLocation/3,snake-game\.git
+CommitHistoryData/File data/ListFileName/0,snake-game
+CommitHistoryData/File data/ListFileName/1,README.md
+CommitHistoryData/File data/ListFileName/2,Main_Script.cpp
+NPCCommitData/NPC1,Classmate A
+CommitHistoryData/CommitMessage/1,Add README file
+CommitHistoryData/CommitMessage/2,Basic Snake Game completed
+CommitHistoryData/CommitMessage/3,Bomb feature design completed
+CommitHistoryData/CommitMessage/4,Player sprint allowed and energy bar system added
+CommitHistoryData/CommitMessage/5,Adjust bomb explosion radius
+RepoQuestData/Repo Quest/PRTitle,Game Feature Development: Completed the 'Snake' game main program development
+RepoQuestData/Repo Quest/PRDes,"This Pull Request contains the changes I made on the 'main-script' branch. 
+I am responsible for developing the main program of the 'Snake Game'. 
+Now, the main features have been completed, 
+and various elements have been added to the game. 
+
+Main changes: 
+<b>· </b>Game execution logic: Implemented the basic controls and rules of the Snake game.
+<b>· </b>Score system: Added a scoreboard to keep track of the player's score.
+<b>· </b>Fruit object management: Implemented random spawning and despawning of fruits.
+<b>· </b>Bomb object management: Implemented random spawning, explosion effects, and explosion radius for bombs.
+<b>· </b>Player sprint system: Added a sprint function for players, which consumes the energy bar.
+<b>· </b>Energy bar system: Implemented the display and consumption mechanism of the energy bar."
+BrowserWindow/PRDetailed/FileContent1,Game execution logic
+BrowserWindow/PRDetailed/FileContent2,Score system
+BrowserWindow/PRDetailed/FileContent3,Fruit object management
+BrowserWindow/PRDetailed/FileContent4,Bomb object management <color=#CF001C>(to be modified)</color>
+BrowserWindow/PRDetailed/FileContent4(fixed),Bomb object management (Adjusted bomb explosion radius)
+BrowserWindow/PRDetailed/FileContent5,Player sprint system
+BrowserWindow/PRDetailed/FileContent6,Energy bar system
+BrowserWindow/PRDetailed/Msg_2_ReviewChange(FileChange)/MainContent,"Xin chào, sau nhiều lần chơi thử trò chơi, 
+trò chơi 'Snake' hiện đang chạy tốt. 
+
+Tuy nhiên, tôi nhận thấy bán kính nổ của quả bom có vẻ hơi lớn,
+có thể tác động tiêu cực đến trải nghiệm chơi game của người chơi. 
+
+Để duy trì sự cân bằng của trò chơi và khả năng chơi lại, 
+Tôi đề nghị điều chỉnh bán kính nổ của quả bom. 
+Cảm ơn."
+BrowserWindow/PRDetailed/Msg_2_ReviewChange(FileChange)/ReplyMessage1,Hãy điều chỉnh một chút bán kính nổ bom.
+BrowserWindow/PRDetailed/Msg_2_ReviewChange(FileChange)/ReplyMessage2,"Cảm ơn bạn đã gợi ý. 
+Tôi sẽ điều chỉnh bán kính nổ bom về giá trị hợp lý."
+BrowserWindow/PRDetailed/Msg_2_ReviewChange(FileChange)/ReplyMessage3,"Xin chào, tôi đã điều chỉnh bán kính nổ bom. 
+Điều này giờ đây sẽ giúp trò chơi luôn vui vẻ trong khi vẫn duy trì trải nghiệm đầy thử thách cho người chơi.
+Vui lòng xem lại yêu cầu hợp nhất này một lần nữa,
+cảm ơn bạn."
+BrowserWindow/PRDetailed/Msg_3_ReviewChange(Approve)_Approve,"Đã xem xét và xác nhận rằng bán kính nổ bom đã được thu nhỏ xuống phạm vi phù hợp hơn.
+Hơn nữa, trò chơi hiện đang chạy bình thường. 
+Đang phê duyệt yêu cầu hợp nhất này."
